@@ -20,5 +20,10 @@ General bugs:
 - em-dashes are regular dashes in the text files
 - doesn't work well with passive tense (e.g. his name was Willoughby)
 - mrs vs miss distinction when changing genders from mr 
+- the way that names currently work is the text finds all names it can find in this names database I imported and check if a work is a name in that database. doesn't work well with foreign texts (e.g. Anna Karenina) so it would be good to do it through a database of character names? (but sadly that is very hard to find online because it is... a very niche necessity lol)
+  - also currently some last names change but since they all change to the same last name i don't really think this is a bug
+
+Future potential things to do:
+- Romeo and Juliet
 
 Thank you to Project Gutenberg for the text!

@@ -11,8 +11,10 @@ female_to_male_prefix["Miss"] = "Mr"
 
 with open("names.json", "r") as f:
     names_json = json.loads(f.read())
-    male_names = sorted(names_json["men"])
-    female_names = sorted(names_json["women"])
+    male_names_list = sorted(names_json["men"])
+    female_names_list = sorted(names_json["women"])
+    male_names_set = set(names_json["men"])
+    female_names_set = set(names_json["women"])
 
 pride_and_prejudice = "pride-and-prejudice"
 jane_eyre = "jane-eyre"
@@ -117,16 +119,15 @@ Parameters:
 - filename (required): string of the filename in original-text directory
 - change_males (optional, default = True): boolean for whether to change male gender
 - change_females (optional, default = True): boolean for whether to change female gender
-- given_male_names (optional, default = None): set of male names in the text
-- given_female_names (optional, default = None): set of female names in the text
 """
-def change_genders(filename, change_males = True, change_females = True, given_male_names = None, given_female_names = None):
+def change_genders(filename, change_males = True, change_females = True):
     if not change_males and not change_females:
         return
     text_file = 'original-text/' + filename + '.txt'
     with open(text_file, 'r') as f:
         text = f.read()
         new_text = ""
+        name_changes = {}
         for paragraph in text.split("\n"):
             for word in paragraph.split(" "):
                 new_word = word.replace("_", "")
@@ -165,18 +166,18 @@ def change_genders(filename, change_males = True, change_females = True, given_m
                         new_word = chr(ord(new_gender_word[0]) - 32) + new_gender_word[1:]
                     else:
                         new_word = new_gender_word
+                elif change_males and len(new_word) > 0 and (new_word in male_names_set or new_word[0] + new_word[1:].lower() in male_names_set) and new_word not in name_changes:
+                    new_name = female_names_list[bisect.bisect_left(female_names_list, new_word)]
+                    name_changes[new_word.upper()] = new_name.upper()
+                    name_changes[new_word[0] + new_word[1:].lower()] = new_name
+                elif change_females and len(new_word) > 0 and (new_word in female_names_set or new_word[0] + new_word[1:].lower() in female_names_set) and new_word not in name_changes:
+                    new_name = male_names_list[bisect.bisect_left(male_names_list, new_word)]
+                    name_changes[new_word.upper()] = new_name.upper()
+                    name_changes[new_word[0] + new_word[1:].lower()] = new_name
                 new_text += start_punc + new_word + end_punc + " "
             new_text = new_text[:-1] + "\n"
-        if change_males and given_male_names:
-            for name in male_names:
-                new_name = female_names[bisect.bisect_left(female_names)]
-                new_text = new_text.replace(name, new_name)
-                new_text = new_text.replace(name.upper(), new_name.upper())
-        if change_females and given_female_names:
-            for name in female_names:
-                new_name = male_names[bisect.bisect_left(male_names)]
-                new_text = new_text.replace(name, new_name)
-                new_text = new_text.replace(name.upper(), new_name.upper())
+        for name in name_changes:
+            new_text = new_text.replace(name, name_changes[name])
         if change_males and change_females:
             textfile = open("modified-all-genders-text/" + filename + '.txt', "w")
         elif change_males:
