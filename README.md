@@ -19,6 +19,6 @@ General bugs:
 - I'm still unsure how to tackle when someone of the same gender is thinking of the love interest.
 - em-dashes are regular dashes in the text files
 - doesn't work well with passive tense (e.g. his name was Willoughby)
-- currently when changing genders for a mass group of people there are no name changes
+- mrs vs miss distinction when changing genders from mr 
 
 Thank you to Project Gutenberg for the text!

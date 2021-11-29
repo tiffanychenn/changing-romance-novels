@@ -7,6 +7,7 @@ female_to_male = {y:x for x,y in male_to_female.items()}
 
 male_to_female_prefix = {"Mr": "Mrs", "Count": "Countess"}
 female_to_male_prefix = {y:x for x,y in male_to_female_prefix.items()}
+female_to_male_prefix["Miss"] = "Mr"
 
 with open("names.json", "r") as f:
     names_json = json.loads(f.read())
