@@ -5,9 +5,12 @@ import json
 male_to_female = {"he": "she", "him": "her", "his": "her", "himself": "herself", "boy": "girl", "man": "woman", "gentleman": "lady", "son": "daughter", "sons": "daughters", "he's": "she's", "he'll": "she'll", "husband": "wife"}
 female_to_male = {y:x for x,y in male_to_female.items()}
 
-male_to_female_prefix = {"Mr": "Mrs", "Count": "Countess"}
+male_to_female_prefix = {"Mr": "Miss", "Count": "Countess"}
 female_to_male_prefix = {y:x for x,y in male_to_female_prefix.items()}
 female_to_male_prefix["Miss"] = "Mr"
+
+other_male_to_female = {"brother": "sister"}
+other_female_to_male =  {y:x for x,y in other_male_to_female.items()}
 
 with open("names.json", "r") as f:
     names_json = json.loads(f.read())
@@ -154,18 +157,22 @@ def change_genders(filename, change_males = True, change_females = True):
                         new_word = chr(ord(new_gender_word[0]) - 32) + new_gender_word[1:]
                     else:
                         new_word = new_gender_word
-                elif change_females and new_word.lower() in female_to_male_prefix:
-                    new_gender_word = female_to_male_prefix[new_word.lower()]
+                elif change_females and new_word.lower() in other_female_to_male:
+                    new_gender_word = other_female_to_male[new_word.lower()]
                     if ord(new_word[0]) < 96:
                         new_word = chr(ord(new_gender_word[0]) - 32) + new_gender_word[1:]
                     else:
                         new_word = new_gender_word
-                elif change_males and new_word.lower() in male_to_female_prefix:
-                    new_gender_word = male_to_female_prefix[new_word.lower()]
+                elif change_males and new_word.lower() in other_male_to_female:
+                    new_gender_word = other_male_to_female[new_word.lower()]
                     if ord(new_word[0]) < 96:
                         new_word = chr(ord(new_gender_word[0]) - 32) + new_gender_word[1:]
                     else:
                         new_word = new_gender_word
+                elif change_females and new_word in female_to_male_prefix:
+                    new_word = female_to_male_prefix[new_word]
+                elif change_males and new_word in male_to_female_prefix:
+                    new_word = male_to_female_prefix[new_word]
                 elif change_males and len(new_word) > 0 and (new_word in male_names_set or new_word[0] + new_word[1:].lower() in male_names_set) and new_word not in name_changes:
                     new_name = female_names_list[bisect.bisect_left(female_names_list, new_word)]
                     name_changes[new_word.upper()] = new_name.upper()
