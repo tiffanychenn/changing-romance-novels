@@ -7,7 +7,7 @@ female_to_male = {y:x for x,y in male_to_female.items()}
 
 male_to_female_prefix = {"Mr": "Miss", "Count": "Countess"}
 female_to_male_prefix = {y:x for x,y in male_to_female_prefix.items()}
-female_to_male_prefix["Miss"] = "Mr"
+female_to_male_prefix["Mrs"] = "Mr"
 
 other_male_to_female = {"brother": "sister"}
 other_female_to_male =  {y:x for x,y in other_male_to_female.items()}
@@ -129,6 +129,9 @@ def change_genders(filename, change_males = True, change_females = True):
     text_file = 'original-text/' + filename + '.txt'
     with open(text_file, 'r') as f:
         text = f.read()
+        text = text.replace("“", "\"")
+        text = text.replace("”", "\"")
+        text = text.replace("’", "'")
         new_text = ""
         name_changes = {}
         for paragraph in text.split("\n"):
