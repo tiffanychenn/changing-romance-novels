@@ -2,22 +2,25 @@ import string
 import bisect
 import json
 
-male_to_female = {"he": "she", "him": "her", "his": "her", "himself": "herself", "boy": "girl", "man": "woman", "gentleman": "lady", "son": "daughter", "sons": "daughters", "he's": "she's", "he'll": "she'll", "husband": "wife"}
+male_to_female = {"he": "she", "him": "her", "his": "her", "himself": "herself", "boy": "girl", "man": "woman", "gentleman": "lady", "son": "daughter", "lad": "lass", "he's": "she's", "he'll": "she'll", "husband": "wife"}
 female_to_male = {y:x for x,y in male_to_female.items()}
 
-male_to_female_prefix = {"Mr": "Miss", "Count": "Countess"}
+male_to_female_prefix = {"Mr": "Miss", "Sir": "Madam", "Count": "Countess", "Prince": "Princess", "King": "Queen", "Duke": "Duchess", "Lord": "Lady", "Baron":"Baroness"}
 female_to_male_prefix = {y:x for x,y in male_to_female_prefix.items()}
 female_to_male_prefix["Mrs"] = "Mr"
 
-other_male_to_female = {"brother": "sister"}
+other_male_to_female = {"brother": "sister", "brothers": "sisters", "sons": "daughters", "boys": "girls", "men": "women", "gentlemen": "ladies"}
 other_female_to_male =  {y:x for x,y in other_male_to_female.items()}
+
+gendered_to_nonbinary = {"brother": "sibling", "sister": "sibling", "brothers": "siblings", "sisters": "siblings", "sons": "children", "daughters": "children", "boys": "children", "girls":"children", "men": "people", "women": "people", "gentlemen": "people", "ladies": "people", "he": "they", "she": "they", "him": "them", "her": "them", "his": "their", "himself": "themself", "herself": "themself", "boy": "child", "girl": "child", "man": "person", "woman": "person", "gentleman": "person", "lady": "person", "son": "child", "daughter": "child", "lad": "child", "lass": "child", "he's": "they're", "she's": "they're", "he'll": "they'll", "she'll": "they'll", "husband": "partner", "wife": "partner"}
+gendered_to_nonbinary_prefix = {"Mr": "Mx", "Miss": "Mx", "Mrs": "Mx", "Count": "Earl", "Countess": "Earl", "Prince": "Heir", "Princess": "Heir", "King": "Monarch", "Queen": "Monarch", "Duke": "Jarl", "Duchess": "Jarl", "Lord": "Noble", "Lady": "Noble", "Baron": "Chief", "Baroness" : "Chief", "Sir": "Person", "Madam": "Person"}
 
 with open("names.json", "r") as f:
     names_json = json.loads(f.read())
-    male_names_list = sorted(names_json["men"])
-    female_names_list = sorted(names_json["women"])
-    male_names_set = set(names_json["men"])
-    female_names_set = set(names_json["women"])
+    male_names_list = sorted(names_json["boys"])
+    female_names_list = sorted(names_json["girls"])
+    male_names_set = set(names_json["boys"])
+    female_names_set = set(names_json["girls"])
 
 pride_and_prejudice = "pride-and-prejudice"
 jane_eyre = "jane-eyre"
@@ -26,6 +29,7 @@ persuasion = "persuasion"
 emma = "emma"
 sense_and_sensibility = "sense-and-sensibility"
 wuthering_heights = "wuthering-heights"
+romeo_and_juliet = "romeo-and-juliet"
 
 """
 Changes the gender for the main love interest (but also any character really)
@@ -122,8 +126,10 @@ Parameters:
 - filename (required): string of the filename in original-text directory
 - change_males (optional, default = True): boolean for whether to change male gender
 - change_females (optional, default = True): boolean for whether to change female gender
+- male_character_names (optional, default = None): set of male character names in original text to replace. if specified, overrides check if the name is in the names database.
+- female_character_names (optional, default = None): set of female character names in original text to replace. if specified, overrides check if the name is in the names database.
 """
-def change_genders(filename, change_males = True, change_females = True):
+def change_genders(filename, change_males = True, change_females = True, male_character_names=None, female_character_names=None):
     if not change_males and not change_females:
         return
     text_file = 'original-text/' + filename + '.txt'
@@ -176,11 +182,11 @@ def change_genders(filename, change_males = True, change_females = True):
                     new_word = female_to_male_prefix[new_word]
                 elif change_males and new_word in male_to_female_prefix:
                     new_word = male_to_female_prefix[new_word]
-                elif change_males and len(new_word) > 0 and (new_word in male_names_set or new_word[0] + new_word[1:].lower() in male_names_set) and new_word not in name_changes:
+                elif change_males and len(new_word) > 0 and new_word not in name_changes and ((male_character_names is not None and (new_word in male_character_names or new_word[0] + new_word[1:].lower() in male_character_names)) or (male_character_names is None and (new_word in male_names_set or new_word[0] + new_word[1:].lower() in male_names_set))):
                     new_name = female_names_list[bisect.bisect_left(female_names_list, new_word)]
                     name_changes[new_word.upper()] = new_name.upper()
                     name_changes[new_word[0] + new_word[1:].lower()] = new_name
-                elif change_females and len(new_word) > 0 and (new_word in female_names_set or new_word[0] + new_word[1:].lower() in female_names_set) and new_word not in name_changes:
+                elif change_females and len(new_word) > 0 and new_word not in name_changes and ((female_character_names is not None and (new_word in female_character_names or new_word[0] + new_word[1:].lower() in female_character_names)) or (female_character_names is None and (new_word in female_names_set or new_word[0] + new_word[1:].lower() in female_names_set))):
                     new_name = male_names_list[bisect.bisect_left(male_names_list, new_word)]
                     name_changes[new_word.upper()] = new_name.upper()
                     name_changes[new_word[0] + new_word[1:].lower()] = new_name
@@ -190,13 +196,13 @@ def change_genders(filename, change_males = True, change_females = True):
             new_text = new_text.replace(name, name_changes[name])
         if change_males and change_females:
             textfile = open("modified-all-genders-text/" + filename + '.txt', "w")
-        elif change_males:
+        elif change_females:
             textfile = open("modified-all-male-text/" + filename + '.txt', "w")
         else:
             textfile = open("modified-all-female-text/" + filename + '.txt', "w")
         textfile.write(new_text)
 
-change_genders(pride_and_prejudice)
+change_genders(pride_and_prejudice, male_character_names=set(["Fitzwilliam", "Charles", "George", "William", "Edward"]), female_character_names=set(["Elizabeth", "Lizzy", "Eliza", "Jane", "Lydia", "Kitty", "Catherine", "Mary", "Caroline", "Georgiana", "Charlotte"]))
 change_genders(jane_eyre)
 change_genders(anna_karenina)
 change_genders(persuasion)
@@ -205,7 +211,7 @@ change_genders(sense_and_sensibility)
 change_genders(wuthering_heights)
 
 # only change males
-change_genders(pride_and_prejudice, change_females=False)
+change_genders(pride_and_prejudice, change_females=False, male_character_names=set(["Fitzwilliam", "Charles", "George", "William", "Edward"]), female_character_names=set(["Elizabeth", "Lizzy", "Eliza", "Jane", "Lydia", "Kitty", "Catherine", "Mary", "Caroline", "Georgiana", "Charlotte"]))
 change_genders(jane_eyre, change_females=False)
 change_genders(anna_karenina, change_females=False)
 change_genders(persuasion, change_females=False)
@@ -214,10 +220,59 @@ change_genders(sense_and_sensibility, change_females=False)
 change_genders(wuthering_heights, change_females=False)
 
 # only change females
-change_genders(pride_and_prejudice, change_males=False)
+change_genders(pride_and_prejudice, change_males=False, male_character_names=set(["Fitzwilliam", "Charles", "George", "William", "Edward"]), female_character_names=set(["Elizabeth", "Lizzy", "Eliza", "Jane", "Lydia", "Kitty", "Catherine", "Mary", "Caroline", "Georgiana", "Charlotte"]))
 change_genders(jane_eyre, change_males=False)
 change_genders(anna_karenina, change_males=False)
 change_genders(persuasion, change_males=False)
 change_genders(emma, change_males=False)
 change_genders(sense_and_sensibility, change_males=False)
 change_genders(wuthering_heights, change_males=False)
+
+"""
+Changes all genders to nonbinary
+
+Parameters:
+- filename (required): string of the filename in original-text directory
+"""
+def change_nonbinary(filename):
+    text_file = 'original-text/' + filename + '.txt'
+    with open(text_file, 'r') as f:
+        text = f.read()
+        text = text.replace("“", "\"")
+        text = text.replace("”", "\"")
+        text = text.replace("’", "'")
+        new_text = ""
+        for paragraph in text.split("\n"):
+            for word in paragraph.split(" "):
+                new_word = word.replace("_", "")
+                start_punc = ""
+                end_punc = ""
+                if len(new_word) > 0 and new_word[0] in string.punctuation:
+                    start_punc = new_word[0]
+                    new_word = new_word[1:]
+                if len(new_word) > 1 and new_word[-1] in string.punctuation and new_word[-2] in string.punctuation:
+                    end_punc = new_word[-2:]
+                    new_word = new_word[:-2]
+                elif len(new_word) > 0 and new_word[-1] in string.punctuation:
+                    end_punc = new_word[-1]
+                    new_word = new_word[:-1]
+                if new_word.lower() in gendered_to_nonbinary:
+                    new_gender_word = gendered_to_nonbinary[new_word.lower()]
+                    if ord(new_word[0]) < 96:
+                        new_word = chr(ord(new_gender_word[0]) - 32) + new_gender_word[1:]
+                    else:
+                        new_word = new_gender_word
+                elif new_word in gendered_to_nonbinary_prefix:
+                    new_word = gendered_to_nonbinary_prefix[new_word]
+                new_text += start_punc + new_word + end_punc + " "
+            new_text = new_text[:-1] + "\n"
+        textfile = open("modified-nonbinary-text/" + filename + '.txt', "w")
+        textfile.write(new_text)
+
+change_nonbinary(pride_and_prejudice)
+change_nonbinary(jane_eyre)
+change_nonbinary(anna_karenina)
+change_nonbinary(persuasion)
+change_nonbinary(emma)
+change_nonbinary(sense_and_sensibility)
+change_nonbinary(wuthering_heights)
