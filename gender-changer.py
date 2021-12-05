@@ -43,13 +43,9 @@ Parameters:
 - male_to_female_bool (required): whether the gender is switching from male to female or from female to male
 - character_other_names (optional, default = None): other names that the character goes by
 - character_new_other_names (optional, default = None): new other names that the character goes by
-- update_modified_text (optional, default = False): whether to take the original text or the modified text to then edit
 """
-def change_gender(filename, other_characters, original_name, character_name, character_new_name, male_to_female_bool, character_other_names = None, character_new_other_names = None, update_modified_text = False):
-    if update_modified_text:
-        text_file = 'modified-love-interest-text/' + filename + '.txt'
-    else:
-        text_file = 'original-text/' + filename + '.txt'
+def change_gender(filename, other_characters, original_name, character_name, character_new_name, male_to_female_bool, character_other_names = None, character_new_other_names = None):
+    text_file = 'original-text/' + filename + '.txt'
     with open(text_file, 'r') as f:
         text = f.read()
         replaced_text = text.replace(character_name, character_new_name)
