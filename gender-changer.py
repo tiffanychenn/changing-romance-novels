@@ -1,7 +1,6 @@
 import string
 import bisect
 import json
-import enchant
 from helper import *
 
 male_to_female = {"he": "she", "him": "her", "his": "her", "himself": "herself", "boy": "girl", "man": "woman", "son": "daughter", "lad": "lass", "he's": "she's", "he'll": "she'll", "husband": "wife"}
@@ -164,9 +163,9 @@ change_genders(pride_and_prejudice, male_character_names=set(["Fitzwilliam", "Ch
 change_genders(jane_eyre)
 change_genders(anna_karenina)
 change_genders(persuasion)
-change_genders(emma)
-change_genders(sense_and_sensibility)
-change_genders(wuthering_heights)
+change_genders(emma, female_character_names= set(["Emma", "Harriet", "Jane", "Augusta", "Isabella" ]), male_character_names = set(["Frank", "Robert", "Philip", "Henry", "John", "William"]))
+change_genders(sense_and_sensibility, female_character_names = set(["Elinor", "Marianne", "Margaret", "Fanny", "Charlotte", "Lucy", "Anne", "Nancy", "Sophia", "Eliza"]), male_character_names = set(["Edward", "John", "Brandon", "Henry", "Robert", "Thomas"]))
+change_genders(wuthering_heights, female_character_names = set(["Catherine", "Ellen", "Nelly", "Isabella", "Cathy", "Frances", "Zillah"]), male_character_names = set(["Edgar", "Hindley", "Hareton", "Linton", "Joseph"]))
 change_genders(romeo_and_juliet, male_character_names=set(["Escalus", "Mercutio", "Paris", "Romeo", "Benvolio", "Abram", "Balthasar", "Tybalt", "Peter", "Sampson", "Gregory", "Lawrence", "John"]), female_character_names=set(["Juliet", "Rosaline"]))
 
 # only change males
@@ -174,9 +173,9 @@ change_genders(pride_and_prejudice, change_females=False, male_character_names=s
 change_genders(jane_eyre, change_females=False)
 change_genders(anna_karenina, change_females=False)
 change_genders(persuasion, change_females=False)
-change_genders(emma, change_females=False)
-change_genders(sense_and_sensibility, change_females=False)
-change_genders(wuthering_heights, change_females=False)
+change_genders(emma, change_females=False, female_character_names= set(["Emma", "Harriet", "Jane", "Augusta", "Isabella" ]), male_character_names = set(["Frank", "Robert", "Philip", "Henry", "John", "William"]))
+change_genders(sense_and_sensibility, change_females=False, female_character_names = set(["Elinor", "Marianne", "Margaret", "Fanny", "Charlotte", "Lucy", "Anne", "Nancy", "Sophia", "Eliza"]), male_character_names = set(["Edward", "John", "Brandon", "Henry", "Robert", "Thomas"]))
+change_genders(wuthering_heights, change_females=False, female_character_names = set(["Catherine", "Ellen", "Nelly", "Isabella", "Cathy", "Frances", "Zillah"]), male_character_names = set(["Edgar", "Hindley", "Hareton", "Linton", "Joseph"]))
 change_genders(romeo_and_juliet, change_females=False, male_character_names=set(["Escalus", "Mercutio", "Paris", "Romeo", "Benvolio", "Abram", "Balthasar", "Tybalt", "Peter", "Sampson", "Gregory", "Lawrence", "John"]), female_character_names=set(["Juliet", "Rosaline"]))
 
 # only change females
@@ -184,9 +183,9 @@ change_genders(pride_and_prejudice, change_males=False, male_character_names=set
 change_genders(jane_eyre, change_males=False)
 change_genders(anna_karenina, change_males=False)
 change_genders(persuasion, change_males=False)
-change_genders(emma, change_males=False)
-change_genders(sense_and_sensibility, change_males=False)
-change_genders(wuthering_heights, change_males=False)
+change_genders(emma, change_males=False, female_character_names= set(["Emma", "Harriet", "Jane", "Augusta", "Isabella" ]), male_character_names = set(["Frank", "Robert", "Philip", "Henry", "John", "William"]))
+change_genders(sense_and_sensibility, change_males=False, female_character_names = set(["Elinor", "Marianne", "Margaret", "Fanny", "Charlotte", "Lucy", "Anne", "Nancy", "Sophia", "Eliza"]), male_character_names = set(["Edward", "John", "Brandon", "Henry", "Robert", "Thomas"]))
+change_genders(wuthering_heights, change_males=False, female_character_names = set(["Catherine", "Ellen", "Nelly", "Isabella", "Cathy", "Frances", "Zillah"]), male_character_names = set(["Edgar", "Hindley", "Hareton", "Linton", "Joseph"]))
 change_genders(romeo_and_juliet, change_males=False, male_character_names=set(["Escalus", "Mercutio", "Paris", "Romeo", "Benvolio", "Abram", "Balthasar", "Tybalt", "Peter", "Sampson", "Gregory", "Lawrence", "John"]), female_character_names=set(["Juliet", "Rosaline"]))
 
 """
