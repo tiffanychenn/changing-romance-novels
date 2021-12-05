@@ -24,14 +24,15 @@ Note that all implementation started with me modifying _Pride and Prejudice_, so
 Found bugs:
 - I'm still unsure how to tackle when someone of the same gender is thinking of the love interest.
 - em-dashes are taken out in the new file and replaced with spaces because the em-dash is not in ascii
-- doesn't work well with passive tense (e.g. his name was Willoughby)
+- doesn't work well with passive voice (e.g. his name was Willoughby)
 - mrs vs miss distinction when changing genders from mr 
-- the way that names currently work is the text finds all names it can find in this names database I imported and check if a work is a name in that database. doesn't work well with foreign texts (e.g. Anna Karenina) so it would be good to do it through a database of character names? (but sadly that is very hard to find online because it is... a very niche necessity lol)
-- nicknames are very hard to do with the current way that my project is parsing. also foreign names don't work well (i think this is clear from _Anna Karenina_)
+- changing genders can be finicky because character names are hardcoded. when character names are not hardcoded, we use a gender api to check the gender of the name if it is not a word found in the English dictionary. this is apparent in my code for _Anna Karenina_, and also results in some last names being changed (whoops)
+- nicknames are very hard to do with the current way that my project is parsing names.
 - her can correspond to his and him
 
 Resources:
 - Project Gutenberg, for the stories
 - https://github.com/aruljohn/popular-baby-names, for the names
-- https://www.reddit.com/r/traaaaaaannnnnnnnnns/comments/ep7hhv/gender_netreul_words/ for ideas of gender neutral titles of power
+- https://www.reddit.com/r/traaaaaaannnnnnnnnns/comments/ep7hhv/gender_netreul_words/, for ideas of gender neutral titles of power
 - Wikipedia, for figuring out lists of character names for some of these works
+- https://gender-api.com/, for the gender name api 

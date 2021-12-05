@@ -1,6 +1,7 @@
 import string
 import bisect
 import json
+import enchant
 from helper import *
 
 male_to_female = {"he": "she", "him": "her", "his": "her", "himself": "herself", "boy": "girl", "man": "woman", "son": "daughter", "lad": "lass", "he's": "she's", "he'll": "she'll", "husband": "wife"}
@@ -15,6 +16,9 @@ other_female_to_male =  {y:x for x,y in other_male_to_female.items()}
 
 gendered_to_nonbinary = {"brother": "sibling", "sister": "sibling", "brothers": "siblings", "sisters": "siblings", "sons": "children", "daughters": "children", "boys": "children", "girls":"children", "men": "people", "women": "people", "gentlemen": "people", "ladies": "people", "he": "they", "she": "they", "him": "them", "her": "them", "his": "their", "himself": "themself", "herself": "themself", "boy": "child", "girl": "child", "man": "person", "woman": "person", "gentleman": "person", "lady": "person", "son": "child", "daughter": "child", "lad": "child", "lass": "child", "he's": "they're", "she's": "they're", "he'll": "they'll", "she'll": "they'll", "husband": "partner", "wife": "partner"}
 gendered_to_nonbinary_prefix = {"Mr": "Mx", "Miss": "Mx", "Mrs": "Mx", "Count": "Earl", "Countess": "Earl", "Prince": "Heir", "Princess": "Heir", "King": "Monarch", "Queen": "Monarch", "Duke": "Jarl", "Duchess": "Jarl", "Lord": "Noble", "Lady": "Noble", "Baron": "Chief", "Baroness" : "Chief", "Sir": "Person", "Madam": "Person"}
+
+with open("api_key.txt", "r") as f:
+    gender_name_api_key = f.read()
 
 with open("names.json", "r") as f:
     names_json = json.loads(f.read())
@@ -45,8 +49,9 @@ Parameters:
 - play_bool (required): whether the text modified is a play
 - character_other_names (optional, default = None): other names that the character goes by
 - character_new_other_names (optional, default = None): new other names that the character goes by
+- character_relationships (optional, default = None): relationships between characters, helps to change gender in dialogue. currently only used when play_bool is True; future work could involve expanding this to non-play text
 """
-def change_gender(filename, other_characters, original_name, character_name, character_new_name, male_to_female_bool, play_bool, character_other_names = None, character_new_other_names = None):
+def change_gender(filename, other_characters, original_name, character_name, character_new_name, male_to_female_bool, play_bool, character_other_names = None, character_new_other_names = None, character_relationships = None):
     text_file = 'original-text/' + filename + '.txt'
     with open(text_file, 'r') as f:
         text = f.read()
@@ -61,12 +66,16 @@ def change_gender(filename, other_characters, original_name, character_name, cha
         at_love_interest_no_dialogue = False
         at_love_interest_dialogue = False
         in_dialogue = False
+        curr_character_speaking = ""
         for paragraph in replaced_text.split("\n"):
             for word in paragraph.split(" "):
-                new_word = word.replace("_", "")
-                if len(new_word) > 0 and new_word[0] == "\"":
+                if len(word) > 0 and word[0] == "\"":
                     in_dialogue = True
                 start_punc, new_word, end_punc = get_word_separation(word)
+                if len(new_word) > 1 and new_word == new_word.upper():
+                    curr_character_speaking = new_word
+                if play_bool and curr_character_speaking in character_relationships and new_word.lower() in character_relationships[curr_character_speaking]:
+                    at_love_interest_no_dialogue = True
                 if (at_love_interest_no_dialogue and not in_dialogue) or (at_love_interest_dialogue and in_dialogue):
                     if male_to_female_bool and new_word.lower() in male_to_female:
                         new_word = get_new_word(new_word, male_to_female)
@@ -96,7 +105,7 @@ change_gender(persuasion, set(["Elliot", "Musgrove", "Croft", "Benwick", "Harvil
 change_gender(emma, set(["Churchill", "Martin", "Elton", "Weston", "Woodhouse", "John"]), "Knightley", "Mr. Knightley", "Miss Knightley", True, False)
 change_gender(sense_and_sensibility, set(["Ferrars", "Brandon", "Dashwood", "Middleton", "Palmer", "Harris", "Pratt"]), "Willoughby", "Mr. Willoughby", "Miss Willoughby", True, False, ["John Willoughby"], ["Jane Willoughby"])
 change_gender(wuthering_heights, set(["Nelly", "Cathy", "Isabella", "Frances", "Zillah"]), "Charles", "Catherine", "Charles", False, False)
-change_gender(romeo_and_juliet, set(["Rosaline", "Lady", "Nurse"]), "Julius", "Juliet", "Julius", False, True)
+# change_gender(romeo_and_juliet, set(["Rosaline", "Lady", "Mab", "Nurse"]), "Julius", "Juliet", "Julius", False, True, [], [], {"CAPULET": set(["daughter", "daughter's"])})
 
 """
 Changes all genders
@@ -158,7 +167,7 @@ change_genders(persuasion)
 change_genders(emma)
 change_genders(sense_and_sensibility)
 change_genders(wuthering_heights)
-change_genders(romeo_and_juliet)
+change_genders(romeo_and_juliet, male_character_names=set(["Escalus", "Mercutio", "Paris", "Romeo", "Benvolio", "Abram", "Balthasar", "Tybalt", "Peter", "Sampson", "Gregory", "Lawrence", "John"]), female_character_names=set(["Juliet", "Rosaline"]))
 
 # only change males
 change_genders(pride_and_prejudice, change_females=False, male_character_names=set(["Fitzwilliam", "Charles", "George", "William", "Edward"]), female_character_names=set(["Elizabeth", "Lizzy", "Eliza", "Jane", "Lydia", "Kitty", "Catherine", "Mary", "Caroline", "Georgiana", "Charlotte"]))
@@ -168,7 +177,7 @@ change_genders(persuasion, change_females=False)
 change_genders(emma, change_females=False)
 change_genders(sense_and_sensibility, change_females=False)
 change_genders(wuthering_heights, change_females=False)
-change_genders(romeo_and_juliet, change_females=False)
+change_genders(romeo_and_juliet, change_females=False, male_character_names=set(["Escalus", "Mercutio", "Paris", "Romeo", "Benvolio", "Abram", "Balthasar", "Tybalt", "Peter", "Sampson", "Gregory", "Lawrence", "John"]), female_character_names=set(["Juliet", "Rosaline"]))
 
 # only change females
 change_genders(pride_and_prejudice, change_males=False, male_character_names=set(["Fitzwilliam", "Charles", "George", "William", "Edward"]), female_character_names=set(["Elizabeth", "Lizzy", "Eliza", "Jane", "Lydia", "Kitty", "Catherine", "Mary", "Caroline", "Georgiana", "Charlotte"]))
@@ -178,7 +187,7 @@ change_genders(persuasion, change_males=False)
 change_genders(emma, change_males=False)
 change_genders(sense_and_sensibility, change_males=False)
 change_genders(wuthering_heights, change_males=False)
-change_genders(romeo_and_juliet, change_males=False)
+change_genders(romeo_and_juliet, change_males=False, male_character_names=set(["Escalus", "Mercutio", "Paris", "Romeo", "Benvolio", "Abram", "Balthasar", "Tybalt", "Peter", "Sampson", "Gregory", "Lawrence", "John"]), female_character_names=set(["Juliet", "Rosaline"]))
 
 """
 Changes all genders to nonbinary

@@ -1,4 +1,3 @@
-import enchant
 import string
 
 """
@@ -50,27 +49,6 @@ Parameters:
 """
 def get_new_word(word, mapping):
     new_word = mapping[word.lower()]
-    if ord(new_word[0]) < 96:
+    if ord(word[0]) < 96:
         return chr(ord(new_word[0]) - 32) + new_word[1:]
     return new_word
-
-"""
-Helper function to get all names in a file
-
-Parameters:
-- filename (required): string of the filename in original-text directory
-"""
-def get_names(filename):
-    text_file = 'original-text/' + filename + '.txt'
-    names = set()
-    d = enchant.Dict("en_US")
-    with open(text_file, 'r') as f:
-        text = clean_up_text(f.read())
-        for paragraph in text.split("\n"):
-            for word in paragraph.split(" "):
-                _, new_word, _ = get_word_separation(word)
-                if len(new_word) > 0 and not d.check(new_word) and not new_word.isnumeric() and ord(new_word[0]) < 96 and "." not in new_word and "-" not in new_word:
-                    names.add(new_word)
-    return names
-
-print(get_names("anna-karenina"))

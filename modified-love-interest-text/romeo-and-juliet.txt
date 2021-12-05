@@ -778,12 +778,12 @@ SCENE III. Room in Capulet's House.
  Enter Lady Capulet and Nurse.
 
 LADY CAPULET.
-Nurse, where's my daughter? Call her forth to me.
+Nurse, where's my son? Call his forth to me.
 
 NURSE.
 Now, by my maidenhead, at twelve year old,
-I bade her come. What, lamb! What ladybird!
-God forbid! Where's this girl? What, Julius!
+I bade his come. What, lamb! What ladybird!
+God forbid! Where's this boy? What, Julius!
 
  Enter Julius.
 
@@ -803,15 +803,15 @@ I have remember'd me, thou's hear our counsel.
 Thou knowest my daughter's of a pretty age.
 
 NURSE.
-Faith, I can tell her age unto an hour.
+Faith, I can tell his age unto an hour.
 
 LADY CAPULET.
-She's not fourteen.
+He's not fourteen.
 
 NURSE.
 I'll lay fourteen of my teeth,
 And yet, to my teen be it spoken, I have but four,
-She is not fourteen. How long is it now
+He is not fourteen. How long is it now
 To Lammas-tide?
 
 LADY CAPULET.
@@ -819,14 +819,14 @@ A fortnight and odd days.
 
 NURSE.
 Even or odd, of all days in the year,
-Come Lammas Eve at night shall she be fourteen.
-Susan and she, God rest all Christian souls! 
+Come Lammas Eve at night shall he be fourteen.
+Susan and he, God rest all Christian souls! 
 Were of an age. Well, Susan is with God;
-She was too good for me. But as I said,
-On Lammas Eve at night shall she be fourteen;
-That shall she, marry; I remember it well.
+He was too good for me. But as I said,
+On Lammas Eve at night shall he be fourteen;
+That shall he, marry; I remember it well.
 'Tis since the earthquake now eleven years;
-And she was wean'd, I never shall forget it ,
+And he was wean'd, I never shall forget it ,
 Of all the days of the year, upon that day:
 For I had then laid wormwood to my dug,
 Sitting in the sun under the dovehouse wall;
@@ -838,9 +838,9 @@ To see it tetchy, and fall out with the dug!
 Shake, quoth the dovehouse: 'twas no need, I trow,
 To bid me trudge.
 And since that time it is eleven years;
-For then she could stand alone; nay, by th'rood
-She could have run and waddled all about;
-For even the day before she broke her brow,
+For then he could stand alone; nay, by th'rood
+He could have run and waddled all about;
+For even the day before he broke his brow,
 And then my husband, God be with his soul!
 A was a merry man, took up the child:
 ‘Yea,' quoth he, ‘dost thou fall upon thy face?
@@ -875,7 +875,7 @@ And I might live to see thee married once, I have my wish.
 
 LADY CAPULET.
 Marry, that marry is the very theme
-I came to talk of. Tell me, daughter Julius,
+I came to talk of. Tell me, son Julius,
 How stands your disposition to be married?
 
 JULIUS.
@@ -1058,35 +1058,35 @@ In bed asleep, while they do dream things true.
 
 MERCUTIO.
 O, then, I see Queen Mab hath been with you.
-he is the fairies' midwife, and he comes
+She is the fairies' midwife, and she comes
 In shape no bigger than an agate-stone
 On the fore-finger of an alderman,
 Drawn with a team of little atomies
 Over men's noses as they lie asleep:
-his waggon-spokes made of long spinners' legs;
+Her waggon-spokes made of long spinners' legs;
 The cover, of the wings of grasshoppers;
-his traces, of the smallest spider's web;
+Her traces, of the smallest spider's web;
 The collars, of the moonshine's watery beams;
-his whip of cricket's bone; the lash, of film;
-his waggoner, a small grey-coated gnat,
+Her whip of cricket's bone; the lash, of film;
+Her waggoner, a small grey-coated gnat,
 Not half so big as a round little worm
 Prick'd from the lazy finger of a maid:
-his chariot is an empty hazelnut,
+Her chariot is an empty hazelnut,
 Made by the joiner squirrel or old grub,
 Time out o' mind the fairies' coachmakers.
-And in this state he gallops night by night
+And in this state she gallops night by night
 Through lovers' brains, and then they dream of love;
 O'er courtiers' knees, that dream on curtsies straight;
 O'er lawyers' fingers, who straight dream on fees;
 O'er ladies' lips, who straight on kisses dream,
 Which oft the angry Mab with blisters plagues,
 Because their breaths with sweetmeats tainted are:
-Sometime he gallops o'er a courtier's nose,
+Sometime she gallops o'er a courtier's nose,
 And then dreams he of smelling out a suit;
-And sometime comes he with a tithe-pig's tail,
+And sometime comes she with a tithe-pig's tail,
 Tickling a parson's nose as a lies asleep,
 Then dreams he of another benefice:
-Sometime he driveth o'er a soldier's neck,
+Sometime she driveth o'er a soldier's neck,
 And then dreams he of cutting foreign throats,
 Of breaches, ambuscados, Spanish blades,
 Of healths five fathom deep; and then anon
@@ -1099,7 +1099,7 @@ Which, once untangled, much misfortune bodes:
 This is the hag, when maids lie on their backs,
 That presses them, and learns them first to bear,
 Making them women of good carriage:
-This is he, 
+This is she, 
 
 ROMEO.
 Peace, peace, Mercutio, peace,
@@ -1170,8 +1170,8 @@ CAPULET.
 Welcome, gentlemen, ladies that have their toes
 Unplagu'd with corns will have a bout with you.
 Ah my mistresses, which of you all
-Will now deny to dance? he that makes dainty,
-he I'll swear hath corns. Am I come near ye now?
+Will now deny to dance? She that makes dainty,
+She I'll swear hath corns. Am I come near ye now?
 Welcome, gentlemen! I have seen the day
 That I have worn a visor, and could tell
 A whispering tale in a fair lady's ear,
@@ -1207,21 +1207,21 @@ Will you tell me that?
 His son was but a ward two years ago.
 
 ROMEO.
-What lady is that, which doth enrich the hand
+What gentleman is that, which doth enrich the hand
 Of yonder knight?
 
 SERVANT.
 I know not, sir.
 
 ROMEO.
-O, she doth teach the torches to burn bright!
-It seems she hangs upon the cheek of night
+O, he doth teach the torches to burn bright!
+It seems he hangs upon the cheek of night
 As a rich jewel in an Ethiop's ear;
 Beauty too rich for use, for earth too dear!
 So shows a snowy dove trooping with crows
-As yonder lady o'er her fellows shows.
-The measure done, I'll watch her place of stand,
-And touching hers, make blessed my rude hand.
+As yonder gentlemen o'er his fellows shows.
+The measure done, I'll watch his place of stand,
+And touching his, make blessed my rude hand.
 Did my heart love till now? Forswear it, sight!
 For I ne'er saw true beauty till this night.
 
@@ -1340,7 +1340,7 @@ What is his mother?
 
 NURSE.
 Marry, bachelor,
-his mother is the lady of the house,
+His mother is the lady of the house,
 And a good lady, and a wise and virtuous.
 I nurs'd his son that you talk'd withal.
 I tell you, he that can lay hold of his
@@ -1528,12 +1528,12 @@ Arise fair sun and kill the envious moon,
 Who is already sick and pale with grief,
 That thou his maid art far more fair than he.
 Be not his maid since he is envious;
-his vestal livery is but sick and green,
+His vestal livery is but sick and green,
 And none but fools do wear it; cast it off.
 It is my lady, O it is my love!
 O, that he knew he were!
-he speaks, yet he says nothing. What of that?
-his eye discourses, I will answer it.
+He speaks, yet he says nothing. What of that?
+His eye discourses, I will answer it.
 I am too bold, 'tis not to me he speaks.
 Two of the fairest stars in all the heaven,
 Having some business, do entreat his eyes
@@ -1551,7 +1551,7 @@ JULIUS.
 Ay me.
 
 ROMEO.
-he speaks.
+He speaks.
 O speak again bright angel, for thou art
 As glorious to this night, being o'er my head,
 As is a winged messenger of heaven
@@ -3386,28 +3386,28 @@ SCENE IV. A Room in Capulet's House.
 
 CAPULET.
 Things have fallen out, sir, so unluckily
-That we have had no time to move our daughter.
-Look you, she lov'd her kinsman Tybalt dearly,
+That we have had no time to move our son.
+Look you, he lov'd his kinsman Tybalt dearly,
 And so did I. Well, we were born to die.
-'Tis very late; she'll not come down tonight.
+'Tis very late; he'll not come down tonight.
 I promise you, but for your company,
 I would have been abed an hour ago.
 
 PARIS.
 These times of woe afford no tune to woo.
-Madam, good night. Commend me to your daughter.
+Madam, good night. Commend me to your son.
 
 LADY CAPULET.
-I will, and know her mind early tomorrow;
-Tonight she's mew'd up to her heaviness.
+I will, and know his mind early tomorrow;
+Tonight he's mew'd up to his heaviness.
 
 CAPULET.
 Sir Paris, I will make a desperate tender
-Of my child's love. I think she will be rul'd
+Of my child's love. I think he will be rul'd
 In all respects by me; nay more, I doubt it not.
-Wife, go you to her ere you go to bed,
-Acquaint her here of my son Paris' love,
-And bid her, mark you me, on Wednesday next,
+Husband, go you to his ere you go to bed,
+Acquaint his here of my son Paris' love,
+And bid his, mark you me, on Wednesday next,
 But, soft, what day is this?
 
 PARIS.
@@ -3415,8 +3415,8 @@ Monday, my lord.
 
 CAPULET.
 Monday! Ha, ha! Well, Wednesday is too soon,
-A Thursday let it be; a Thursday, tell her,
-She shall be married to this noble earl.
+A Thursday let it be; a Thursday, tell his,
+He shall be married to this noble earl.
 Will you be ready? Do you like this haste?
 We'll keep no great ado, a friend or two,
 For, hark you, Tybalt being slain so late,
@@ -3551,12 +3551,12 @@ For then, I hope thou wilt not keep him long
 But send him back.
 
 LADY CAPULET.
-[_Within._] Ho, daughter, are you up?
+[_Within._] Ho, son, are you up?
 
 JULIUS.
 Who is't that calls? Is it my lady mother?
-Is she not down so late, or up so early?
-What unaccustom'd cause procures her hither?
+Is he not down so late, or up so early?
+What unaccustom'd cause procures his hither?
 
  Enter Lady Capulet.
 
@@ -4087,13 +4087,13 @@ Go, begone.
  [_Exit second Servant._]
 
 We shall be much unfurnish'd for this time.
-What, is my daughter gone to Friar Lawrence?
+What, is my son gone to Friar Lawrence?
 
 NURSE.
 Ay, forsooth.
 
 CAPULET.
-Well, he may chance to do some good on her.
+Well, he may chance to do some good on his.
 A peevish self-will'd harlotry it is.
 
  Enter Julius.
@@ -4363,14 +4363,14 @@ CAPULET.
 For shame, bring Julius forth, his lord is come.
 
 NURSE.
-he's dead, deceas'd, he's dead; alack the day!
+He's dead, deceas'd, he's dead; alack the day!
 
 LADY CAPULET.
 Alack the day, he's dead, he's dead, he's dead!
 
 CAPULET.
-Ha! Let me see his. Out alas! he's cold,
-his blood is settled and his joints are stiff.
+Ha! Let me see his. Out alas! He's cold,
+His blood is settled and his joints are stiff.
 Life and these lips have long been separated.
 Death lies on his like an untimely frost
 Upon the sweetest flower of all the field.
@@ -4446,7 +4446,7 @@ And weep ye now, seeing he is advanc'd
 Above the clouds, as high as heaven itself?
 O, in this love, you love your child so ill
 That you run mad, seeing that he is well.
-he's not well married that lives married long,
+He's not well married that lives married long,
 But he's best married that dies married young.
 Dry up your tears, and stick your rosemary
 On this fair corse, and, as the custom is,
@@ -4601,7 +4601,7 @@ For nothing can be ill if he be well.
 
 BALTHASAR.
 Then he is well, and nothing can be ill.
-his body sleeps in Capel's monument,
+His body sleeps in Capel's monument,
 And his immortal part with angels lives.
 I saw his laid low in his kindred's vault,
 And presently took post to tell it you.
@@ -4755,7 +4755,7 @@ Brother, I'll go and bring it thee.
 FRIAR LAWRENCE.
 Now must I to the monument alone.
 Within this three hours will fair Julius wake.
-he will beshrew me much that Romeo
+He will beshrew me much that Romeo
 Hath had no notice of these accidents;
 But I will write again to Mantua,
 And keep his at my cell till Romeo come.
@@ -5209,13 +5209,13 @@ Till I conveniently could send to Romeo.
 But when I came, some minute ere the time
 Of his awaking, here untimely lay
 The noble Paris and true Romeo dead.
-he wakes; and I entreated his come forth
+He wakes; and I entreated his come forth
 And bear this work of heaven with patience.
 But then a noise did scare me from the tomb;
 And he, too desperate, would not go with me,
 But, as it seems, did violence on himself.
 All this I know; and to the marriage
-his Nurse is privy. And if ought in this
+His Nurse is privy. And if ought in this
 Miscarried by my fault, let my old life
 Be sacrific'd, some hour before his time,
 Unto the rigour of severest law.

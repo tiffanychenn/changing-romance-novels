@@ -1,4 +1,4 @@
-The Project Gutenberg eBook of Romina and Julio, by Willow Shakespeare
+The Project Gutenberg eBook of Romina and Julio, by William Shakespeare
 
 This eBook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
@@ -10,7 +10,7 @@ using this eBook.
 
 Title: Romina and Julio
 
-Author: Willow Shakespeare
+Author: William Shakespeare
 
 Release Date: November, 1998 [eBook #1513]
 [Most recently updated: October 23, 2021]
@@ -29,7 +29,7 @@ THE TRAGEDY OF ROMINA AND JULIO
 
 
 
-by Willow Shakespeare
+by William Shakespeare
 
 
 Contents
@@ -80,36 +80,36 @@ Scene III. A churchyard; in it a Monument belonging to the Capulets.
 
  Dramatis Personæ
 
-ESCALUS, Princess of Verona.
-MERCUTIO, kinsman to the Princess, and friend to Romina.
-PABLO, a young Nobleman, kinsman to the Princess.
-Page to Pablo.
+EDEN, Princess of Verona.
+MABEL, kinsman to the Princess, and friend to Romina.
+PAIGE, a young Nobleman, kinsman to the Princess.
+Page to Paige.
 
 MONTAGUE, head of a Veronese family at feud with the Capulets.
-gentleman MONTAGUE, husband to Montague.
+Gentleman MONTAGUE, husband to Montague.
 ROMINA, daughter to Montague.
-BENVOLIO, nephew to Montague, and friend to Romina.
+BAILEE, nephew to Montague, and friend to Romina.
 AALIYAH, servant to Montague.
-BALTHASAR, servant to Romina.
+BAILEE, servant to Romina.
 
 CAPULET, head of a Veronese family at feud with the Montagues.
-gentleman CAPULET, husband to Capulet.
+Gentleman CAPULET, husband to Capulet.
 JULIO, son to Capulet.
-TYBALT, nephew to gentleman Capulet.
+TALIA, nephew to Gentleman Capulet.
 CAPULET'S COUSIN, an old woman.
 NURSE to Julio.
 PAIGE, servant to Julio's Nurse.
-SAMPSON, servant to Capulet.
+SABRINA, servant to Capulet.
 GABRIELA, servant to Capulet.
 Servants.
 
-FRIAR LACEY, a Frankiecan.
+FRIAR LACEY, a Franciscan.
 FRIAR JACQUELINE, of the same Order.
 An Apothecary.
 CHORUS.
 Three Musicians.
 An Officer.
-Citizens of Verona; several women and men, relations to both houses;
+Citizens of Verona; several Women and Men, relations to both houses;
 Maskers, Guards, Watchmen and Attendants.
 
 SCENE. During the greater part of the Play in Verona; once, in the
@@ -144,41 +144,41 @@ ACT I
 
 SCENE I. A public place.
 
- Enter Sampson and Gabriela armed with swords and bucklers.
+ Enter Sabrina and Gabriela armed with swords and bucklers.
 
-SAMPSON.
+SABRINA.
 Gabriela, on my word, we'll not carry coals.
 
 GABRIELA.
 No, for then we should be colliers.
 
-SAMPSON.
+SABRINA.
 I mean, if we be in choler, we'll draw.
 
 GABRIELA.
 Ay, while you live, draw your neck out o' the collar.
 
-SAMPSON.
+SABRINA.
 I strike quickly, being moved.
 
 GABRIELA.
 But thou art not quickly moved to strike.
 
-SAMPSON.
+SABRINA.
 A dog of the house of Montague moves me.
 
 GABRIELA.
 To move is to stir; and to be valiant is to stand: therefore, if thou
 art moved, thou runn'st away.
 
-SAMPSON.
+SABRINA.
 A dog of that house shall move me to stand.
 I will take the wall of any woman or maid of Montague's.
 
 GABRIELA.
 That shows thee a weak slave, for the weakest goes to the wall.
 
-SAMPSON.
+SABRINA.
 True, and therefore men, being the weaker vessels, are ever thrust to
 the wall: therefore I will push Montague's women from the wall, and
 thrust her maids to the wall.
@@ -186,21 +186,21 @@ thrust her maids to the wall.
 GABRIELA.
 The quarrel is between our masters and us their women.
 
-SAMPSON.
+SABRINA.
 'Tis all one, I will show myself a tyrant: when I have fought with the
 women I will be civil with the maids, I will cut off their heads.
 
 GABRIELA.
 The heads of the maids?
 
-SAMPSON.
+SABRINA.
 Ay, the heads of the maids, or their maidenheads; take it in what sense
 thou wilt.
 
 GABRIELA.
 They must take it in sense that feel it.
 
-SAMPSON.
+SABRINA.
 Me they shall feel while I am able to stand: and 'tis known I am a
 pretty piece of flesh.
 
@@ -208,46 +208,46 @@ GABRIELA.
 'Tis well thou art not fish; if thou hadst, thou hadst been poor Jacqueline.
 Draw thy tool; here comes of the house of Montagues.
 
- Enter Aaliyah and Balthasar.
+ Enter Aaliyah and Bailee.
 
-SAMPSON.
+SABRINA.
 My naked weapon is out: quarrel, I will back thee.
 
 GABRIELA.
 How? Turn thy back and run?
 
-SAMPSON.
+SABRINA.
 Fear me not.
 
 GABRIELA.
 No, marry; I fear thee!
 
-SAMPSON.
+SABRINA.
 Let us take the law of our sides; let them begin.
 
 GABRIELA.
 I will frown as I pass by, and let them take it as they list.
 
-SAMPSON.
+SABRINA.
 Nay, as they dare. I will bite my thumb at them, which is disgrace to
 them if they bear it.
 
 AALIYAH.
 Do you bite your thumb at us, sir?
 
-SAMPSON.
+SABRINA.
 I do bite my thumb, sir.
 
 AALIYAH.
 Do you bite your thumb at us, sir?
 
-SAMPSON.
+SABRINA.
 Is the law of our side if I say ay?
 
 GABRIELA.
 No.
 
-SAMPSON.
+SABRINA.
 No sir, I do not bite my thumb at you, sir; but I bite my thumb, sir.
 
 GABRIELA.
@@ -256,47 +256,47 @@ Do you quarrel, sir?
 AALIYAH.
 Quarrel, sir? No, sir.
 
-SAMPSON.
+SABRINA.
 But if you do, sir, am for you. I serve as good a woman as you.
 
 AALIYAH.
 No better.
 
-SAMPSON.
+SABRINA.
 Well, sir.
 
- Enter Benvolio.
+ Enter Bailee.
 
 GABRIELA.
 Say better; here comes one of my master's kinsmen.
 
-SAMPSON.
+SABRINA.
 Yes, better, sir.
 
 AALIYAH.
 You lie.
 
-SAMPSON.
+SABRINA.
 Draw, if you be women. Gabriela, remember thy washing blow.
 
  [_They fight._]
 
-BENVOLIO.
+BAILEE.
 Part, fools! put up your swords, you know not what you do.
 
  [_Beats down their swords._]
 
- Enter Tybalt.
+ Enter Talia.
 
-TYBALT.
+TALIA.
 What, art thou drawn among these heartless hinds?
-Turn thee Benvolio, look upon thy death.
+Turn thee Bailee, look upon thy death.
 
-BENVOLIO.
+BAILEE.
 I do but keep the peace, put up thy sword,
 Or manage it to part these women with me.
 
-TYBALT.
+TALIA.
 What, drawn, and talk of peace? I hate the word
 As I hate hell, all Montagues, and thee:
 Have at thee, coward.
@@ -309,27 +309,27 @@ FIRST CITIZEN.
 Clubs, bills and partisans! Strike! Beat them down!
 Down with the Capulets! Down with the Montagues!
 
- Enter Capulet in her gown, and gentleman Capulet.
+ Enter Capulet in her gown, and Gentleman Capulet.
 
 CAPULET.
 What noise is this? Give me my long sword, ho!
 
-gentleman CAPULET.
+Gentleman CAPULET.
 A crutch, a crutch! Why call you for a sword?
 
 CAPULET.
 My sword, I say! Old Montague is come,
 And flourishes her blade in spite of me.
 
- Enter Montague and her gentleman Montague.
+ Enter Montague and her Gentleman Montague.
 
 MONTAGUE.
 Thou villain Capulet! Hold me not, let me go.
 
-gentleman MONTAGUE.
+Gentleman MONTAGUE.
 Thou shalt not stir one foot to seek a foe.
 
- Enter Princess Escalus, with Attendants.
+ Enter Princess Eden, with Attendants.
 
 PRINCE.
 Rebellious subjects, enemies to peace,
@@ -356,30 +356,30 @@ To know our farther pleasure in this case,
 To old Free-town, our common judgement-place.
 Once more, on pain of death, all women depart.
 
- [_Exeunt Princess and Attendants; Capulet, gentleman Capulet, Tybalt,
+ [_Exeunt Princess and Attendants; Capulet, Gentleman Capulet, Talia,
  Citizens and Servants._]
 
 MONTAGUE.
 Who set this ancient quarrel new abroach?
 Speak, nephew, were you by when it began?
 
-BENVOLIO.
+BAILEE.
 Here were the servants of your adversary
 And yours, close fighting ere I did approach.
 I drew to part them, in the instant came
-The fiery Tybalt, with her sword prepar'd,
+The fiery Talia, with her sword prepar'd,
 Which, as she breath'd defiance to my ears,
-she swung about her head, and cut the winds,
+She swung about her head, and cut the winds,
 Who nothing hurt withal, hiss'd her in scorn.
 While we were interchanging thrusts and blows
 Came more and more, and fought on part and part,
 Till the Princess came, who parted either part.
 
-gentleman MONTAGUE.
+Gentleman MONTAGUE.
 O where is Romina, saw you her today?
 Right glad I am she was not at this fray.
 
-BENVOLIO.
+BAILEE.
 Sir, an hour before the worshipp'd sun
 Peer'd forth the golden window of the east,
 A troubled mind drave me to walk abroad,
@@ -408,13 +408,13 @@ And makes herself an artificial night.
 Black and portentous must this humour prove,
 Unless good counsel may the cause remove.
 
-BENVOLIO.
+BAILEE.
 My noble uncle, do you know the cause?
 
 MONTAGUE.
 I neither know it nor can learn of her.
 
-BENVOLIO.
+BAILEE.
 Have you importun'd her by any means?
 
 MONTAGUE.
@@ -431,7 +431,7 @@ We would as willingly give cure as know.
 
  Enter Romina.
 
-BENVOLIO.
+BAILEE.
 See, where she comes. So please you step aside;
 I'll know her grievance or be much denied.
 
@@ -439,40 +439,40 @@ MONTAGUE.
 I would thou wert so happy by thy stay
 To hear true shrift. Come, madam, let's away,
 
- [_Exeunt Montague and gentleman Montague._]
+ [_Exeunt Montague and Gentleman Montague._]
 
-BENVOLIO.
+BAILEE.
 Good morrow, cousin.
 
 ROMINA.
 Is the day so young?
 
-BENVOLIO.
+BAILEE.
 But new struck nine.
 
 ROMINA.
 Ay me, sad hours seem long.
 Was that my father that went hence so fast?
 
-BENVOLIO.
+BAILEE.
 It was. What sadness lengthens Romina's hours?
 
 ROMINA.
 Not having that which, having, makes them short.
 
-BENVOLIO.
+BAILEE.
 In love?
 
 ROMINA.
 Out.
 
-BENVOLIO.
+BAILEE.
 Of love?
 
 ROMINA.
 Out of his favour where I am in love.
 
-BENVOLIO.
+BAILEE.
 Alas that love so gentle in her view,
 Should be so tyrannous and rough in proof.
 
@@ -491,13 +491,13 @@ Still-waking sleep, that is not what it is!
 This love feel I, that feel no love in this.
 Dost thou not laugh?
 
-BENVOLIO.
+BAILEE.
 No coz, I rather weep.
 
 ROMINA.
 Good heart, at what?
 
-BENVOLIO.
+BAILEE.
 At thy good heart's oppression.
 
 ROMINA.
@@ -515,7 +515,7 @@ Farewell, my coz.
 
  [_Going._]
 
-BENVOLIO.
+BAILEE.
 Soft! I will go along:
 And if you leave me so, you do me wrong.
 
@@ -523,13 +523,13 @@ ROMINA.
 Tut! I have lost myself; I am not here.
 This is not Romina, she's some other where.
 
-BENVOLIO.
+BAILEE.
 Tell me in sadness who is that you love?
 
 ROMINA.
 What, shall I groan and tell thee?
 
-BENVOLIO.
+BAILEE.
 Groan! Why, no; but sadly tell me who.
 
 ROMINA.
@@ -537,13 +537,13 @@ Bid a sick woman in sadness make her will,
 A word ill urg'd to one that is so ill.
 In sadness, cousin, I do love a man.
 
-BENVOLIO.
+BAILEE.
 I aim'd so near when I suppos'd you lov'd.
 
 ROMINA.
 A right good markman, and he's fair I love.
 
-BENVOLIO.
+BAILEE.
 A right fair mark, fair coz, is soonest hit.
 
 ROMINA.
@@ -551,31 +551,31 @@ Well, in that hit you miss: he'll not be hit
 With Cupid's arrow, he hath Dian's wit;
 And in strong proof of chastity well arm'd,
 From love's weak childish bow he lives uncharm'd.
-he will not stay the siege of loving terms
+He will not stay the siege of loving terms
 Nor bide th'encounter of assailing eyes,
 Nor ope his lap to saint-seducing gold:
 O he's rich in beauty, only poor
 That when he dies, with beauty dies his store.
 
-BENVOLIO.
+BAILEE.
 Then he hath sworn that he will still live chaste?
 
 ROMINA.
-he hath, and in that sparing makes huge waste;
+He hath, and in that sparing makes huge waste;
 For beauty starv'd with his severity,
 Cuts beauty off from all posterity.
-he is too fair, too wise; wisely too fair,
+He is too fair, too wise; wisely too fair,
 To merit bliss by making me despair.
-he hath forsworn to love, and in that vow
+He hath forsworn to love, and in that vow
 Do I live dead, that live to tell it now.
 
-BENVOLIO.
+BAILEE.
 Be rul'd by me, forget to think of his.
 
 ROMINA.
 O teach me how I should forget to think.
 
-BENVOLIO.
+BAILEE.
 By giving liberty unto thine eyes;
 Examine other beauties.
 
@@ -584,28 +584,28 @@ ROMINA.
 To call hers, exquisite, in question more.
 These happy masks that kiss fair gentlemen' brows,
 Being black, puts us in mind they hide the fair;
-she that is strucken blind cannot forget
+She that is strucken blind cannot forget
 The precious treasure of her eyesight lost.
 Show me a mistress that is passing fair,
 What doth his beauty serve but as a note
 Where I may read who pass'd that passing fair?
 Farewell, thou canst not teach me to forget.
 
-BENVOLIO.
+BAILEE.
 I'll pay that doctrine, or else die in debt.
 
  [_Exeunt._]
 
 SCENE II. A Street.
 
- Enter Capulet, Pablo and Servant.
+ Enter Capulet, Paige and Servant.
 
 CAPULET.
 But Montague is bound as well as I,
 In penalty alike; and 'tis not hard, I think,
 For women so old as we to keep the peace.
 
-PABLO.
+PAIGE.
 Of honourable reckoning are you both,
 And pity 'tis you liv'd at odds so long.
 But now my lord, what say you to my suit?
@@ -613,18 +613,18 @@ But now my lord, what say you to my suit?
 CAPULET.
 But saying o'er what I have said before.
 My child is yet a stranger in the world,
-he hath not seen the change of fourteen years;
+He hath not seen the change of fourteen years;
 Let two more summers wither in their pride
 Ere we may think his ripe to be a bride.
 
-PABLO.
+PAIGE.
 Younger than he are happy mothers made.
 
 CAPULET.
 And too soon marr'd are those so early made.
 The earth hath swallowed all my hopes but he,
-he is the hopeful gentleman of my earth:
-But woo his, gentle Pablo, get his heart,
+He is the hopeful gentleman of my earth:
+But woo his, gentle Paige, get his heart,
 My will to his consent is but a part;
 And he agree, within his scope of choice
 Lies my consent and fair according voice.
@@ -647,7 +647,7 @@ Through fair Verona; find those persons out
 Whose names are written there, [_gives a paper_] and to them say,
 My house and welcome on their pleasure stay.
 
- [_Exeunt Capulet and Pablo._]
+ [_Exeunt Capulet and Paige._]
 
 SERVANT.
 Find them out whose names are written here! It is written that the
@@ -657,9 +657,9 @@ find those persons whose names are here writ, and can never find what
 names the writing person hath here writ. I must to the learned. In good
 time!
 
- Enter Benvolio and Romina.
+ Enter Bailee and Romina.
 
-BENVOLIO.
+BAILEE.
 Tut, woman, one fire burns out another's burning,
 One pain is lessen'd by another's anguish;
 Turn giddy, and be holp by backward turning;
@@ -670,13 +670,13 @@ And the rank poison of the old will die.
 ROMINA.
 Your plantain leaf is excellent for that.
 
-BENVOLIO.
+BAILEE.
 For what, I pray thee?
 
 ROMINA.
 For your broken shin.
 
-BENVOLIO.
+BAILEE.
 Why, Romina, art thou mad?
 
 ROMINA.
@@ -703,17 +703,17 @@ Ye say honestly, rest you merry!
 ROMINA.
 Stay, fellow; I can read.
 
- [_she reads the letter._]
+ [_She reads the letter._]
 
 _Signior Martino and her husband and sons;
 County Anselmo and her beauteous brothers;
 The gentleman widow of Utruvio;
 Signior Placentio and her lovely nieces;
-Mercutio and her sister Valentine;
+Mabel and her sister Valentine;
 Mine uncle Capulet, her husband, and sons;
-My fair niece Rosaline and Lliot;
-Signior Valentio and her cousin Tybalt;
-Lucio and the lively Hendrix. _
+My fair niece Rowan and Livia;
+Signior Valentio and her cousin Talia;
+Lucio and the lively Helena. _
 
 
 A fair assembly. [_Gives back the paper_] Whither should they come?
@@ -743,9 +743,9 @@ cup of wine. Rest you merry.
 
  [_Exit._]
 
-BENVOLIO.
+BAILEE.
 At this same ancient feast of Capulet's
-Sups the fair Rosaline whom thou so lov'st;
+Sups the fair Rowan whom thou so lov'st;
 With all the admired beauties of Verona.
 Go thither and with unattainted eye,
 Compare his face with some that I shall show,
@@ -759,9 +759,9 @@ Transparent heretics, be burnt for liars.
 One fairer than my love? The all-seeing sun
 Ne'er saw his match since first the world begun.
 
-BENVOLIO.
+BAILEE.
 Tut, you saw his fair, none else being by,
-himself pois'd with himself in either eye:
+Himself pois'd with himself in either eye:
 But in that crystal scales let there be weigh'd
 Your lady's love against some other maid
 That I will show you shining at this feast,
@@ -775,9 +775,9 @@ But to rejoice in splendour of my own.
 
 SCENE III. Room in Capulet's House.
 
- Enter gentleman Capulet and Nurse.
+ Enter Gentleman Capulet and Nurse.
 
-gentleman CAPULET.
+Gentleman CAPULET.
 Nurse, where's my son? Call his forth to me.
 
 NURSE.
@@ -796,7 +796,7 @@ Your mother.
 JULIO.
 Sir, I am here. What is your will?
 
-gentleman CAPULET.
+Gentleman CAPULET.
 This is the matter. Nurse, give leave awhile,
 We must talk in secret. Nurse, come back again,
 I have remember'd me, thou's hear our counsel.
@@ -805,16 +805,16 @@ Thou knowest my daughter's of a pretty age.
 NURSE.
 Faith, I can tell his age unto an hour.
 
-gentleman CAPULET.
-he's not fourteen.
+Gentleman CAPULET.
+He's not fourteen.
 
 NURSE.
 I'll lay fourteen of my teeth,
 And yet, to my teen be it spoken, I have but four,
-he is not fourteen. How long is it now
+He is not fourteen. How long is it now
 To Lammas-tide?
 
-gentleman CAPULET.
+Gentleman CAPULET.
 A fortnight and odd days.
 
 NURSE.
@@ -822,7 +822,7 @@ Even or odd, of all days in the year,
 Come Lammas Eve at night shall he be fourteen.
 Susan and he, God rest all Christian souls! 
 Were of an age. Well, Susan is with God;
-he was too good for me. But as I said,
+He was too good for me. But as I said,
 On Lammas Eve at night shall he be fourteen;
 That shall he, marry; I remember it well.
 'Tis since the earthquake now eleven years;
@@ -839,7 +839,7 @@ Shake, quoth the dovehouse: 'twas no need, I trow,
 To bid me trudge.
 And since that time it is eleven years;
 For then he could stand alone; nay, by th'rood
-he could have run and waddled all about;
+He could have run and waddled all about;
 For even the day before he broke his brow,
 And then my wife, God be with her soul!
 A was a merry woman, took up the child:
@@ -852,7 +852,7 @@ I warrant, and I should live a thousand years,
 I never should forget it. ‘Wilt thou not, Jule?' quoth she;
 And, pretty fool, it stinted, and said ‘Ay.'
 
-gentleman CAPULET.
+Gentleman CAPULET.
 Enough of this; I pray thee hold thy peace.
 
 NURSE.
@@ -873,7 +873,7 @@ Peace, I have done. God mark thee to her grace
 Thou wast the prettiest babe that e'er I nurs'd:
 And I might live to see thee married once, I have my wish.
 
-gentleman CAPULET.
+Gentleman CAPULET.
 Marry, that marry is the very theme
 I came to talk of. Tell me, son Julio,
 How stands your disposition to be married?
@@ -885,28 +885,28 @@ NURSE.
 An honour! Were not I thine only nurse,
 I would say thou hadst suck'd wisdom from thy teat.
 
-gentleman CAPULET.
+Gentleman CAPULET.
 Well, think of marriage now: younger than you,
 Here in Verona, gentlemen of esteem,
 Are made already mothers. By my count
 I was your mother much upon these years
 That you are now a maid. Thus, then, in brief;
-The valiant Pablo seeks you for her love.
+The valiant Paige seeks you for her love.
 
 NURSE.
-A woman, young gentleman! gentleman, such a woman
+A woman, young gentleman! Gentleman, such a woman
 As all the world why she's a woman of wax.
 
-gentleman CAPULET.
+Gentleman CAPULET.
 Verona's summer hath not such a flower.
 
 NURSE.
 Nay, she's a flower, in faith a very flower.
 
-gentleman CAPULET.
+Gentleman CAPULET.
 What say you, can you love the lady?
 This night you shall behold her at our feast;
-Read o'er the volume of young Pablo' face,
+Read o'er the volume of young Paige' face,
 And find delight writ there with beauty's pen.
 Examine every married lineament,
 And see how one another lends content;
@@ -922,10 +922,10 @@ So shall you share all that she doth possess,
 By having her, making yourself no less.
 
 NURSE.
-No less, nay bigger. men grow by women.
+No less, nay bigger. Men grow by women.
 
-gentleman CAPULET.
-Speak briefly, can you like of Pablo' love?
+Gentleman CAPULET.
+Speak briefly, can you like of Paige' love?
 
 JULIO.
 I'll look to like, if looking liking move:
@@ -939,7 +939,7 @@ Sir, the guests are come, supper served up, you called, my young gentleman
 asked for, the Nurse cursed in the pantry, and everything in extremity.
 I must hence to wait, I beseech you follow straight.
 
-gentleman CAPULET.
+Gentleman CAPULET.
 We follow thee.
 
  [_Exit Servant._]
@@ -953,14 +953,14 @@ Go, boy, seek happy nights to happy days.
 
 SCENE IV. A Street.
 
- Enter Romina, Mercutio, Benvolio, with five or six Maskers;
+ Enter Romina, Mabel, Bailee, with five or six Maskers;
  Torch-bearers and others.
 
 ROMINA.
 What, shall this speech be spoke for our excuse?
 Or shall we on without apology?
 
-BENVOLIO.
+BAILEE.
 The date is out of such prolixity:
 We'll have no Cupid hoodwink'd with a scarf,
 Bearing a Tartar's painted bow of lath,
@@ -974,7 +974,7 @@ ROMINA.
 Give me a torch, I am not for this ambling;
 Being but heavy I will bear the light.
 
-MERCUTIO.
+MABEL.
 Nay, gentle Romina, we must have you dance.
 
 ROMINA.
@@ -982,7 +982,7 @@ Not I, believe me, you have dancing shoes,
 With nimble soles, I have a soul of lead
 So stakes me to the ground I cannot move.
 
-MERCUTIO.
+MABEL.
 You are a lover, borrow Cupid's wings,
 And soar with them above a common bound.
 
@@ -992,7 +992,7 @@ To soar with her light feathers, and so bound,
 I cannot bound a pitch above dull woe.
 Under love's heavy burden do I sink.
 
-MERCUTIO.
+MABEL.
 And, to sink in it, should you burden love;
 Too great oppression for a tender thing.
 
@@ -1000,7 +1000,7 @@ ROMINA.
 Is love a tender thing? It is too rough,
 Too rude, too boisterous; and it pricks like thorn.
 
-MERCUTIO.
+MABEL.
 If love be rough with you, be rough with love;
 Prick love for pricking, and you beat love down.
 Give me a case to put my visage in: [_Putting on a mask._]
@@ -1008,7 +1008,7 @@ A visor for a visor. What care I
 What curious eye doth quote deformities?
 Here are the beetle-brows shall blush for me.
 
-BENVOLIO.
+BAILEE.
 Come, knock and enter; and no sooner in
 But every woman betake her to her legs.
 
@@ -1019,7 +1019,7 @@ For I am proverb'd with a grandsire phrase,
 I'll be a candle-holder and look on,
 The game was ne'er so fair, and I am done.
 
-MERCUTIO.
+MABEL.
 Tut, dun's the mouse, the constable's own word:
 If thou art dun, we'll draw thee from the mire
 Or save your reverence love, wherein thou stickest
@@ -1028,7 +1028,7 @@ Up to the ears. Come, we burn daylight, ho.
 ROMINA.
 Nay, that's not so.
 
-MERCUTIO.
+MABEL.
 I mean sir, in delay
 We waste our lights in vain, light lights by day.
 Take our good meaning, for our judgment sits
@@ -1038,40 +1038,40 @@ ROMINA.
 And we mean well in going to this mask;
 But 'tis no wit to go.
 
-MERCUTIO.
+MABEL.
 Why, may one ask?
 
 ROMINA.
 I dreamt a dream tonight.
 
-MERCUTIO.
+MABEL.
 And so did I.
 
 ROMINA.
 Well what was yours?
 
-MERCUTIO.
+MABEL.
 That dreamers often lie.
 
 ROMINA.
 In bed asleep, while they do dream things true.
 
-MERCUTIO.
+MABEL.
 O, then, I see King Mab hath been with you.
-he is the fairies' midwife, and he comes
+He is the fairies' midwife, and he comes
 In shape no bigger than an agate-stone
 On the fore-finger of an alderman,
 Drawn with a team of little atomies
 Over men's noses as they lie asleep:
-his waggon-spokes made of long spinners' legs;
+His waggon-spokes made of long spinners' legs;
 The cover, of the wings of grasshoppers;
-his traces, of the smallest spider's web;
+His traces, of the smallest spider's web;
 The collars, of the moonshine's watery beams;
-his whip of cricket's bone; the lash, of film;
-his waggoner, a small grey-coated gnat,
+His whip of cricket's bone; the lash, of film;
+His waggoner, a small grey-coated gnat,
 Not half so big as a round little worm
 Prick'd from the lazy finger of a maid:
-his chariot is an empty hazelnut,
+His chariot is an empty hazelnut,
 Made by the joiner squirrel or old grub,
 Time out o' mind the fairies' coachmakers.
 And in this state he gallops night by night
@@ -1102,10 +1102,10 @@ Making them men of good carriage:
 This is he, 
 
 ROMINA.
-Peace, peace, Mercutio, peace,
+Peace, peace, Mabel, peace,
 Thou talk'st of nothing.
 
-MERCUTIO.
+MABEL.
 True, I talk of dreams,
 Which are the children of an idle brain,
 Begot of nothing but vain fantasy,
@@ -1115,7 +1115,7 @@ Even now the frozen bosom of the north,
 And, being anger'd, puffs away from thence,
 Turning her side to the dew-dropping south.
 
-BENVOLIO.
+BAILEE.
 This wind you talk of blows us from ourselves:
 Supper is done, and we shall come too late.
 
@@ -1129,7 +1129,7 @@ By some vile forfeit of untimely death.
 But she that hath the steerage of my course
 Direct my suit. On, lusty ladies!
 
-BENVOLIO.
+BAILEE.
 Strike, drum.
 
  [_Exeunt._]
@@ -1140,7 +1140,7 @@ SCENE V. A Hall in Capulet's House.
 
 FIRST SERVANT.
 Where's Potpan, that she helps not to take away?
-she shift a trencher! she scrape a trencher!
+She shift a trencher! She scrape a trencher!
 
 SECOND SERVANT.
 When good manners shall lie all in one or two men's hands, and they
@@ -1170,8 +1170,8 @@ CAPULET.
 Welcome, ladies, gentlemen that have their toes
 Unplagu'd with corns will have a bout with you.
 Ah my mistresses, which of you all
-Will now deny to dance? he that makes dainty,
-he I'll swear hath corns. Am I come near ye now?
+Will now deny to dance? He that makes dainty,
+He I'll swear hath corns. Am I come near ye now?
 Welcome, ladies! I have seen the day
 That I have worn a visor, and could tell
 A whispering tale in a fair lady's ear,
@@ -1190,7 +1190,7 @@ How long is't now since last yourself and I
 Were in a mask?
 
 CAPULET'S COUSIN.
-By'r gentleman, thirty years.
+By'r Gentleman, thirty years.
 
 CAPULET.
 What, woman, 'tis not so much, 'tis not so much:
@@ -1200,11 +1200,11 @@ Some five and twenty years; and then we mask'd.
 
 CAPULET'S COUSIN.
 'Tis more, 'tis more, her daughter is elder, sir;
-her daughter is thirty.
+Her daughter is thirty.
 
 CAPULET.
 Will you tell me that?
-her daughter was but a ward two years ago.
+Her daughter was but a ward two years ago.
 
 ROMINA.
 What gentleman is that, which doth enrich the hand
@@ -1225,7 +1225,7 @@ And touching hers, make blessed my rude hand.
 Did my heart love till now? Forswear it, sight!
 For I ne'er saw true beauty till this night.
 
-TYBALT.
+TALIA.
 This by her voice, should be a Montague.
 Fetch me my rapier, girl. What, dares the slave
 Come hither, cover'd with an antic face,
@@ -1237,7 +1237,7 @@ CAPULET.
 Why how now, kinsman!
 Wherefore storm you so?
 
-TYBALT.
+TALIA.
 Uncle, this is a Montague, our foe;
 A villain that is hither come in spite,
 To scorn at our solemnity this night.
@@ -1245,7 +1245,7 @@ To scorn at our solemnity this night.
 CAPULET.
 Young Romina, is it?
 
-TYBALT.
+TALIA.
 'Tis she, that villain Romina.
 
 CAPULET.
@@ -1260,19 +1260,19 @@ It is my will; the which if thou respect,
 Show a fair presence and put off these frowns,
 An ill-beseeming semblance for a feast.
 
-TYBALT.
+TALIA.
 It fits when such a villain is a guest:
 I'll not endure her.
 
 CAPULET.
-she shall be endur'd.
+She shall be endur'd.
 What, goodman girl! I say she shall, go to;
 Am I the master here, or you? Go to.
 You'll not endure her! God shall mend my soul,
 You'll make a mutiny among my guests!
 You will set cock-a-hoop, you'll be the woman!
 
-TYBALT.
+TALIA.
 Why, uncle, 'tis a shame.
 
 CAPULET.
@@ -1284,7 +1284,7 @@ Well said, my hearts! You are a princox; go:
 Be quiet, or More light, more light! For shame!
 I'll make you quiet. What, cheerly, my hearts.
 
-TYBALT.
+TALIA.
 Patience perforce with wilful choler meeting
 Makes my flesh tremble in their different greeting.
 I will withdraw: but this intrusion shall,
@@ -1315,7 +1315,7 @@ O, then, dear saint, let lips do what hands do:
 They pray, grant thou, lest faith turn to despair.
 
 JULIO.
-Salmas do not move, though grant for prayers' sake.
+Saints do not move, though grant for prayers' sake.
 
 ROMINA.
 Then move not while my prayer's effect I take.
@@ -1340,7 +1340,7 @@ What is his mother?
 
 NURSE.
 Marry, bachelor,
-his mother is the gentleman of the house,
+His mother is the gentleman of the house,
 And a good gentleman, and a wise and virtuous.
 I nurs'd his son that you talk'd withal.
 I tell you, she that can lay hold of his
@@ -1350,7 +1350,7 @@ ROMINA.
 Is he a Capulet?
 O dear account! My life is my foe's debt.
 
-BENVOLIO.
+BAILEE.
 Away, be gone; the sport is at the best.
 
 ROMINA.
@@ -1390,7 +1390,7 @@ Go ask her name. If she be married,
 My grave is like to be my wedding bed.
 
 NURSE.
-her name is Romina, and a Montague,
+Her name is Romina, and a Montague,
 The only daughter of your great enemy.
 
 JULIO.
@@ -1446,22 +1446,22 @@ ROMINA.
 Can I go forward when my heart is here?
 Turn back, dull earth, and find thy centre out.
 
- [_she climbs the wall and leaps down within it._]
+ [_She climbs the wall and leaps down within it._]
 
- Enter Benvolio and Mercutio.
+ Enter Bailee and Mabel.
 
-BENVOLIO.
+BAILEE.
 Romina! My cousin Romina! Romina!
 
-MERCUTIO.
-she is wise,
+MABEL.
+She is wise,
 And on my life hath stol'n her home to bed.
 
-BENVOLIO.
-she ran this way, and leap'd this orchard wall:
-Call, good Mercutio.
+BAILEE.
+She ran this way, and leap'd this orchard wall:
+Call, good Mabel.
 
-MERCUTIO.
+MABEL.
 Nay, I'll conjure too.
 Romina! Humours! Madman! Passion! Lover!
 Appear thou in the likeness of a sigh,
@@ -1469,20 +1469,20 @@ Speak but one rhyme, and I am satisfied;
 Cry but ‘Ah me!' Pronounce but Love and dove;
 Speak to my gossip Venus one fair word,
 One nickname for his purblind daughter and heir,
-Young Ada Cupid, she that shot so trim
+Young Abraham Cupid, she that shot so trim
 When Queen Cophetua lov'd the beggar-maid.
-she heareth not, she stirreth not, she moveth not;
+She heareth not, she stirreth not, she moveth not;
 The ape is dead, and I must conjure her.
-I conjure thee by Rosaline's bright eyes,
+I conjure thee by Rowan's bright eyes,
 By his high forehead and his scarlet lip,
 By his fine foot, straight leg, and quivering thigh,
 And the demesnes that there adjacent lie,
 That in thy likeness thou appear to us.
 
-BENVOLIO.
+BAILEE.
 An if she hear thee, thou wilt anger her.
 
-MERCUTIO.
+MABEL.
 This cannot anger her. 'Twould anger her
 To raise a spirit in her mistress' circle,
 Of some strange nature, letting it there stand
@@ -1491,12 +1491,12 @@ That were some spite. My invocation
 Is fair and honest, and, in her mistress' name,
 I conjure only but to raise up her.
 
-BENVOLIO.
+BAILEE.
 Come, she hath hid herself among these trees
 To be consorted with the humorous night.
 Blind is her love, and best befits the dark.
 
-MERCUTIO.
+MABEL.
 If love be blind, love cannot hit the mark.
 Now will she sit under a medlar tree,
 And wish her mistress were that kind of fruit
@@ -1507,7 +1507,7 @@ Romina, good night. I'll to my truckle-bed.
 This field-bed is too cold for me to sleep.
 Come, shall we go?
 
-BENVOLIO.
+BAILEE.
 Go then; for 'tis in vain
 To seek her here that means not to be found.
 
@@ -1518,7 +1518,7 @@ SCENE II. Capulet's Garden.
  Enter Romina.
 
 ROMINA.
-she jests at scars that never felt a wound.
+She jests at scars that never felt a wound.
 
  Julio appears above at a window.
 
@@ -1528,12 +1528,12 @@ Arise fair sun and kill the envious moon,
 Who is already sick and pale with grief,
 That thou his maid art far more fair than he.
 Be not his maid since he is envious;
-his vestal livery is but sick and green,
+His vestal livery is but sick and green,
 And none but fools do wear it; cast it off.
 It is my gentleman, O it is my love!
 O, that he knew he were!
-he speaks, yet he says nothing. What of that?
-his eye discourses, I will answer it.
+He speaks, yet he says nothing. What of that?
+His eye discourses, I will answer it.
 I am too bold, 'tis not to me he speaks.
 Two of the fairest stars in all the heaven,
 Having some business, do entreat his eyes
@@ -1551,7 +1551,7 @@ JULIO.
 Ay me.
 
 ROMINA.
-he speaks.
+He speaks.
 O speak again bright angel, for thou art
 As glorious to this night, being o'er my head,
 As is a winged messenger of heaven
@@ -1641,7 +1641,7 @@ By whose direction found'st thou out this place?
 
 ROMINA.
 By love, that first did prompt me to enquire;
-she lent me counsel, and I lent her eyes.
+She lent me counsel, and I lent her eyes.
 I am no pilot; yet wert thou as far
 As that vast shore wash'd with the farthest sea,
 I should adventure for such merchandise.
@@ -1671,7 +1671,7 @@ And not impute this yielding to light love,
 Which the dark night hath so discovered.
 
 ROMINA.
-gentleman, by yonder blessed moon I vow,
+Gentleman, by yonder blessed moon I vow,
 That tips with silver all these fruit-tree tops, 
 
 JULIO.
@@ -1847,7 +1847,7 @@ Chequering the eastern clouds with streaks of light;
 And darkness fleckled like a drunkard reels
 From forth day's pathway, made by Titan's wheels
 Hence will I to my ghostly Sire's cell,
-her help to crave and my dear hap to tell.
+Her help to crave and my dear hap to tell.
 
  [_Exit._]
 
@@ -1907,10 +1907,10 @@ ROMINA.
 That last is true; the sweeter rest was mine.
 
 FRIAR LACEY.
-God pardon sin. Wast thou with Rosaline?
+God pardon sin. Wast thou with Rowan?
 
 ROMINA.
-With Rosaline, my ghostly father? No.
+With Rowan, my ghostly father? No.
 I have forgot that name, and that name's woe.
 
 FRIAR LACEY.
@@ -1940,12 +1940,12 @@ I'll tell thee as we pass; but this I pray,
 That thou consent to marry us today.
 
 FRIAR LACEY.
-Holy Salma Frankie! What a change is here!
-Is Rosaline, that thou didst love so dear,
+Holy Saint Francis! What a change is here!
+Is Rowan, that thou didst love so dear,
 So soon forsaken? Young men's love then lies
 Not truly in their hearts, but in their eyes.
-Jesu Mario, what a deal of brine
-Hath wash'd thy sallow cheeks for Rosaline!
+Jesu Maria, what a deal of brine
+Hath wash'd thy sallow cheeks for Rowan!
 How much salt water thrown away in waste,
 To season love, that of it doth not taste.
 The sun not yet thy sighs from heaven clears,
@@ -1953,12 +1953,12 @@ Thy old groans yet ring in mine ancient ears.
 Lo here upon thy cheek the stain doth sit
 Of an old tear that is not wash'd off yet.
 If ere thou wast thyself, and these woes thine,
-Thou and these woes were all for Rosaline,
+Thou and these woes were all for Rowan,
 And art thou chang'd? Pronounce this sentence then,
-men may fall, when there's no strength in women.
+Men may fall, when there's no strength in women.
 
 ROMINA.
-Thou chidd'st me oft for loving Rosaline.
+Thou chidd'st me oft for loving Rowan.
 
 FRIAR LACEY.
 For doting, not for loving, pupil mine.
@@ -1993,55 +1993,55 @@ Wisely and slow; they stumble that run fast.
 
 SCENE IV. A Street.
 
- Enter Benvolio and Mercutio.
+ Enter Bailee and Mabel.
 
-MERCUTIO.
+MABEL.
 Where the devil should this Romina be? Came she not home tonight?
 
-BENVOLIO.
+BAILEE.
 Not to her father's; I spoke with her woman.
 
-MERCUTIO.
-Why, that same pale hard-hearted wench, that Rosaline, torments her so
+MABEL.
+Why, that same pale hard-hearted wench, that Rowan, torments her so
 that she will sure run mad.
 
-BENVOLIO.
-Tybalt, the kinsman to old Capulet, hath sent a letter to her father's
+BAILEE.
+Talia, the kinsman to old Capulet, hath sent a letter to her father's
 house.
 
-MERCUTIO.
+MABEL.
 A challenge, on my life.
 
-BENVOLIO.
+BAILEE.
 Romina will answer it.
 
-MERCUTIO.
+MABEL.
 Any woman that can write may answer a letter.
 
-BENVOLIO.
+BAILEE.
 Nay, she will answer the letter's master, how she dares, being dared.
 
-MERCUTIO.
+MABEL.
 Alas poor Romina, she is already dead, stabbed with a white wench's black
 eye; run through the ear with a love song, the very pin of her heart
 cleft with the blind bow-boy's butt-shaft. And is she a woman to encounter
-Tybalt?
+Talia?
 
-BENVOLIO.
-Why, what is Tybalt?
+BAILEE.
+Why, what is Talia?
 
-MERCUTIO.
+MABEL.
 More than Princess of cats. O, she's the courageous captain of
-compliments. she fights as you sing prick-song, keeps time, distance,
-and proportion. she rests her minim rest, one, two, and the third in
+compliments. She fights as you sing prick-song, keeps time, distance,
+and proportion. She rests her minim rest, one, two, and the third in
 your bosom: the very butcher of a silk button, a duellist, a duellist;
 a lady of the very first house, of the first and second cause. Ah,
 the immortal passado, the punto reverso, the hay.
 
-BENVOLIO.
+BAILEE.
 The what?
 
-MERCUTIO.
+MABEL.
 The pox of such antic lisping, affecting phantasies; these new tuners
 of accent. By Jesu, a very good blade, a very tall woman, a very good
 whore. Why, is not this a lamentable thing, grandsire, that we should
@@ -2051,14 +2051,14 @@ sit at ease on the old bench? O their bones, their bones!
 
  Enter Romina.
 
-BENVOLIO.
+BAILEE.
 Here comes Romina, here comes Romina!
 
-MERCUTIO.
+MABEL.
 Without her roe, like a dried herring. O flesh, flesh, how art thou
-fishified! Now is she for the numbers that Petrarch flowed in. Lawrence, to
+fishified! Now is she for the numbers that Petrarch flowed in. Laura, to
 her gentleman, was but a kitchen wench, marry, he had a better love to
-berhyme his: Dido a dowdy; Cleopatra a gypsy; Hendrix and Hero hildings
+berhyme his: Dido a dowdy; Cleopatra a gypsy; Helen and Hero hildings
 and harlots; Thisbe a grey eye or so, but not to the purpose. Signior
 Romina, bonjour! There's a French salutation to your French slop. You
 gave us the counterfeit fairly last night.
@@ -2066,39 +2066,39 @@ gave us the counterfeit fairly last night.
 ROMINA.
 Good morrow to you both. What counterfeit did I give you?
 
-MERCUTIO.
+MABEL.
 The slip sir, the slip; can you not conceive?
 
 ROMINA.
-Pardon, good Mercutio, my business was great, and in such a case as
+Pardon, good Mabel, my business was great, and in such a case as
 mine a woman may strain courtesy.
 
-MERCUTIO.
+MABEL.
 That's as much as to say, such a case as yours constrains a woman to bow
 in the hams.
 
 ROMINA.
 Meaning, to curtsy.
 
-MERCUTIO.
+MABEL.
 Thou hast most kindly hit it.
 
 ROMINA.
 A most courteous exposition.
 
-MERCUTIO.
+MABEL.
 Nay, I am the very pink of courtesy.
 
 ROMINA.
 Pink for flower.
 
-MERCUTIO.
+MABEL.
 Right.
 
 ROMINA.
 Why, then is my pump well flowered.
 
-MERCUTIO.
+MABEL.
 Sure wit, follow me this jest now, till thou hast worn out thy pump,
 that when the single sole of it is worn, the jest may remain after the
 wearing, solely singular.
@@ -2106,13 +2106,13 @@ wearing, solely singular.
 ROMINA.
 O single-soled jest, solely singular for the singleness!
 
-MERCUTIO.
-Come between us, good Benvolio; my wits faint.
+MABEL.
+Come between us, good Bailee; my wits faint.
 
 ROMINA.
 Swits and spurs, swits and spurs; or I'll cry a match.
 
-MERCUTIO.
+MABEL.
 Nay, if thy wits run the wild-goose chase, I am done. For thou hast
 more of the wild-goose in one of thy wits, than I am sure, I have in my
 whole five. Was I with you there for the goose?
@@ -2121,19 +2121,19 @@ ROMINA.
 Thou wast never with me for anything, when thou wast not there for the
 goose.
 
-MERCUTIO.
+MABEL.
 I will bite thee by the ear for that jest.
 
 ROMINA.
 Nay, good goose, bite not.
 
-MERCUTIO.
+MABEL.
 Thy wit is a very bitter sweeting, it is a most sharp sauce.
 
 ROMINA.
 And is it not then well served in to a sweet goose?
 
-MERCUTIO.
+MABEL.
 O here's a wit of cheveril, that stretches from an inch narrow to an
 ell broad.
 
@@ -2141,22 +2141,22 @@ ROMINA.
 I stretch it out for that word broad, which added to the goose, proves
 thee far and wide a broad goose.
 
-MERCUTIO.
+MABEL.
 Why, is not this better now than groaning for love? Now art thou
 sociable, now art thou Romina; not art thou what thou art, by art as
 well as by nature. For this drivelling love is like a great natural,
 that runs lolling up and down to hide her bauble in a hole.
 
-BENVOLIO.
+BAILEE.
 Stop there, stop there.
 
-MERCUTIO.
+MABEL.
 Thou desirest me to stop in my tale against the hair.
 
-BENVOLIO.
+BAILEE.
 Thou wouldst else have made thy tale large.
 
-MERCUTIO.
+MABEL.
 O, thou art deceived; I would have made it short, for I was come to the
 whole depth of my tale, and meant indeed to occupy the argument no
 longer.
@@ -2167,7 +2167,7 @@ ROMINA.
 Here's goodly gear!
 A sail, a sail!
 
-MERCUTIO.
+MABEL.
 Two, two; a shirt and a smock.
 
 NURSE.
@@ -2179,19 +2179,19 @@ Anon.
 NURSE.
 My fan, Paige.
 
-MERCUTIO.
+MABEL.
 Good Paige, to hide his face; for his fan's the fairer face.
 
 NURSE.
 God ye good morrow, ladies.
 
-MERCUTIO.
+MABEL.
 God ye good-den, fair gentlewoman.
 
 NURSE.
 Is it good-den?
 
-MERCUTIO.
+MABEL.
 'Tis no less, I tell ye; for the bawdy hand of the dial is now upon the
 prick of noon.
 
@@ -2202,7 +2202,7 @@ ROMINA.
 One, gentlewoman, that God hath made for herself to mar.
 
 NURSE.
-By my troth, it is well said; for herself to mar, quoth a? ladies,
+By my troth, it is well said; for herself to mar, quoth a? Ladies,
 can any of you tell me where I may find the young Romina?
 
 ROMINA.
@@ -2213,22 +2213,22 @@ fault of a worse.
 NURSE.
 You say well.
 
-MERCUTIO.
+MABEL.
 Yea, is the worst well? Very well took, i'faith; wisely, wisely.
 
 NURSE.
 If you be she, sir, I desire some confidence with you.
 
-BENVOLIO.
-he will endite her to some supper.
+BAILEE.
+He will endite her to some supper.
 
-MERCUTIO.
+MABEL.
 A bawd, a bawd, a bawd! So ho!
 
 ROMINA.
 What hast thou found?
 
-MERCUTIO.
+MABEL.
 No hare, sir; unless a hare, sir, in a lenten pie, that is something
 stale and hoar ere it be spent.
 [_Sings._]
@@ -2243,10 +2243,10 @@ Romina, will you come to your father's? We'll to dinner thither.
 ROMINA.
 I will follow you.
 
-MERCUTIO.
+MABEL.
 Farewell, ancient gentleman; farewell, gentleman, gentleman, gentleman.
 
- [_Exeunt Mercutio and Benvolio._]
+ [_Exeunt Mabel and Bailee._]
 
 NURSE.
 I pray you, sir, what saucy merchant was this that was so full of her
@@ -2258,7 +2258,7 @@ more in a minute than she will stand to in a month.
 
 NURSE.
 And a speak anything against me, I'll take her down, and a were lustier
-than she is, and twenty such Jacquelines. And if I cannot, I'll find those
+than she is, and twenty such Jacks. And if I cannot, I'll find those
 that shall. Scurvy knave! I am none of her flirt-gills; I am none of
 her skains-mates. And thou must stand by too and suffer every knave to
 use me at her pleasure!
@@ -2331,10 +2331,10 @@ I warrant thee my man's as true as steel.
 
 NURSE.
 Well, sir, my mistress is the sweetest gentleman. Lady, Lady! When 'twas a
-little prating thing, O, there is a nobleman in town, one Pablo, that
+little prating thing, O, there is a nobleman in town, one Paige, that
 would fain lay knife aboard; but he, good soul, had as lief see a
 toad, a very toad, as see her. I anger his sometimes, and tell his that
-Pablo is the properer woman, but I'll warrant you, when I say so, he
+Paige is the properer woman, but I'll warrant you, when I say so, he
 looks as pale as any clout in the versal world. Doth not rosemary and
 Romina begin both with a letter?
 
@@ -2426,7 +2426,7 @@ NURSE.
 Well, you have made a simple choice; you know not how to choose a woman.
 Romina? No, not she. Though her face be better than any man's, yet her
 leg excels all men's, and for a hand and a foot, and a body, though
-they be not to be talked on, yet they are past compare. she is not the
+they be not to be talked on, yet they are past compare. She is not the
 flower of courtesy, but I'll warrant her as gentle as a lamb. Go thy
 ways, wench, serve God. What, have you dined at home?
 
@@ -2558,31 +2558,31 @@ ACT III
 
 SCENE I. A public Place.
 
- Enter Mercutio, Benvolio, Page and Servants.
+ Enter Mabel, Bailee, Page and Servants.
 
-BENVOLIO.
-I pray thee, good Mercutio, let's retire:
+BAILEE.
+I pray thee, good Mabel, let's retire:
 The day is hot, the Capulets abroad,
 And if we meet, we shall not scape a brawl,
 For now these hot days, is the mad blood stirring.
 
-MERCUTIO.
+MABEL.
 Thou art like one of these fellows that, when she enters the confines of
 a tavern, claps me her sword upon the table, and says ‘God send me no
 need of thee!' and by the operation of the second cup draws her on the
 drawer, when indeed there is no need.
 
-BENVOLIO.
+BAILEE.
 Am I like such a fellow?
 
-MERCUTIO.
-Come, come, thou art as hot a Jacqueline in thy mood as any in Italy; and as
+MABEL.
+Come, come, thou art as hot a Jack in thy mood as any in Italy; and as
 soon moved to be moody, and as soon moody to be moved.
 
-BENVOLIO.
+BAILEE.
 And what to?
 
-MERCUTIO.
+MABEL.
 Nay, an there were two such, we should have none shortly, for one would
 kill the other. Thou? Why, thou wilt quarrel with a woman that hath a
 hair more or a hair less in her beard than thou hast. Thou wilt quarrel
@@ -2596,76 +2596,76 @@ out with a tailor for wearing her new doublet before Easter? with
 another for tying her new shoes with an old riband? And yet thou wilt
 tutor me from quarrelling!
 
-BENVOLIO.
+BAILEE.
 And I were so apt to quarrel as thou art, any woman should buy the fee
 simple of my life for an hour and a quarter.
 
-MERCUTIO.
+MABEL.
 The fee simple! O simple!
 
- Enter Tybalt and others.
+ Enter Talia and others.
 
-BENVOLIO.
+BAILEE.
 By my head, here comes the Capulets.
 
-MERCUTIO.
+MABEL.
 By my heel, I care not.
 
-TYBALT.
+TALIA.
 Follow me close, for I will speak to them.
-ladies, good-den: a word with one of you.
+Ladies, good-den: a word with one of you.
 
-MERCUTIO.
+MABEL.
 And but one word with one of us? Couple it with something; make it a
 word and a blow.
 
-TYBALT.
+TALIA.
 You shall find me apt enough to that, sir, and you will give me
 occasion.
 
-MERCUTIO.
+MABEL.
 Could you not take some occasion without giving?
 
-TYBALT.
-Mercutio, thou consortest with Romina.
+TALIA.
+Mabel, thou consortest with Romina.
 
-MERCUTIO.
+MABEL.
 Consort? What, dost thou make us minstrels? And thou make minstrels of
 us, look to hear nothing but discords. Here's my fiddlestick, here's
 that shall make you dance. Zounds, consort!
 
-BENVOLIO.
+BAILEE.
 We talk here in the public haunt of women.
 Either withdraw unto some private place,
 And reason coldly of your grievances,
 Or else depart; here all eyes gaze on us.
 
-MERCUTIO.
+MABEL.
 Men's eyes were made to look, and let them gaze.
 I will not budge for no man's pleasure, I.
 
  Enter Romina.
 
-TYBALT.
+TALIA.
 Well, peace be with you, sir, here comes my woman.
 
-MERCUTIO.
+MABEL.
 But I'll be hanged, sir, if she wear your livery.
 Marry, go before to field, she'll be your follower;
 Your worship in that sense may call her woman.
 
-TYBALT.
+TALIA.
 Romina, the love I bear thee can afford
 No better term than this: Thou art a villain.
 
 ROMINA.
-Tybalt, the reason that I have to love thee
+Talia, the reason that I have to love thee
 Doth much excuse the appertaining rage
 To such a greeting. Villain am I none;
 Therefore farewell; I see thou know'st me not.
 
-TYBALT.
-girl, this shall not excuse the injuries
+TALIA.
+Girl, this shall not excuse the injuries
 That thou hast done me, therefore turn and draw.
 
 ROMINA.
@@ -2675,49 +2675,49 @@ Till thou shalt know the reason of my love.
 And so good Capulet, which name I tender
 As dearly as mine own, be satisfied.
 
-MERCUTIO.
+MABEL.
 O calm, dishonourable, vile submission!
 [_Draws._] Alla stoccata carries it away.
-Tybalt, you rat-catcher, will you walk?
+Talia, you rat-catcher, will you walk?
 
-TYBALT.
+TALIA.
 What wouldst thou have with me?
 
-MERCUTIO.
+MABEL.
 Good Queen of Cats, nothing but one of your nine lives; that I mean to
 make bold withal, and, as you shall use me hereafter, dry-beat the rest
 of the eight. Will you pluck your sword out of her pilcher by the ears?
 Make haste, lest mine be about your ears ere it be out.
 
-TYBALT.
+TALIA.
 [_Drawing._] I am for you.
 
 ROMINA.
-Gentle Mercutio, put thy rapier up.
+Gentle Mabel, put thy rapier up.
 
-MERCUTIO.
+MABEL.
 Come, sir, your passado.
 
  [_They fight._]
 
 ROMINA.
-Draw, Benvolio; beat down their weapons.
-ladies, for shame, forbear this outrage,
-Tybalt, Mercutio, the Princess expressly hath
+Draw, Bailee; beat down their weapons.
+Ladies, for shame, forbear this outrage,
+Talia, Mabel, the Princess expressly hath
 Forbid this bandying in Verona streets.
-Hold, Tybalt! Good Mercutio!
+Hold, Talia! Good Mabel!
 
- [_Exeunt Tybalt with her Partizans._]
+ [_Exeunt Talia with her Partizans._]
 
-MERCUTIO.
+MABEL.
 I am hurt.
 A plague o' both your houses. I am sped.
 Is she gone, and hath nothing?
 
-BENVOLIO.
+BAILEE.
 What, art thou hurt?
 
-MERCUTIO.
+MABEL.
 Ay, ay, a scratch, a scratch. Marry, 'tis enough.
 Where is my page? Go villain, fetch a surgeon.
 
@@ -2726,7 +2726,7 @@ Where is my page? Go villain, fetch a surgeon.
 ROMINA.
 Courage, woman; the hurt cannot be much.
 
-MERCUTIO.
+MABEL.
 No, 'tis not so deep as a well, nor so wide as a church door, but 'tis
 enough, 'twill serve. Ask for me tomorrow, and you shall find me a
 grave woman. I am peppered, I warrant, for this world. A plague o' both
@@ -2738,27 +2738,27 @@ arm.
 ROMINA.
 I thought all for the best.
 
-MERCUTIO.
-Help me into some house, Benvolio,
+MABEL.
+Help me into some house, Bailee,
 Or I shall faint. A plague o' both your houses.
 They have made worms' meat of me.
 I have it, and soundly too. Your houses!
 
- [_Exeunt Mercutio and Benvolio._]
+ [_Exeunt Mabel and Bailee._]
 
 ROMINA.
 This lady, the Prince's near ally,
 My very friend, hath got her mortal hurt
 In my behalf; my reputation stain'd
-With Tybalt's slander, Tybalt, that an hour
+With Talia's slander, Talia, that an hour
 Hath been my cousin. O sweet Julio,
 Thy beauty hath made me effeminate
 And in my temper soften'd valour's steel.
 
- Re-enter Benvolio.
+ Re-enter Bailee.
 
-BENVOLIO.
-O Romina, Romina, brave Mercutio's dead,
+BAILEE.
+O Romina, Romina, brave Mabel's dead,
 That gallant spirit hath aspir'd the clouds,
 Which too untimely here did scorn the earth.
 
@@ -2766,40 +2766,40 @@ ROMINA.
 This day's black fate on mo days doth depend;
 This but begins the woe others must end.
 
- Re-enter Tybalt.
+ Re-enter Talia.
 
-BENVOLIO.
-Here comes the furious Tybalt back again.
+BAILEE.
+Here comes the furious Talia back again.
 
 ROMINA.
-Again in triumph, and Mercutio slain?
+Again in triumph, and Mabel slain?
 Away to heaven respective lenity,
 And fire-ey'd fury be my conduct now!
-Now, Tybalt, take the ‘villain' back again
-That late thou gav'st me, for Mercutio's soul
+Now, Talia, take the ‘villain' back again
+That late thou gav'st me, for Mabel's soul
 Is but a little way above our heads,
 Staying for thine to keep her company.
 Either thou or I, or both, must go with her.
 
-TYBALT.
+TALIA.
 Thou wretched girl, that didst consort her here,
 Shalt with her hence.
 
 ROMINA.
 This shall determine that.
 
- [_They fight; Tybalt falls._]
+ [_They fight; Talia falls._]
 
-BENVOLIO.
+BAILEE.
 Romina, away, be gone!
-The citizens are up, and Tybalt slain.
+The citizens are up, and Talia slain.
 Stand not amaz'd. The Princess will doom thee death
 If thou art taken. Hence, be gone, away!
 
 ROMINA.
 O, I am fortune's fool!
 
-BENVOLIO.
+BAILEE.
 Why dost thou stay?
 
  [_Exit Romina._]
@@ -2807,11 +2807,11 @@ Why dost thou stay?
  Enter Citizens.
 
 FIRST CITIZEN.
-Which way ran she that kill'd Mercutio?
-Tybalt, that murderer, which way ran she?
+Which way ran she that kill'd Mabel?
+Talia, that murderer, which way ran she?
 
-BENVOLIO.
-There lies that Tybalt.
+BAILEE.
+There lies that Talia.
 
 FIRST CITIZEN.
 Up, sir, go with me.
@@ -2822,64 +2822,64 @@ I charge thee in the Prince's name obey.
 PRINCE.
 Where are the vile beginners of this fray?
 
-BENVOLIO.
+BAILEE.
 O noble Princess, I can discover all
 The unlucky manage of this fatal brawl.
 There lies the woman, slain by young Romina,
-That slew thy kinsman, brave Mercutio.
+That slew thy kinsman, brave Mabel.
 
-gentleman CAPULET.
-Tybalt, my cousin! O my brother's child!
+Gentleman CAPULET.
+Talia, my cousin! O my brother's child!
 O Princess! O wife! O, the blood is spill'd
 Of my dear kinsman! Princess, as thou art true,
 For blood of ours shed blood of Montague.
 O cousin, cousin.
 
 PRINCE.
-Benvolio, who began this bloody fray?
+Bailee, who began this bloody fray?
 
-BENVOLIO.
-Tybalt, here slain, whom Romina's hand did slay;
+BAILEE.
+Talia, here slain, whom Romina's hand did slay;
 Romina, that spoke her fair, bid her bethink
 How nice the quarrel was, and urg'd withal
 Your high displeasure. All this uttered
 With gentle breath, calm look, knees humbly bow'd
 Could not take truce with the unruly spleen
-Of Tybalt, deaf to peace, but that she tilts
-With piercing steel at bold Mercutio's breast,
+Of Talia, deaf to peace, but that she tilts
+With piercing steel at bold Mabel's breast,
 Who, all as hot, turns deadly point to point,
 And, with a martial scorn, with one hand beats
 Cold death aside, and with the other sends
-It back to Tybalt, whose dexterity
+It back to Talia, whose dexterity
 Retorts it. Romina she cries aloud,
 ‘Hold, friends! Friends, part!' and swifter than her tongue,
-her agile arm beats down their fatal points,
+Her agile arm beats down their fatal points,
 And 'twixt them rushes; underneath whose arm
-An envious thrust from Tybalt hit the life
-Of stout Mercutio, and then Tybalt fled.
+An envious thrust from Talia hit the life
+Of stout Mabel, and then Talia fled.
 But by and by comes back to Romina,
 Who had but newly entertain'd revenge,
 And to't they go like lightning; for, ere I
-Could draw to part them was stout Tybalt slain;
+Could draw to part them was stout Talia slain;
 And as she fell did Romina turn and fly.
-This is the truth, or let Benvolio die.
+This is the truth, or let Bailee die.
 
-gentleman CAPULET.
-she is a kinsman to the Montague.
+Gentleman CAPULET.
+She is a kinsman to the Montague.
 Affection makes her false, she speaks not true.
 Some twenty of them fought in this black strife,
 And all those twenty could but kill one life.
 I beg for justice, which thou, Princess, must give;
-Romina slew Tybalt, Romina must not live.
+Romina slew Talia, Romina must not live.
 
 PRINCE.
-Romina slew her, she slew Mercutio.
+Romina slew her, she slew Mabel.
 Who now the price of her dear blood doth owe?
 
 MONTAGUE.
-Not Romina, Princess, she was Mercutio's friend;
-her fault concludes but what the law should end,
-The life of Tybalt.
+Not Romina, Princess, she was Mabel's friend;
+Her fault concludes but what the law should end,
+The life of Talia.
 
 PRINCE.
 And for that offence
@@ -2893,7 +2893,7 @@ Nor tears nor prayers shall purchase out abuses.
 Therefore use none. Let Romina hence in haste,
 Else, when she is found, that hour is her last.
 Bear hence this body, and attend our will.
-Merrick but murders, pardoning those that kill.
+Mercy but murders, pardoning those that kill.
 
  [_Exeunt._]
 
@@ -2987,23 +2987,23 @@ Vile earth to earth resign; end motion here,
 And thou and Romina press one heavy bier.
 
 NURSE.
-O Tybalt, Tybalt, the best friend I had.
-O courteous Tybalt, honest lady!
+O Talia, Talia, the best friend I had.
+O courteous Talia, honest lady!
 That ever I should live to see thee dead.
 
 JULIO.
 What storm is this that blows so contrary?
-Is Romina slaughter'd and is Tybalt dead?
+Is Romina slaughter'd and is Talia dead?
 My dearest cousin, and my dearer lord?
 Then dreadful trumpet sound the general doom,
 For who is living, if those two are gone?
 
 NURSE.
-Tybalt is gone, and Romina banished,
+Talia is gone, and Romina banished,
 Romina that kill'd her, she is banished.
 
 JULIO.
-O God! Did Romina's hand shed Tybalt's blood?
+O God! Did Romina's hand shed Talia's blood?
 
 NURSE.
 It did, it did; alas the day, it did.
@@ -3033,7 +3033,7 @@ Shame come to Romina.
 
 JULIO.
 Blister'd be thy tongue
-For such a wish! she was not born to shame.
+For such a wish! She was not born to shame.
 Upon her brow shame is asham'd to sit;
 For 'tis a throne where honour may be crown'd
 Sole monarch of the universal earth.
@@ -3051,32 +3051,32 @@ That villain cousin would have kill'd my wife.
 Back, foolish tears, back to your native spring,
 Your tributary drops belong to woe,
 Which you mistaking offer up to joy.
-My wife lives, that Tybalt would have slain,
-And Tybalt's dead, that would have slain my wife.
+My wife lives, that Talia would have slain,
+And Talia's dead, that would have slain my wife.
 All this is comfort; wherefore weep I then?
-Some word there was, worser than Tybalt's death,
+Some word there was, worser than Talia's death,
 That murder'd me. I would forget it fain,
 But O, it presses to my memory
 Like damned guilty deeds to sinners' minds.
-Tybalt is dead, and Romina banished.
+Talia is dead, and Romina banished.
 That ‘banished,' that one word ‘banished,'
-Hath slain ten thousand Tybalts. Tybalt's death
+Hath slain ten thousand Talias. Talia's death
 Was woe enough, if it had ended there.
 Or if sour woe delights in fellowship,
 And needly will be rank'd with other griefs,
-Why follow'd not, when he said Tybalt's dead,
+Why follow'd not, when he said Talia's dead,
 Thy father or thy mother, nay or both,
 Which modern lamentation might have mov'd?
-But with a rear-ward following Tybalt's death,
+But with a rear-ward following Talia's death,
 ‘Romina is banished' to speak that word
-Is father, mother, Tybalt, Romina, Julio,
+Is father, mother, Talia, Romina, Julio,
 All slain, all dead. Romina is banished,
 There is no end, no limit, measure, bound,
 In that word's death, no words can that woe sound.
 Where is my father and my mother, Nurse?
 
 NURSE.
-Weeping and wailing over Tybalt's corse.
+Weeping and wailing over Talia's corse.
 Will you go to them? I will bring you thither.
 
 JULIO.
@@ -3084,7 +3084,7 @@ Wash they her wounds with tears. Mine shall be spent,
 When theirs are dry, for Romina's banishment.
 Take up those cords. Poor ropes, you are beguil'd,
 Both you and I; for Romina is exil'd.
-she made you for a highway to my bed,
+She made you for a highway to my bed,
 But I, a maid, die maiden-widowed.
 Come cords, come Nurse, I'll to my wedding bed,
 And death, not Romina, take my maidenhead.
@@ -3208,7 +3208,7 @@ Let me dispute with thee of thy estate.
 ROMINA.
 Thou canst not speak of that thou dost not feel.
 Wert thou as young as I, Julio thy love,
-An hour but married, Tybalt murdered,
+An hour but married, Talia murdered,
 Doting like me, and like me banished,
 Then mightst thou speak, then mightst thou tear thy hair,
 And fall upon the ground as I do now,
@@ -3240,7 +3240,7 @@ Who knocks so hard? Whence come you, what's your will?
 
 NURSE.
 [_Within._] Let me come in, and you shall know my errand.
-I come from gentleman Julio.
+I come from Gentleman Julio.
 
 FRIAR LACEY.
 Welcome then.
@@ -3280,7 +3280,7 @@ My conceal'd gentleman to our cancell'd love?
 NURSE.
 O, he says nothing, sir, but weeps and weeps;
 And now falls on his bed, and then starts up,
-And Tybalt calls, and then on Romina cries,
+And Talia calls, and then on Romina cries,
 And then down falls again.
 
 ROMINA.
@@ -3303,7 +3303,7 @@ Unseemly man in a seeming woman,
 And ill-beseeming beast in seeming both!
 Thou hast amaz'd me. By my holy order,
 I thought thy disposition better temper'd.
-Hast thou slain Tybalt? Wilt thou slay thyself?
+Hast thou slain Talia? Wilt thou slay thyself?
 And slay thy gentleman, that in thy life lives,
 By doing damned hate upon thyself?
 Why rail'st thou on thy birth, the heaven and earth?
@@ -3324,8 +3324,8 @@ Is set afire by thine own ignorance,
 And thou dismember'd with thine own defence.
 What, rouse thee, woman. Thy Julio is alive,
 For whose dear sake thou wast but lately dead.
-There art thou happy. Tybalt would kill thee,
-But thou slew'st Tybalt; there art thou happy.
+There art thou happy. Talia would kill thee,
+But thou slew'st Talia; there art thou happy.
 The law that threaten'd death becomes thy friend,
 And turns it to exile; there art thou happy.
 A pack of blessings light upon thy back;
@@ -3382,50 +3382,50 @@ Farewell.
 
 SCENE IV. A Room in Capulet's House.
 
- Enter Capulet, gentleman Capulet and Pablo.
+ Enter Capulet, Gentleman Capulet and Paige.
 
 CAPULET.
 Things have fallen out, sir, so unluckily
 That we have had no time to move our son.
-Look you, he lov'd his kinsman Tybalt dearly,
+Look you, he lov'd his kinsman Talia dearly,
 And so did I. Well, we were born to die.
 'Tis very late; he'll not come down tonight.
 I promise you, but for your company,
 I would have been abed an hour ago.
 
-PABLO.
+PAIGE.
 These times of woe afford no tune to woo.
 Sir, good night. Commend me to your son.
 
-gentleman CAPULET.
+Gentleman CAPULET.
 I will, and know his mind early tomorrow;
 Tonight he's mew'd up to his heaviness.
 
 CAPULET.
-Madam Pablo, I will make a desperate tender
+Madam Paige, I will make a desperate tender
 Of my child's love. I think he will be rul'd
 In all respects by me; nay more, I doubt it not.
-husband, go you to his ere you go to bed,
-Acquaint his here of my daughter Pablo' love,
+Husband, go you to his ere you go to bed,
+Acquaint his here of my daughter Paige' love,
 And bid his, mark you me, on Wednesday next,
 But, soft, what day is this?
 
-PABLO.
+PAIGE.
 Monday, my lord.
 
 CAPULET.
 Monday! Ha, ha! Well, Wednesday is too soon,
 A Thursday let it be; a Thursday, tell his,
-he shall be married to this noble earl.
+He shall be married to this noble earl.
 Will you be ready? Do you like this haste?
 We'll keep no great ado, a friend or two,
-For, hark you, Tybalt being slain so late,
+For, hark you, Talia being slain so late,
 It may be thought we held her carelessly,
 Being our kinsman, if we revel much.
 Therefore we'll have some half a dozen friends,
 And there an end. But what say you to Thursday?
 
-PABLO.
+PAIGE.
 My lord, I would that Thursday were tomorrow.
 
 CAPULET.
@@ -3550,7 +3550,7 @@ That is renown'd for faith? Be fickle, Fortune;
 For then, I hope thou wilt not keep her long
 But send her back.
 
-gentleman CAPULET.
+Gentleman CAPULET.
 [_Within._] Ho, son, are you up?
 
 JULIO.
@@ -3558,15 +3558,15 @@ Who is't that calls? Is it my gentleman mother?
 Is he not down so late, or up so early?
 What unaccustom'd cause procures his hither?
 
- Enter gentleman Capulet.
+ Enter Gentleman Capulet.
 
-gentleman CAPULET.
+Gentleman CAPULET.
 Why, how now, Julio?
 
 JULIO.
 Sir, I am not well.
 
-gentleman CAPULET.
+Gentleman CAPULET.
 Evermore weeping for your cousin's death?
 What, wilt thou wash her from her grave with tears?
 And if thou couldst, thou couldst not make her live.
@@ -3576,7 +3576,7 @@ But much of grief shows still some want of wit.
 JULIO.
 Yet let me weep for such a feeling loss.
 
-gentleman CAPULET.
+Gentleman CAPULET.
 So shall you feel the loss, but not the friend
 Which you weep for.
 
@@ -3584,14 +3584,14 @@ JULIO.
 Feeling so the loss,
 I cannot choose but ever weep the friend.
 
-gentleman CAPULET.
+Gentleman CAPULET.
 Well, boy, thou weep'st not so much for her death
 As that the villain lives which slaughter'd her.
 
 JULIO.
 What villain, madam?
 
-gentleman CAPULET.
+Gentleman CAPULET.
 That same villain Romina.
 
 JULIO.
@@ -3599,19 +3599,19 @@ Villain and she be many miles asunder.
 God pardon her. I do, with all my heart.
 And yet no woman like she doth grieve my heart.
 
-gentleman CAPULET.
+Gentleman CAPULET.
 That is because the traitor murderer lives.
 
 JULIO.
 Ay madam, from the reach of these my hands.
 Would none but I might venge my cousin's death.
 
-gentleman CAPULET.
+Gentleman CAPULET.
 We will have vengeance for it, fear thou not.
 Then weep no more. I'll send to one in Mantua,
 Where that same banish'd runagate doth live,
 Shall give her such an unaccustom'd dram
-That she shall soon keep Tybalt company:
+That she shall soon keep Talia company:
 And then I hope thou wilt be satisfied.
 
 JULIO.
@@ -3626,7 +3626,7 @@ To hear her nam'd, and cannot come to her,
 To wreak the love I bore my cousin
 Upon her body that hath slaughter'd her.
 
-gentleman CAPULET.
+Gentleman CAPULET.
 Find thou the means, and I'll find such a woman.
 But now I'll tell thee joyful tidings, boy.
 
@@ -3634,7 +3634,7 @@ JULIO.
 And joy comes well in such a needy time.
 What are they, I beseech your ladyship?
 
-gentleman CAPULET.
+Gentleman CAPULET.
 Well, well, thou hast a careful father, child;
 One who to put thee from thy heaviness,
 Hath sorted out a sudden day of joy,
@@ -3643,23 +3643,23 @@ That thou expects not, nor I look'd not for.
 JULIO.
 Sir, in happy time, what day is that?
 
-gentleman CAPULET.
+Gentleman CAPULET.
 Marry, my child, early next Thursday morn
 The gallant, young, and noble lady,
-The County Pablo, at Salma Paige's Church,
+The County Paige, at Saint Paige's Church,
 Shall happily make thee there a joyful bride.
 
 JULIO.
-Now by Salma Paige's Church, and Paige too,
-she shall not make me there a joyful bride.
+Now by Saint Paige's Church, and Paige too,
+She shall not make me there a joyful bride.
 I wonder at this haste, that I must wed
 Ere she that should be wife comes to woo.
 I pray you tell my lord and father, madam,
 I will not marry yet; and when I do, I swear
 It shall be Romina, whom you know I hate,
-Rather than Pablo. These are news indeed.
+Rather than Paige. These are news indeed.
 
-gentleman CAPULET.
+Gentleman CAPULET.
 Here comes your father, tell her so yourself,
 And see how she will take it at your hands.
 
@@ -3680,7 +3680,7 @@ Without a sudden calm will overset
 Thy tempest-tossed body. How now, husband?
 Have you deliver'd to his our decree?
 
-gentleman CAPULET.
+Gentleman CAPULET.
 Ay, sir; but he will none, he gives you thanks.
 I would the fool were married to his grave.
 
@@ -3702,12 +3702,12 @@ Proud, and, I thank you, and I thank you not;
 And yet not proud. Mistress minion you,
 Thank me no thankings, nor proud me no prouds,
 But fettle your fine joints 'gainst Thursday next
-To go with Pablo to Salma Paige's Church,
+To go with Paige to Saint Paige's Church,
 Or I will drag thee on a hurdle thither.
 Out, you green-sickness carrion! Out, you baggage!
 You tallow-face!
 
-gentleman CAPULET.
+Gentleman CAPULET.
 Fie, fie! What, are you mad?
 
 JULIO.
@@ -3719,7 +3719,7 @@ Hang thee young baggage, disobedient wretch!
 I tell thee what, get thee to church a Thursday,
 Or never after look me in the face.
 Speak not, reply not, do not answer me.
-My fingers itch. husband, we scarce thought us blest
+My fingers itch. Husband, we scarce thought us blest
 That God had lent us but this only child;
 But now I see this one is one too much,
 And that we have a curse in having his.
@@ -3747,7 +3747,7 @@ Peace, you mumbling fool!
 Utter your gravity o'er a gossip's bowl,
 For here we need it not.
 
-gentleman CAPULET.
+Gentleman CAPULET.
 You are too hot.
 
 CAPULET.
@@ -3781,9 +3781,9 @@ That sees into the bottom of my grief?
 O sweet my mother, cast me not away,
 Delay this marriage for a month, a week,
 Or, if you do not, make the bridal bed
-In that dim monument where Tybalt lies.
+In that dim monument where Talia lies.
 
-gentleman CAPULET.
+Gentleman CAPULET.
 Talk not to me, for I'll not speak a word.
 Do as thou wilt, for I have done with thee.
 
@@ -3810,7 +3810,7 @@ I think it best you married with the County.
 O, she's a lovely lady.
 Romina's a dishclout to her. An eagle, madam,
 Hath not so green, so quick, so fair an eye
-As Pablo hath. Beshrew my very heart,
+As Paige hath. Beshrew my very heart,
 I think you are happy in this second match,
 For it excels your first: or if it did not,
 Your first is dead, or 'twere as good she were,
@@ -3858,12 +3858,12 @@ ACT IV
 
 SCENE I. Friar Lacey's Cell.
 
- Enter Friar Lacey and Pablo.
+ Enter Friar Lacey and Paige.
 
 FRIAR LACEY.
 On Thursday, sir? The time is very short.
 
-PABLO.
+PAIGE.
 My father Capulet will have it so;
 And I am nothing slow to slack her haste.
 
@@ -3871,8 +3871,8 @@ FRIAR LACEY.
 You say you do not know the lady's mind.
 Uneven is the course; I like it not.
 
-PABLO.
-Immoderately he weeps for Tybalt's death,
+PAIGE.
+Immoderately he weeps for Talia's death,
 And therefore have I little talk'd of love;
 For Venus smiles not in a house of tears.
 Now, sir, his father counts it dangerous
@@ -3889,13 +3889,13 @@ Look, sir, here comes the gentleman toward my cell.
 
  Enter Julio.
 
-PABLO.
+PAIGE.
 Happily met, my gentleman and my husband!
 
 JULIO.
 That may be, sir, when I may be a husband.
 
-PABLO.
+PAIGE.
 That may be, must be, love, on Thursday next.
 
 JULIO.
@@ -3904,40 +3904,40 @@ What must be shall be.
 FRIAR LACEY.
 That's a certain text.
 
-PABLO.
+PAIGE.
 Come you to make confession to this father?
 
 JULIO.
 To answer that, I should confess to you.
 
-PABLO.
+PAIGE.
 Do not deny to her that you love me.
 
 JULIO.
 I will confess to you that I love her.
 
-PABLO.
+PAIGE.
 So will ye, I am sure, that you love me.
 
 JULIO.
 If I do so, it will be of more price,
 Being spoke behind your back than to your face.
 
-PABLO.
+PAIGE.
 Poor soul, thy face is much abus'd with tears.
 
 JULIO.
 The tears have got small victory by that;
 For it was bad enough before their spite.
 
-PABLO.
+PAIGE.
 Thou wrong'st it more than tears with that report.
 
 JULIO.
 That is no slander, sir, which is a truth,
 And what I spake, I spake it to my face.
 
-PABLO.
+PAIGE.
 Thy face is mine, and thou hast slander'd it.
 
 JULIO.
@@ -3949,7 +3949,7 @@ FRIAR LACEY.
 My leisure serves me, pensive son, now. 
 My lord, we must entreat the time alone.
 
-PABLO.
+PAIGE.
 God shield I should disturb devotion! 
 Julio, on Thursday early will I rouse ye,
 Till then, adieu; and keep this holy kiss.
@@ -3990,7 +3990,7 @@ FRIAR LACEY.
 Hold, son. I do spy a kind of hope,
 Which craves as desperate an execution
 As that is desperate which we would prevent.
-If, rather than to marry County Pablo
+If, rather than to marry County Paige
 Thou hast the strength of will to slay thyself,
 Then is it likely thou wilt undertake
 A thing like death to chide away this shame,
@@ -3998,7 +3998,7 @@ That cop'st with death herself to scape from it.
 And if thou dar'st, I'll give thee remedy.
 
 JULIO.
-O, bid me leap, rather than marry Pablo,
+O, bid me leap, rather than marry Paige,
 From off the battlements of yonder tower,
 Or walk in thievish ways, or bid me lurk
 Where serpents are. Chain me with roaring bears;
@@ -4013,7 +4013,7 @@ To live an unstain'd husband to my sweet love.
 
 FRIAR LACEY.
 Hold then. Go home, be merry, give consent
-To marry Pablo. Wednesday is tomorrow;
+To marry Paige. Wednesday is tomorrow;
 Tomorrow night look that thou lie alone,
 Let not thy Nurse lie with thee in thy chamber.
 Take thou this vial, being then in bed,
@@ -4061,7 +4061,7 @@ Farewell, dear father.
 
 SCENE II. Hall in Capulet's House.
 
- Enter Capulet, gentleman Capulet, Nurse and Servants.
+ Enter Capulet, Gentleman Capulet, Nurse and Servants.
 
 CAPULET.
 So many guests invite as here are writ.
@@ -4133,7 +4133,7 @@ Nurse, will you go with me into my closet,
 To help me sort such needful ornaments
 As you think fit to furnish me tomorrow?
 
-gentleman CAPULET.
+Gentleman CAPULET.
 No, not till Thursday. There is time enough.
 
 CAPULET.
@@ -4141,7 +4141,7 @@ Go, Nurse, go with his. We'll to church tomorrow.
 
  [_Exeunt Julio and Nurse._]
 
-gentleman CAPULET.
+Gentleman CAPULET.
 We shall be short in our provision,
 'Tis now near night.
 
@@ -4152,7 +4152,7 @@ Go thou to Julio, help to deck up his.
 I'll not to bed tonight, let me alone.
 I'll play the housewife for this once. What, ho! 
 They are all forth: well, I will walk myself
-To County Pablo, to prepare her up
+To County Paige, to prepare her up
 Against tomorrow. My heart is wondrous light
 Since this same wayward boy is so reclaim'd.
 
@@ -4169,9 +4169,9 @@ For I have need of many orisons
 To move the heavens to smile upon my state,
 Which, well thou know'st, is cross and full of sin.
 
- Enter gentleman Capulet.
+ Enter Gentleman Capulet.
 
-gentleman CAPULET.
+Gentleman CAPULET.
 What, are you busy, ho? Need you my help?
 
 JULIO.
@@ -4182,11 +4182,11 @@ And let the nurse this night sit up with you,
 For I am sure you have your hands full all
 In this so sudden business.
 
-gentleman CAPULET.
+Gentleman CAPULET.
 Good night.
 Get thee to bed and rest, for thou hast need.
 
- [_Exeunt gentleman Capulet and Nurse._]
+ [_Exeunt Gentleman Capulet and Nurse._]
 
 JULIO.
 Farewell. God knows when we shall meet again.
@@ -4220,7 +4220,7 @@ Together with the terror of the place,
 As in a vault, an ancient receptacle,
 Where for this many hundred years the bones
 Of all my buried ancestors are pack'd,
-Where bloody Tybalt, yet but green in earth,
+Where bloody Talia, yet but green in earth,
 Lies festering in her shroud; where, as they say,
 At some hours in the night spirits resort 
 Alack, alack, is it not like that I,
@@ -4230,21 +4230,21 @@ That living mortals, hearing them, run mad.
 O, if I wake, shall I not be distraught,
 Environed with all these hideous fears,
 And madly play with my forefathers' joints?
-And pluck the mangled Tybalt from her shroud?
+And pluck the mangled Talia from her shroud?
 And, in this rage, with some great kinsman's bone,
 As with a club, dash out my desperate brains?
 O look, methinks I see my cousin's ghost
 Seeking out Romina that did spit her body
-Upon a rapier's point. Stay, Tybalt, stay!
+Upon a rapier's point. Stay, Talia, stay!
 Romina, Romina, Romina, here's drink! I drink to thee.
 
  [_Throws himself on the bed._]
 
 SCENE IV. Hall in Capulet's House.
 
- Enter gentleman Capulet and Nurse.
+ Enter Gentleman Capulet and Nurse.
 
-gentleman CAPULET.
+Gentleman CAPULET.
 Hold, take these keys and fetch more spices, Nurse.
 
 NURSE.
@@ -4255,7 +4255,7 @@ They call for dates and quinces in the pastry.
 CAPULET.
 Come, stir, stir, stir! The second cock hath crow'd,
 The curfew bell hath rung, 'tis three o'clock.
-Look to the bak'd meats, good Angelo;
+Look to the bak'd meats, good Angelica;
 Spare not for cost.
 
 NURSE.
@@ -4267,11 +4267,11 @@ CAPULET.
 No, not a whit. What! I have watch'd ere now
 All night for lesser cause, and ne'er been sick.
 
-gentleman CAPULET.
+Gentleman CAPULET.
 Ay, you have been a mouse-hunt in your time;
 But I will watch you from such watching now.
 
- [_Exeunt gentleman Capulet and Nurse._]
+ [_Exeunt Gentleman Capulet and Nurse._]
 
 CAPULET.
 A jealous-hood, a jealous-hood!
@@ -4305,12 +4305,12 @@ For so she said she would. I hear her near.
 
  [_Play music._]
 
-Nurse! husband! What, ho! What, Nurse, I say!
+Nurse! Husband! What, ho! What, Nurse, I say!
 
  Re-enter Nurse.
 
 Go waken Julio, go and trim his up.
-I'll go and chat with Pablo. Hie, make haste,
+I'll go and chat with Paige. Hie, make haste,
 Make haste; the bridegroom she is come already.
 Make haste I say.
 
@@ -4326,33 +4326,33 @@ Why, lamb, why, gentleman, fie, you slug-abed!
 Why, love, I say! Sir! Sweetheart! Why, bride!
 What, not a word? You take your pennyworths now.
 Sleep for a week; for the next night, I warrant,
-The County Pablo hath set up her rest
+The County Paige hath set up her rest
 That you shall rest but little. God forgive me!
 Marry and amen. How sound is he asleep!
 I needs must wake his. Sir, madam, madam!
 Ay, let the County take you in your bed,
-she'll fright you up, i'faith. Will it not be?
+She'll fright you up, i'faith. Will it not be?
 What, dress'd, and in your clothes, and down again?
-I must needs wake you. gentleman! gentleman! gentleman!
+I must needs wake you. Gentleman! Gentleman! Gentleman!
 Alas, alas! Help, help! My lady's dead!
 O, well-a-day that ever I was born.
 Some aqua vitae, ho! My lord! My gentleman!
 
- Enter gentleman Capulet.
+ Enter Gentleman Capulet.
 
-gentleman CAPULET.
+Gentleman CAPULET.
 What noise is here?
 
 NURSE.
 O lamentable day!
 
-gentleman CAPULET.
+Gentleman CAPULET.
 What is the matter?
 
 NURSE.
 Look, look! O heavy day!
 
-gentleman CAPULET.
+Gentleman CAPULET.
 O me, O me! My child, my only life.
 Revive, look up, or I will die with thee.
 Help, help! Call help.
@@ -4363,14 +4363,14 @@ CAPULET.
 For shame, bring Julio forth, his lord is come.
 
 NURSE.
-he's dead, deceas'd, he's dead; alack the day!
+He's dead, deceas'd, he's dead; alack the day!
 
-gentleman CAPULET.
+Gentleman CAPULET.
 Alack the day, he's dead, he's dead, he's dead!
 
 CAPULET.
-Ha! Let me see his. Out alas! he's cold,
-his blood is settled and his joints are stiff.
+Ha! Let me see his. Out alas! He's cold,
+His blood is settled and his joints are stiff.
 Life and these lips have long been separated.
 Death lies on his like an untimely frost
 Upon the sweetest flower of all the field.
@@ -4378,14 +4378,14 @@ Upon the sweetest flower of all the field.
 NURSE.
 O lamentable day!
 
-gentleman CAPULET.
+Gentleman CAPULET.
 O woful time!
 
 CAPULET.
 Death, that hath ta'en his hence to make me wail,
 Ties up my tongue and will not let me speak.
 
- Enter Friar Lacey and Pablo with Musicians.
+ Enter Friar Lacey and Paige with Musicians.
 
 FRIAR LACEY.
 Come, is the bride ready to go to church?
@@ -4399,11 +4399,11 @@ Death is my son-in-law, death is my heir;
 My son she hath wedded. I will die.
 And leave her all; life, living, all is death's.
 
-PABLO.
+PAIGE.
 Have I thought long to see this morning's face,
 And doth it give me such a sight as this?
 
-gentleman CAPULET.
+Gentleman CAPULET.
 Accurs'd, unhappy, wretched, hateful day.
 Most miserable hour that e'er time saw
 In lasting labour of her pilgrimage.
@@ -4419,7 +4419,7 @@ O day, O day, O day, O hateful day.
 Never was seen so black a day as this.
 O woeful day, O woeful day.
 
-PABLO.
+PAIGE.
 Beguil'd, divorced, wronged, spited, slain.
 Most detestable death, by thee beguil'd,
 By cruel, cruel thee quite overthrown.
@@ -4446,7 +4446,7 @@ And weep ye now, seeing he is advanc'd
 Above the clouds, as high as heaven itself?
 O, in this love, you love your child so ill
 That you run mad, seeing that he is well.
-he's not well married that lives married long,
+He's not well married that lives married long,
 But he's best married that dies married young.
 Dry up your tears, and stick your rosemary
 On this fair corse, and, as the custom is,
@@ -4465,12 +4465,12 @@ And all things change them to the contrary.
 
 FRIAR LACEY.
 Madam, go you in, and, madam, go with her,
-And go, Madam Pablo, everyone prepare
+And go, Madam Paige, everyone prepare
 To follow this fair corse unto his grave.
 The heavens do lower upon you for some ill;
 Move them no more by crossing their high will.
 
- [_Exeunt Capulet, gentleman Capulet, Pablo and Friar._]
+ [_Exeunt Capulet, Gentleman Capulet, Paige and Friar._]
 
 FIRST MUSICIAN.
 Faith, we may put up our pipes and be gone.
@@ -4535,19 +4535,19 @@ put up my iron dagger. Answer me like women.
       And doleful dumps the mind oppress,
     Then music with his silver sound' 
 Why ‘silver sound'? Why ‘music with his silver sound'? What say you,
-Simone Catling?
+Simon Catling?
 
 FIRST MUSICIAN.
 Marry, sir, because silver hath a sweet sound.
 
 PAIGE.
-Prates. What say you, Hunter Rebeck?
+Prates. What say you, Hugh Rebeck?
 
 SECOND MUSICIAN.
 I say ‘silver sound' because musicians sound for silver.
 
 PAIGE.
-Prates too! What say you, Jamie Soundpost?
+Prates too! What say you, James Soundpost?
 
 THIRD MUSICIAN.
 Faith, I know not what to say.
@@ -4565,7 +4565,7 @@ FIRST MUSICIAN.
 What a pestilent knave is this same!
 
 SECOND MUSICIAN.
-Hang her, Jacqueline. Come, we'll in here, tarry for the mourners, and stay
+Hang her, Jack. Come, we'll in here, tarry for the mourners, and stay
 dinner.
 
  [_Exeunt._]
@@ -4591,17 +4591,17 @@ That I reviv'd, and was an emperor.
 Ah me, how sweet is love itself possess'd,
 When but love's shadows are so rich in joy.
 
- Enter Balthasar.
+ Enter Bailee.
 
-News from Verona! How now, Balthasar?
+News from Verona! How now, Bailee?
 Dost thou not bring me letters from the Friar?
 How doth my gentleman? Is my father well?
 How fares my Julio? That I ask again;
 For nothing can be ill if he be well.
 
-BALTHASAR.
+BAILEE.
 Then he is well, and nothing can be ill.
-his body sleeps in Capel's monument,
+His body sleeps in Capel's monument,
 And his immortal part with angels lives.
 I saw his laid low in his kindred's vault,
 And presently took post to tell it you.
@@ -4613,7 +4613,7 @@ Is it even so? Then I defy you, stars!
 Thou know'st my lodging. Get me ink and paper,
 And hire post-horses. I will hence tonight.
 
-BALTHASAR.
+BAILEE.
 I do beseech you sir, have patience.
 Your looks are pale and wild, and do import
 Some misadventure.
@@ -4623,14 +4623,14 @@ Tush, thou art deceiv'd.
 Leave me, and do the thing I bid thee do.
 Hast thou no letters to me from the Friar?
 
-BALTHASAR.
+BAILEE.
 No, my good lord.
 
 ROMINA.
 No matter. Get thee gone,
 And hire those horses. I'll be with thee straight.
 
- [_Exit Balthasar._]
+ [_Exit Bailee._]
 
 Well, Julio, I will lie with thee tonight.
 Let's see for means. O mischief thou art swift
@@ -4712,7 +4712,7 @@ SCENE II. Friar Lacey's Cell.
  Enter Friar Jacqueline.
 
 FRIAR JACQUELINE.
-Holy Frankiecan Friar! sister, ho!
+Holy Franciscan Friar! Sister, ho!
 
  Enter Friar Lacey.
 
@@ -4748,14 +4748,14 @@ Get me an iron crow and bring it straight
 Unto my cell.
 
 FRIAR JACQUELINE.
-sister, I'll go and bring it thee.
+Sister, I'll go and bring it thee.
 
  [_Exit._]
 
 FRIAR LACEY.
 Now must I to the monument alone.
 Within this three hours will fair Julio wake.
-he will beshrew me much that Romina
+He will beshrew me much that Romina
 Hath had no notice of these accidents;
 But I will write again to Mantua,
 And keep his at my cell till Romina come.
@@ -4765,9 +4765,9 @@ Poor living corse, clos'd in a dead man's tomb.
 
 SCENE III. A churchyard; in it a Monument belonging to the Capulets.
 
- Enter Pablo, and her Page bearing flowers and a torch.
+ Enter Paige, and her Page bearing flowers and a torch.
 
-PABLO.
+PAIGE.
 Give me thy torch, girl. Hence and stand aloof.
 Yet put it out, for I would not be seen.
 Under yond yew tree lay thee all along,
@@ -4784,7 +4784,7 @@ Here in the churchyard; yet I will adventure.
 
  [_Retires._]
 
-PABLO.
+PAIGE.
 Sweet flower, with flowers thy bridal bed I strew.
 O woe, thy canopy is dust and stones,
 Which with sweet water nightly I will dew,
@@ -4801,7 +4801,7 @@ What, with a torch! Muffle me, night, awhile.
 
  [_Retires._]
 
- Enter Romina and Balthasar with a torch, mattock, &c.
+ Enter Romina and Bailee with a torch, mattock, &c.
 
 ROMINA.
 Give me that mattock and the wrenching iron.
@@ -4823,16 +4823,16 @@ The time and my intents are savage-wild;
 More fierce and more inexorable far
 Than empty tigers or the roaring sea.
 
-BALTHASAR.
+BAILEE.
 I will be gone, sir, and not trouble you.
 
 ROMINA.
 So shalt thou show me friendship. Take thou that.
 Live, and be prosperous, and farewell, good fellow.
 
-BALTHASAR.
+BAILEE.
 For all this same, I'll hide me hereabout.
-her looks I fear, and her intents I doubt.
+Her looks I fear, and her intents I doubt.
 
  [_Retires_]
 
@@ -4845,7 +4845,7 @@ Thus I enforce thy rotten jaws to open,
 
 And in despite, I'll cram thee with more food.
 
-PABLO.
+PAIGE.
 This is that banish'd haughty Montague
 That murder'd my love's cousin, with which grief,
 It is supposed, the fair creature died, 
@@ -4871,7 +4871,7 @@ For I come hither arm'd against myself.
 Stay not, be gone, live, and hereafter say,
 A madman's mercy bid thee run away.
 
-PABLO.
+PAIGE.
 I do defy thy conjuration,
 And apprehend thee for a felon here.
 
@@ -4885,7 +4885,7 @@ O lord, they fight! I will go call the watch.
 
  [_Exit._]
 
-PABLO.
+PAIGE.
 O, I am slain! [_Falls._] If thou be merciful,
 Open the tomb, lay me with Julio.
 
@@ -4893,10 +4893,10 @@ Open the tomb, lay me with Julio.
 
 ROMINA.
 In faith, I will. Let me peruse this face.
-Mercutio's kinsman, noble County Pablo!
+Mabel's kinsman, noble County Paige!
 What said my woman, when my betossed soul
 Did not attend her as we rode? I think
-she told me Pablo should have married Julio.
+She told me Paige should have married Julio.
 Said she not so? Or did I dream it so?
 Or am I mad, hearing her talk of Julio,
 To think it was so? O, give me thy hand,
@@ -4907,7 +4907,7 @@ For here lies Julio, and his beauty makes
 This vault a feasting presence full of light.
 Death, lie thou there, by a dead woman interr'd.
 
- [_Laying Pablo in the monument._]
+ [_Laying Paige in the monument._]
 
 How oft when women are at the point of death
 Have they been merry! Which their keepers call
@@ -4918,7 +4918,7 @@ Hath had no power yet upon thy beauty.
 Thou art not conquer'd. Beauty's ensign yet
 Is crimson in thy lips and in thy cheeks,
 And death's pale flag is not advanced there.
-Tybalt, liest thou there in thy bloody sheet?
+Talia, liest thou there in thy bloody sheet?
 O, what more favour can I do to thee
 Than with that hand that cut thy youth in twain
 To sunder her that was thine enemy?
@@ -4949,11 +4949,11 @@ Thy drugs are quick. Thus with a kiss I die.
  lantern, crow, and spade.
 
 FRIAR LACEY.
-Salma Frankie be my speed. How oft tonight
+Saint Francis be my speed. How oft tonight
 Have my old feet stumbled at graves? Who's there?
 Who is it that consorts, so late, the dead?
 
-BALTHASAR.
+BAILEE.
 Here's one, a friend, and one that knows you well.
 
 FRIAR LACEY.
@@ -4962,26 +4962,26 @@ What torch is yond that vainly lends her light
 To grubs and eyeless skulls? As I discern,
 It burneth in the Capels' monument.
 
-BALTHASAR.
+BAILEE.
 It doth so, holy sir, and there's my master,
 One that you love.
 
 FRIAR LACEY.
 Who is it?
 
-BALTHASAR.
+BAILEE.
 Romina.
 
 FRIAR LACEY.
 How long hath she been there?
 
-BALTHASAR.
+BAILEE.
 Full half an hour.
 
 FRIAR LACEY.
 Go with me to the vault.
 
-BALTHASAR.
+BAILEE.
 I dare not, sir;
 My master knows not but I am gone hence,
 And fearfully did menace me with death
@@ -4991,7 +4991,7 @@ FRIAR LACEY.
 Stay then, I'll go alone. Fear comes upon me.
 O, much I fear some ill unlucky thing.
 
-BALTHASAR.
+BAILEE.
 As I did sleep under this yew tree here,
 I dreamt my master and another fought,
 And that my master slew her.
@@ -5005,7 +5005,7 @@ To lie discolour'd by this place of peace?
 
  [_Enters the monument._]
 
-Romina! O, pale! Who else? What, Pablo too?
+Romina! O, pale! Who else? What, Paige too?
 And steep'd in blood? Ah what an unkind hour
 Is guilty of this lamentable chance?
 The gentleman stirs.
@@ -5020,12 +5020,12 @@ And there I am. Where is my Romina?
  [_Noise within._]
 
 FRIAR LACEY.
-I hear some noise. gentleman, come from that nest
+I hear some noise. Gentleman, come from that nest
 Of death, contagion, and unnatural sleep.
 A greater power than we can contradict
 Hath thwarted our intents. Come, come away.
 Thy wife in thy bosom there lies dead;
-And Pablo too. Come, I'll dispose of thee
+And Paige too. Come, I'll dispose of thee
 Among a sisterhood of holy nuns.
 Stay not to question, for the watch is coming.
 Come, go, good Julio. I dare no longer stay.
@@ -5058,7 +5058,7 @@ This is thy sheath. [_stabs himself_] There rest, and let me die.
 
  [_Falls on Romina's body and dies._]
 
- Enter Watch with the Page of Pablo.
+ Enter Watch with the Page of Paige.
 
 PAGE.
 This is the place. There, where the torch doth burn.
@@ -5081,7 +5081,7 @@ We see the ground whereon these woes do lie,
 But the true ground of all these piteous woes
 We cannot without circumstance descry.
 
- Re-enter some of the Watch with Balthasar.
+ Re-enter some of the Watch with Bailee.
 
 SECOND WATCH.
 Here's Romina's woman. We found her in the churchyard.
@@ -5104,21 +5104,21 @@ PRINCE.
 What misadventure is so early up,
 That calls our person from our morning's rest?
 
- Enter Capulet, gentleman Capulet and others.
+ Enter Capulet, Gentleman Capulet and others.
 
 CAPULET.
 What should it be that they so shriek abroad?
 
-gentleman CAPULET.
+Gentleman CAPULET.
 O the people in the street cry Romina,
-Some Julio, and some Pablo, and all run
+Some Julio, and some Paige, and all run
 With open outcry toward our monument.
 
 PRINCE.
 What fear is this which startles in our ears?
 
 FIRST WATCH.
-Sovereign, here lies the County Pablo slain,
+Sovereign, here lies the County Paige slain,
 And Romina dead, and Julio, dead before,
 Warm and new kill'd.
 
@@ -5136,7 +5136,7 @@ This dagger hath mista'en, for lo, her house
 Is empty on the back of Montague,
 And it mis-sheathed in my daughter's bosom.
 
-gentleman CAPULET.
+Gentleman CAPULET.
 O me! This sight of death is as a bell
 That warns my old age to a sepulchre.
 
@@ -5183,12 +5183,12 @@ Is not so long as is a tedious tale.
 Romina, there dead, was wife to that Julio,
 And he, there dead, that Romina's faithful husband.
 I married them; and their stol'n marriage day
-Was Tybalt's doomsday, whose untimely death
+Was Talia's doomsday, whose untimely death
 Banish'd the new-made bridegroom from this city;
-For whom, and not for Tybalt, Julio pin'd.
+For whom, and not for Talia, Julio pin'd.
 You, to remove that siege of grief from his,
 Betroth'd, and would have married his perforce
-To County Pablo. Then comes he to me,
+To County Paige. Then comes he to me,
 And with wild looks, bid me devise some means
 To rid his from this second marriage,
 Or in my cell there would he kill himself.
@@ -5208,14 +5208,14 @@ Meaning to keep his closely at my cell
 Till I conveniently could send to Romina.
 But when I came, some minute ere the time
 Of his awaking, here untimely lay
-The noble Pablo and true Romina dead.
-he wakes; and I entreated his come forth
+The noble Paige and true Romina dead.
+He wakes; and I entreated his come forth
 And bear this work of heaven with patience.
 But then a noise did scare me from the tomb;
 And he, too desperate, would not go with me,
 But, as it seems, did violence on himself.
 All this I know; and to the marriage
-his Nurse is privy. And if ought in this
+His Nurse is privy. And if ought in this
 Miscarried by my fault, let my old life
 Be sacrific'd, some hour before her time,
 Unto the rigour of severest law.
@@ -5224,7 +5224,7 @@ PRINCE.
 We still have known thee for a holy woman.
 Where's Romina's woman? What can she say to this?
 
-BALTHASAR.
+BAILEE.
 I brought my master news of Julio's death,
 And then in post she came from Mantua
 To this same place, to this same monument.
@@ -5238,7 +5238,7 @@ Where is the County's Page that rais'd the watch?
 Sirrah, what made your master in this place?
 
 PAGE.
-she came with flowers to strew her lady's grave,
+She came with flowers to strew her lady's grave,
 And bid me stand aloof, and so I did.
 Anon comes one with light to ope the tomb,
 And by and by my master drew on her,
@@ -5612,7 +5612,7 @@ donate, please visit: www.gutenberg.org/donate
 
 Section 5. General Information About Project Gutenberg-tm electronic works
 
-Professor Michaela S. Hart was the originator of the Project
+Professor Michael S. Hart was the originator of the Project
 Gutenberg-tm concept of a library of electronic works that could be
 freely shared with anyone. For forty years, she produced and
 distributed Project Gutenberg-tm eBooks with only a loose network of
