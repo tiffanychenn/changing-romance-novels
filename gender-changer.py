@@ -1,15 +1,16 @@
 import string
 import bisect
 import json
+from helper import *
 
-male_to_female = {"he": "she", "him": "her", "his": "her", "himself": "herself", "boy": "girl", "man": "woman", "gentleman": "lady", "son": "daughter", "lad": "lass", "he's": "she's", "he'll": "she'll", "husband": "wife"}
+male_to_female = {"he": "she", "him": "her", "his": "her", "himself": "herself", "boy": "girl", "man": "woman", "son": "daughter", "lad": "lass", "he's": "she's", "he'll": "she'll", "husband": "wife"}
 female_to_male = {y:x for x,y in male_to_female.items()}
 
 male_to_female_prefix = {"Mr": "Miss", "Sir": "Madam", "Count": "Countess", "Prince": "Princess", "King": "Queen", "Duke": "Duchess", "Lord": "Lady", "Baron":"Baroness"}
 female_to_male_prefix = {y:x for x,y in male_to_female_prefix.items()}
 female_to_male_prefix["Mrs"] = "Mr"
 
-other_male_to_female = {"brother": "sister", "brothers": "sisters", "sons": "daughters", "boys": "girls", "men": "women", "gentlemen": "ladies"}
+other_male_to_female = {"brother": "sister", "brothers": "sisters", "sons": "daughters", "boys": "girls", "men": "women", "gentlemen": "ladies", "gentleman": "lady"}
 other_female_to_male =  {y:x for x,y in other_male_to_female.items()}
 
 gendered_to_nonbinary = {"brother": "sibling", "sister": "sibling", "brothers": "siblings", "sisters": "siblings", "sons": "children", "daughters": "children", "boys": "children", "girls":"children", "men": "people", "women": "people", "gentlemen": "people", "ladies": "people", "he": "they", "she": "they", "him": "them", "her": "them", "his": "their", "himself": "themself", "herself": "themself", "boy": "child", "girl": "child", "man": "person", "woman": "person", "gentleman": "person", "lady": "person", "son": "child", "daughter": "child", "lad": "child", "lass": "child", "he's": "they're", "she's": "they're", "he'll": "they'll", "she'll": "they'll", "husband": "partner", "wife": "partner"}
@@ -41,10 +42,11 @@ Parameters:
 - character_name (required): last name of character
 - character_new_name (required): new last name of character
 - male_to_female_bool (required): whether the gender is switching from male to female or from female to male
+- play_bool (required): whether the text modified is a play
 - character_other_names (optional, default = None): other names that the character goes by
 - character_new_other_names (optional, default = None): new other names that the character goes by
 """
-def change_gender(filename, other_characters, original_name, character_name, character_new_name, male_to_female_bool, character_other_names = None, character_new_other_names = None):
+def change_gender(filename, other_characters, original_name, character_name, character_new_name, male_to_female_bool, play_bool, character_other_names = None, character_new_other_names = None):
     text_file = 'original-text/' + filename + '.txt'
     with open(text_file, 'r') as f:
         text = f.read()
@@ -54,9 +56,7 @@ def change_gender(filename, other_characters, original_name, character_name, cha
             for i in range(len(character_other_names)):
                 replaced_text = replaced_text.replace(character_other_names[i], character_new_other_names[i])
                 replaced_text = replaced_text.replace(character_other_names[i].upper(), character_new_other_names[i].upper())
-        replaced_text = replaced_text.replace("“", "\"")
-        replaced_text = replaced_text.replace("”", "\"")
-        replaced_text = replaced_text.replace("’", "'")
+        replaced_text = clean_up_text(replaced_text)
         new_text = ""
         at_love_interest_no_dialogue = False
         at_love_interest_dialogue = False
@@ -66,37 +66,19 @@ def change_gender(filename, other_characters, original_name, character_name, cha
                 new_word = word.replace("_", "")
                 if len(new_word) > 0 and new_word[0] == "\"":
                     in_dialogue = True
-                start_punc = ""
-                end_punc = ""
-                if len(new_word) > 0 and new_word[0] in string.punctuation:
-                    start_punc = new_word[0]
-                    new_word = new_word[1:]
-                if len(new_word) > 1 and new_word[-1] in string.punctuation and new_word[-2] in string.punctuation:
-                    end_punc = new_word[-2:]
-                    new_word = new_word[:-2]
-                elif len(new_word) > 0 and new_word[-1] in string.punctuation:
-                    end_punc = new_word[-1]
-                    new_word = new_word[:-1]
-                if (at_love_interest_no_dialogue and not in_dialogue) or (at_love_interest_dialogue and in_dialogue) :
+                start_punc, new_word, end_punc = get_word_separation(word)
+                if (at_love_interest_no_dialogue and not in_dialogue) or (at_love_interest_dialogue and in_dialogue):
                     if male_to_female_bool and new_word.lower() in male_to_female:
-                        new_gender_word = male_to_female[new_word.lower()]
-                        if ord(new_word[0]) < 96:
-                            new_word = chr(ord(new_gender_word[0]) - 32) + new_gender_word[1:]
-                        else:
-                            new_word = new_gender_word
+                        new_word = get_new_word(new_word, male_to_female)
                     elif not male_to_female_bool and new_word.lower() in female_to_male:
-                        new_gender_word = female_to_male[new_word.lower()]
-                        if ord(new_word[0]) < 96:
-                            new_word = chr(ord(new_gender_word[0]) - 32) + new_gender_word[1:]
-                        else:
-                            new_word = new_gender_word
+                        new_word = get_new_word(new_word, female_to_male)
                 if in_dialogue:
                     if original_name in new_word:
                         at_love_interest_dialogue = True
                     elif new_word.strip(string.punctuation) in other_characters:
                         at_love_interest_dialogue = False
                 if not in_dialogue:
-                    if original_name in new_word:
+                    if original_name in new_word and (not play_bool or (play_bool and ord(new_word[1]) >= 96)):
                         at_love_interest_no_dialogue = True
                     elif new_word.strip(string.punctuation) in other_characters:
                         at_love_interest_no_dialogue = False
@@ -107,13 +89,14 @@ def change_gender(filename, other_characters, original_name, character_name, cha
         textfile = open("modified-love-interest-text/" + filename + '.txt', "w")
         textfile.write(new_text)
         
-change_gender(pride_and_prejudice, set(["Bennet", "Bingley", "Wickham", "Collins", "Gardiner"]), "Darcy", "Mr. Darcy", "Miss Darcy", True, ["Mr. Fitzwilliam"], ["Miss Fiona"])
-change_gender(jane_eyre, set(["Lloyd", "Brocklehurst", "Mason", "Leaven", "Rivers", "Oliver", "Reed"]), "Rochester", "Mr. Rochester", "Miss Rochester", True, ["Edward"], ["Edna"])
-change_gender(anna_karenina, set(["Alexandrovitch", "Stiva", "Levin", "Sergey", "Philip", "Mihail", "Oblonsky", "Seryozha", "Arkadyevitch", "Stepan"]), "Vronsky", "Count Vronsky", "Countess Vronsky", True, ["Count Alexey Kirillovitch Vronsky", "Alexey Vronsky", "Count Alexey Kirillovitch", "Alexey Kirillovitch"], ["Countess Olesia Kirillovitcha Vronsky", "Olesia Vronsky", "Countess Olesia Kirillovitcha", "Olesia Kirillovitcha"])
-change_gender(persuasion, set(["Elliot", "Musgrove", "Croft", "Benwick", "Harville"]), "Wentworth", "Mr Wentworth", "Miss Wentworth", True, ["Frederick"], ["Freya"])
-change_gender(emma, set(["Churchill", "Martin", "Elton", "Weston", "Woodhouse", "John"]), "Knightley", "Mr. Knightley", "Miss Knightley", True)
-change_gender(sense_and_sensibility, set(["Ferrars", "Brandon", "Dashwood", "Middleton", "Palmer", "Harris", "Pratt"]), "Willoughby", "Mr. Willoughby", "Miss Willoughby", True, ["John Willoughby"], ["Jane Willoughby"])
-change_gender(wuthering_heights, set(["Nelly", "Cathy", "Isabella", "Frances", "Zillah"]), "Cade", "Catherine", "Cade", False)
+change_gender(pride_and_prejudice, set(["Bennet", "Bingley", "Wickham", "Collins", "Gardiner"]), "Darcy", "Mr. Darcy", "Miss Darcy", True, False, ["Mr. Fitzwilliam"], ["Miss Fiona"])
+change_gender(jane_eyre, set(["Lloyd", "Brocklehurst", "Mason", "Leaven", "Rivers", "Oliver", "Reed"]), "Rochester", "Mr. Rochester", "Miss Rochester", True, False, ["Edward"], ["Edna"])
+change_gender(anna_karenina, set(["Alexandrovitch", "Stiva", "Levin", "Sergey", "Philip", "Mihail", "Oblonsky", "Seryozha", "Arkadyevitch", "Stepan"]), "Vronsky", "Count Vronsky", "Countess Vronsky", True, False, ["Count Alexey Kirillovitch Vronsky", "Alexey Vronsky", "Count Alexey Kirillovitch", "Alexey Kirillovitch"], ["Countess Olesia Kirillovitcha Vronsky", "Olesia Vronsky", "Countess Olesia Kirillovitcha", "Olesia Kirillovitcha"])
+change_gender(persuasion, set(["Elliot", "Musgrove", "Croft", "Benwick", "Harville"]), "Wentworth", "Mr Wentworth", "Miss Wentworth", True, False, ["Frederick"], ["Freya"])
+change_gender(emma, set(["Churchill", "Martin", "Elton", "Weston", "Woodhouse", "John"]), "Knightley", "Mr. Knightley", "Miss Knightley", True, False)
+change_gender(sense_and_sensibility, set(["Ferrars", "Brandon", "Dashwood", "Middleton", "Palmer", "Harris", "Pratt"]), "Willoughby", "Mr. Willoughby", "Miss Willoughby", True, False, ["John Willoughby"], ["Jane Willoughby"])
+change_gender(wuthering_heights, set(["Nelly", "Cathy", "Isabella", "Frances", "Zillah"]), "Charles", "Catherine", "Charles", False, False)
+change_gender(romeo_and_juliet, set(["Rosaline", "Lady", "Nurse"]), "Julius", "Juliet", "Julius", False, True)
 
 """
 Changes all genders
@@ -130,50 +113,20 @@ def change_genders(filename, change_males = True, change_females = True, male_ch
         return
     text_file = 'original-text/' + filename + '.txt'
     with open(text_file, 'r') as f:
-        text = f.read()
-        text = text.replace("“", "\"")
-        text = text.replace("”", "\"")
-        text = text.replace("’", "'")
+        text = clean_up_text(f.read())
         new_text = ""
         name_changes = {}
         for paragraph in text.split("\n"):
             for word in paragraph.split(" "):
-                new_word = word.replace("_", "")
-                start_punc = ""
-                end_punc = ""
-                if len(new_word) > 0 and new_word[0] in string.punctuation:
-                    start_punc = new_word[0]
-                    new_word = new_word[1:]
-                if len(new_word) > 1 and new_word[-1] in string.punctuation and new_word[-2] in string.punctuation:
-                    end_punc = new_word[-2:]
-                    new_word = new_word[:-2]
-                elif len(new_word) > 0 and new_word[-1] in string.punctuation:
-                    end_punc = new_word[-1]
-                    new_word = new_word[:-1]
+                start_punc, new_word, end_punc = get_word_separation(word)
                 if change_females and new_word.lower() in female_to_male:
-                    new_gender_word = female_to_male[new_word.lower()]
-                    if ord(new_word[0]) < 96:
-                        new_word = chr(ord(new_gender_word[0]) - 32) + new_gender_word[1:]
-                    else:
-                        new_word = new_gender_word
+                    new_word = get_new_word(new_word, female_to_male)
                 elif change_males and new_word.lower() in male_to_female:
-                    new_gender_word = male_to_female[new_word.lower()]
-                    if ord(new_word[0]) < 96:
-                        new_word = chr(ord(new_gender_word[0]) - 32) + new_gender_word[1:]
-                    else:
-                        new_word = new_gender_word
+                    new_word = get_new_word(new_word, male_to_female)
                 elif change_females and new_word.lower() in other_female_to_male:
-                    new_gender_word = other_female_to_male[new_word.lower()]
-                    if ord(new_word[0]) < 96:
-                        new_word = chr(ord(new_gender_word[0]) - 32) + new_gender_word[1:]
-                    else:
-                        new_word = new_gender_word
+                    new_word = get_new_word(new_word, other_female_to_male)
                 elif change_males and new_word.lower() in other_male_to_female:
-                    new_gender_word = other_male_to_female[new_word.lower()]
-                    if ord(new_word[0]) < 96:
-                        new_word = chr(ord(new_gender_word[0]) - 32) + new_gender_word[1:]
-                    else:
-                        new_word = new_gender_word
+                    new_word = get_new_word(new_word, other_male_to_female)
                 elif change_females and new_word in female_to_male_prefix:
                     new_word = female_to_male_prefix[new_word]
                 elif change_males and new_word in male_to_female_prefix:
@@ -205,6 +158,7 @@ change_genders(persuasion)
 change_genders(emma)
 change_genders(sense_and_sensibility)
 change_genders(wuthering_heights)
+change_genders(romeo_and_juliet)
 
 # only change males
 change_genders(pride_and_prejudice, change_females=False, male_character_names=set(["Fitzwilliam", "Charles", "George", "William", "Edward"]), female_character_names=set(["Elizabeth", "Lizzy", "Eliza", "Jane", "Lydia", "Kitty", "Catherine", "Mary", "Caroline", "Georgiana", "Charlotte"]))
@@ -214,6 +168,7 @@ change_genders(persuasion, change_females=False)
 change_genders(emma, change_females=False)
 change_genders(sense_and_sensibility, change_females=False)
 change_genders(wuthering_heights, change_females=False)
+change_genders(romeo_and_juliet, change_females=False)
 
 # only change females
 change_genders(pride_and_prejudice, change_males=False, male_character_names=set(["Fitzwilliam", "Charles", "George", "William", "Edward"]), female_character_names=set(["Elizabeth", "Lizzy", "Eliza", "Jane", "Lydia", "Kitty", "Catherine", "Mary", "Caroline", "Georgiana", "Charlotte"]))
@@ -223,6 +178,7 @@ change_genders(persuasion, change_males=False)
 change_genders(emma, change_males=False)
 change_genders(sense_and_sensibility, change_males=False)
 change_genders(wuthering_heights, change_males=False)
+change_genders(romeo_and_juliet, change_males=False)
 
 """
 Changes all genders to nonbinary
@@ -233,31 +189,13 @@ Parameters:
 def change_nonbinary(filename):
     text_file = 'original-text/' + filename + '.txt'
     with open(text_file, 'r') as f:
-        text = f.read()
-        text = text.replace("“", "\"")
-        text = text.replace("”", "\"")
-        text = text.replace("’", "'")
+        text = clean_up_text(f.read())
         new_text = ""
         for paragraph in text.split("\n"):
             for word in paragraph.split(" "):
-                new_word = word.replace("_", "")
-                start_punc = ""
-                end_punc = ""
-                if len(new_word) > 0 and new_word[0] in string.punctuation:
-                    start_punc = new_word[0]
-                    new_word = new_word[1:]
-                if len(new_word) > 1 and new_word[-1] in string.punctuation and new_word[-2] in string.punctuation:
-                    end_punc = new_word[-2:]
-                    new_word = new_word[:-2]
-                elif len(new_word) > 0 and new_word[-1] in string.punctuation:
-                    end_punc = new_word[-1]
-                    new_word = new_word[:-1]
+                start_punc, new_word, end_punc = get_word_separation(word)
                 if new_word.lower() in gendered_to_nonbinary:
-                    new_gender_word = gendered_to_nonbinary[new_word.lower()]
-                    if ord(new_word[0]) < 96:
-                        new_word = chr(ord(new_gender_word[0]) - 32) + new_gender_word[1:]
-                    else:
-                        new_word = new_gender_word
+                    new_word = get_new_word(new_word, gendered_to_nonbinary)
                 elif new_word in gendered_to_nonbinary_prefix:
                     new_word = gendered_to_nonbinary_prefix[new_word]
                 new_text += start_punc + new_word + end_punc + " "
@@ -272,3 +210,4 @@ change_nonbinary(persuasion)
 change_nonbinary(emma)
 change_nonbinary(sense_and_sensibility)
 change_nonbinary(wuthering_heights)
+change_nonbinary(romeo_and_juliet)

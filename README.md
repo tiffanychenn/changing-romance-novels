@@ -23,13 +23,12 @@ Note that all implementation started with me modifying _Pride and Prejudice_, so
 
 Found bugs:
 - I'm still unsure how to tackle when someone of the same gender is thinking of the love interest.
-- em-dashes are regular dashes in the text files
+- em-dashes are taken out in the new file and replaced with spaces because the em-dash is not in ascii
 - doesn't work well with passive tense (e.g. his name was Willoughby)
 - mrs vs miss distinction when changing genders from mr 
 - the way that names currently work is the text finds all names it can find in this names database I imported and check if a work is a name in that database. doesn't work well with foreign texts (e.g. Anna Karenina) so it would be good to do it through a database of character names? (but sadly that is very hard to find online because it is... a very niche necessity lol)
 - nicknames are very hard to do with the current way that my project is parsing. also foreign names don't work well (i think this is clear from _Anna Karenina_)
 - her can correspond to his and him
-- not really a bug but a stylistic choice: currently the code takes out underscores used to italicize. did this because the files are `.txt` files anyways
 
 Resources:
 - Project Gutenberg, for the stories
