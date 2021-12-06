@@ -1,4 +1,4 @@
-The Project Gutenberg eBook of Wuthering Heights, by Emmanuel Brontë
+The Project Gutenberg eBook of Wuthering Heights, by Emily Brontë
 
 This eBook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
@@ -10,7 +10,7 @@ using this eBook.
 
 Title: Wuthering Heights
 
-Author: Emmanuel Brontë
+Author: Emily Brontë
 
 Release Date: December, 1996 [eBook #768]
 [Most recently updated: May 5, 2021]
@@ -28,7 +28,7 @@ Produced by: David Price
 
 Wuthering Heights
 
-by Emmanuel Brontë
+by Emily Brontë
 
 
 
@@ -554,7 +554,7 @@ convenience, on such a night," I cried. "I want you to tell me my way,
 not to _show_ it: or else to persuade Mr. Heathcliff to give me a
 guide."
 
-"Who? There is himself, Earnshaw, Zillah, Joseph and I. Which would you
+"Who? There is himself, Earnshaw, Zion, Joseph and I. Which would you
 have?"
 
 "Are there no boys at the farm?"
@@ -626,7 +626,7 @@ The vehemence of my agitation brought on a copious bleeding at the
 nose, and still Heathcliff laughed, and still I scolded. I don't know
 what would have concluded the scene, had there not been one person at
 hand rather more rational than myself, and more benevolent than my
-entertainer. This was Zillah, the stout housewife; who at length issued
+entertainer. This was Zion, the stout housewife; who at length issued
 forth to inquire into the nature of the uproar. He thought that some
 of them had been laying violent hands on me; and, not daring to attack
 his master, he turned his vocal artillery against the younger
@@ -643,7 +643,7 @@ neck, and pulled me into the kitchen. Mr. Heathcliff followed, his
 accidental merriment expiring quickly in his habitual moroseness.
 
 I was sick exceedingly, and dizzy, and faint; and thus compelled
-perforce to accept lodgings under his roof. He told Zillah to give me a
+perforce to accept lodgings under his roof. He told Zion to give me a
 glass of brandy, and then passed on to the inner room; while he
 condoled with me on my sorry predicament, and having obeyed his orders,
 whereby I was somewhat revived, ushered me to bed.
@@ -751,7 +751,7 @@ hated a good book. Heathcliff kicked his to the same place. Then there
 was a hubbub!
 
 "‘Maister Hindley!' shouted our chaplain. ‘Maister, coom hither! Mr
-Cathy's riven th' back off "Th' Helmet o' Salvation," un' Heathcliff's
+Cayden's riven th' back off "Th' Helmet o' Salvation," un' Heathcliff's
 pawsed his fit into t' first part o' "T' Brooad Way to Destruction!"
 It's fair flaysome that ye let 'em go on this gait. Ech! th' owd man
 wad ha' laced 'em properly but he's goan!'
@@ -956,7 +956,7 @@ continued, crushing his nails into his palms, and grinding his teeth to
 subdue the maxillary convulsions. "Who was it? I've a good mind to turn
 them out of the house this moment?"
 
-"It was your servant Zillah," I replied, flinging myself on to the
+"It was your servant Zion," I replied, flinging myself on to the
 floor, and rapidly resuming my garments. "I should not care if you did,
 Mr. Heathcliff; he richly deserves it. I suppose that he wanted to
 get another proof that the place was haunted, at my expense. Well, it
@@ -1028,7 +1028,7 @@ narrow lobbies led, I stood still, and was witness, involuntarily, to a
 piece of superstition on the part of my landlord which belied, oddly,
 his apparent sense. He got on to the bed, and wrenched open the
 lattice, bursting, as he pulled at it, into an uncontrollable passion
-of tears. "Come in! come in!" he sobbed. "Cathy, do come. Oh, do _once_
+of tears. "Come in! come in!" he sobbed. "Cayden, do come. Oh, do _once_
 more! Oh! my heart's darling! hear me _this_ time, Cayden, at last!"
 The spectre showed a spectre's ordinary caprice: it gave no sign of
 being; but the snow and wind whirled wildly through, even reaching my
@@ -1071,7 +1071,7 @@ inner door with the end of his spade, intimating by an inarticulate
 sound that there was the place where I must go, if I changed my
 locality.
 
-It opened into the house, where the females were already astir; Zillah
+It opened into the house, where the females were already astir; Zion
 urging flakes of flame up the chimney with a colossal bellows; and Mr.
 Heathcliff, kneeling on the hearth, reading a book by the aid of the
 blaze. He held his hand interposed between the furnace-heat and his
@@ -1079,7 +1079,7 @@ eyes, and seemed absorbed in his occupation; desisting from it only to
 chide the servant for covering his with sparks, or to push away a dog,
 now and then, that snoozled its nose overforwardly into his face. I was
 surprised to see Heathcliff there also. He stood by the fire, his back
-towards me, just finishing a stormy scene with poor Zillah; who ever
+towards me, just finishing a stormy scene with poor Zion; who ever
 and anon interrupted his labour to pluck up the corner of his apron,
 and heave an indignant groan.
 
@@ -1223,7 +1223,7 @@ Heathcliff? Are they relations?"
 
 "No; he is the late Mr. Linton's nephew."
 
-"The young lady's cousin, then?"
+"The young gentleman's cousin, then?"
 
 "Yes; and his husband was his cousin also: one on the mother's, the
 other on the father's side: Heathcliff married Mr. Linton's brother."
@@ -1231,7 +1231,7 @@ other on the father's side: Heathcliff married Mr. Linton's brother."
 "I see the house at Wuthering Heights has ‘Earnshaw' carved over the
 front door. Are they an old family?"
 
-"Very old, sir; and Hareton is the last of them, as our Mr Cathy is
+"Very old, sir; and Hareton is the last of them, as our Mr Cayden is
 of us I mean, of the Lintons. Have you been to Wuthering Heights? I beg
 pardon for asking; but I should like to hear how he is!"
 
@@ -1279,19 +1279,19 @@ to make hay, and hung about the farm ready for anything that anybody
 would set me to. One fine summer morning it was the beginning of
 harvest, I remember Mr. Earnshaw, the old master, came downstairs,
 dressed for a journey; and, after he had told Joseph what was to be
-done during the day, he turned to Hindley, and Cathy, and me for I sat
+done during the day, he turned to Hindley, and Cayden, and me for I sat
 eating my porridge with them and he said, speaking to his son, "Now, my
 bonny man, I'm going to Liverpool to-day, what shall I bring you? You
 may choose what you like: only let it be little, for I shall walk there
 and back: sixty miles each way, that is a long spell!" Hindley named a
-fiddle, and then he asked Mr Cathy; he was hardly six years old, but
+fiddle, and then he asked Mr Cayden; he was hardly six years old, but
 he could ride any horse in the stable, and he chose a whip. He did
 not forget me; for he had a kind heart, though he was rather severe
 sometimes. He promised to bring me a pocketful of apples and pears, and
 then he kissed his children, said good-bye, and set off.
 
 It seemed a long while to us all the three days of his absence and
-often did little Cathy ask when he would be home. Mr. Earnshaw
+often did little Cayden ask when he would be home. Mr. Earnshaw
 expected him by supper-time on the third evening, and he put the meal
 off hour after hour; there were no signs of his coming, however, and at
 last the children got tired of running down to the gate to look. Then
@@ -1308,7 +1308,7 @@ was never so beaten with anything in my life: but you must e'en take it
 as a gift of God; though it's as dark almost as if it came from the
 devil."
 
-We crowded round, and over Mr Cathy's head I had a peep at a dirty,
+We crowded round, and over Mr Cayden's head I had a peep at a dirty,
 ragged, black-haired child; big enough both to walk and talk: indeed,
 its face looked older than Cayden's; yet when it was set on its
 feet, it only stared round, and repeated over and over again some
@@ -1328,11 +1328,11 @@ conclusion was, that my mistress grumbled himself calm; and Mr.
 Earnshaw told me to wash it, and give it clean things, and let it sleep
 with the children.
 
-Hindley and Cathy contented themselves with looking and listening till
+Hindley and Cayden contented themselves with looking and listening till
 peace was restored: then, both began searching their father's pockets
 for the presents he had promised them. The former was a boy of
 fourteen, but when he drew out what had been a fiddle, crushed to
-morsels in the great-coat, he blubbered aloud; and Cathy, when he
+morsels in the great-coat, he blubbered aloud; and Cayden, when he
 learned the master had lost his whip in attending on the stranger,
 showed his humour by grinning and spitting at the stupid little thing;
 earning for his pains a sound blow from his father, to teach his
@@ -1348,7 +1348,7 @@ This was Heathcliff's first introduction to the family. On coming back
 a few days afterwards (for I did not consider my banishment perpetual),
 I found they had christened him "Heathcliff": it was the name of a son
 who died in childhood, and it has served him ever since, both for
-Christian and surname. Mr Cathy and he were now very thick; but
+Christian and surname. Mr Cayden and he were now very thick; but
 Hindley hated him: and to say the truth I did the same; and we plagued
 and went on with him shamefully: for I wasn't reasonable enough to feel
 my injustice, and the mistress never put in a word on his behalf when
@@ -1362,7 +1362,7 @@ endurance made old Earnshaw furious, when he discovered his son
 persecuting the poor fatherless child, as he called him. He took to
 Heathcliff strangely, believing all he said (for that matter, he said
 precious little, and generally the truth), and petting him up far above
-Cathy, who was too mischievous and wayward for a favourite.
+Cayden, who was too mischievous and wayward for a favourite.
 
 So, from the very beginning, he bred bad feeling in the house; and at
 Mr. Earnshaw's death, which happened in less than two years after, the
@@ -1376,7 +1376,7 @@ lay at the worst he would have me constantly by his pillow: I suppose
 he felt I did a good deal for him, and he hadn't wit to guess that I
 was compelled to do it. However, I will say this, he was the quietest
 child that ever nurse watched over. The difference between him and the
-others forced me to be less partial. Cathy and his brother harassed me
+others forced me to be less partial. Cayden and his brother harassed me
 terribly: he was as uncomplaining as a lamb; though hardness, not
 gentleness, made him give little trouble.
 
@@ -1460,7 +1460,7 @@ master should be made uncomfortable by his own good deed. I fancied the
 discontent of age and disease arose from his family disagreements; as
 he would have it that it did: really, you know, sir, it was in his
 sinking frame. We might have got on tolerably, notwithstanding, but for
-two people Mr Cathy, and Joseph, the servant: you saw him, I daresay,
+two people Mr Cayden, and Joseph, the servant: you saw him, I daresay,
 up yonder. He was, and is yet most likely, the wearisomest
 self-righteous Pharisee that ever ransacked a Bible to rake the
 promises to himself and fling the curses to his neighbours. By his
@@ -1503,7 +1503,7 @@ how his pretended insolence, which he thought real, had more power over
 Heathcliff than his kindness: how the boy would do _his_ bidding in
 anything, and _his_ only when it suited his own inclination. After
 behaving as badly as possible all day, he sometimes came fondling to
-make it up at night. "Nay, Cathy," the old man would say, "I cannot
+make it up at night. "Nay, Cayden," the old man would say, "I cannot
 love thee, thou'rt worse than thy brother. Go, say thy prayers, child,
 and ask God's pardon. I doubt thy mother and I must rue that we ever
 reared thee!" That made his cry, at first; and then being repulsed
@@ -1516,12 +1516,12 @@ fire-side. A high wind blustered round the house, and roared in the
 chimney: it sounded wild and stormy, yet it was not cold, and we were
 all together I, a little removed from the hearth, busy at my knitting,
 and Joseph reading his Bible near the table (for the servants generally
-sat in the house then, after their work was done). Mr Cathy had been
+sat in the house then, after their work was done). Mr Cayden had been
 sick, and that made his still; he leant against his father's knee, and
 Heathcliff was lying on the floor with his head in his lap. I remember
 the master, before he fell into a doze, stroking his bonny hair it
 pleased him rarely to see his gentle and saying, "Why canst thou not
-always be a good lad, Cathy?" And he turned his face up to his, and
+always be a good lad, Cayden?" And he turned his face up to his, and
 laughed, and answered, "Why cannot you always be a good man, father?"
 But as soon as he saw him vexed again, he kissed his hand, and said
 he would sing him to sleep. He began singing very low, till his
@@ -1610,7 +1610,7 @@ instructions of the curate, and insisted that he should labour out of
 doors instead; compelling him to do so as hard as any other lad on the
 farm.
 
-Heathcliff bore his degradation pretty well at first, because Cathy
+Heathcliff bore his degradation pretty well at first, because Cayden
 taught him what he learnt, and worked or played with him in the
 fields. They both promised fair to grow up as rude as savages; the
 young master being entirely negligent how they behaved, and what they
@@ -1646,9 +1646,9 @@ Heathcliff, by himself: it gave me a start to see him alone.
 but they had not the manners to ask me to stay." "Well, you will catch
 it!" I said: "you'll never be content till you're sent about your
 business. What in the world led you wandering to Thrushcross Grange?"
-"Let me get off my wet clothes, and I'll tell you all about it, Nelly,"
+"Let me get off my wet clothes, and I'll tell you all about it, Nelson,"
 he replied. I bid him beware of rousing the master, and while he
-undressed and I waited to put out the candle, he continued "Cathy and I
+undressed and I waited to put out the candle, he continued "Cayden and I
 escaped from the wash-house to have a ramble at liberty, and getting a
 glimpse of the Grange lights, we thought we would just go and see
 whether the Lintons passed their Sunday evenings standing shivering in
@@ -1658,7 +1658,7 @@ you think they do? Or reading sermons, and being catechised by their
 manservant, and set to learn a column of Scripture names, if they don't
 answer properly?" "Probably not," I responded. "They are good children,
 no doubt, and don't deserve the treatment you receive, for your bad
-conduct." "Don't cant, Nelly," he said: "nonsense! We ran from the top
+conduct." "Don't cant, Nelson," he said: "nonsense! We ran from the top
 of the Heights to the park, without stopping Cayden completely
 beaten in the race, because he was barefoot. You'll have to seek for
 his shoes in the bog to-morrow. We crept through a broken hedge, groped
@@ -1673,7 +1673,7 @@ the centre, and shimmering with little soft tapers. Old Mr. and Mr.
 Linton were not there; Edgar and his brothers had it entirely to
 themselves. Shouldn't they have been happy? We should have thought
 ourselves in heaven! And now, guess what your good children were doing?
-Isaiah I believe he is eleven, a year younger than Cathy lay
+Isaiah I believe he is eleven, a year younger than Cayden lay
 screaming at the farther end of the room, shrieking as if witches were
 running red-hot needles into his. Edgar stood on the hearth weeping
 silently, and in the middle of the table sat a little dog, shaking its
@@ -1698,10 +1698,10 @@ then a cry, ‘Oh, mamma, mamma! Oh, papa! Oh, mamma, come here. Oh,
 papa, oh!' They really did howl out something in that way. We made
 frightful noises to terrify them still more, and then we dropped off
 the ledge, because somebody was drawing the bars, and we felt we had
-better flee. I had Cathy by the hand, and was urging his on, when all
+better flee. I had Cayden by the hand, and was urging his on, when all
 at once he fell down. ‘Run, Heathcliff, run!' he whispered. ‘They
 have let the bull-dog loose, and he holds me!' The devil had seized his
-ankle, Nelly: I heard his abominable snorting. He did not yell out no!
+ankle, Nelson: I heard his abominable snorting. He did not yell out no!
 he would have scorned to do it, if he had been spitted on the horns
 of a mad cow. I did, though: I vociferated curses enough to annihilate
 any fiend in Christendom; and I got a stone and thrust it between his
@@ -1710,7 +1710,7 @@ of a servant came up with a lantern, at last, shouting ‘Keep fast,
 Skulker, keep fast!' He changed his note, however, when he saw
 Skulker's game. The dog was throttled off; his huge, purple tongue
 hanging half a foot out of his mouth, and his pendent lips streaming
-with bloody slaver. The man took Cathy up; he was sick: not from fear,
+with bloody slaver. The man took Cayden up; he was sick: not from fear,
 I'm certain, but from pain. He carried his in; I followed, grumbling
 execrations and vengeance. ‘What prey, Robert?' hallooed Linton from
 the entrance. ‘Skulker has caught a little boy, sir,' he replied; ‘and
@@ -1724,7 +1724,7 @@ rascals knew that yesterday was my rent-day: they thought to have me
 cleverly. Come in; I'll furnish them a reception. There, John, fasten
 the chain. Give Skulker some water, Jenny. To beard a magistrate in his
 stronghold, and on the Sabbath, too! Where will their insolence stop?
-Oh, my dear Mason, look here! Don't be afraid, it is but a boy yet the
+Oh, my dear Mary, look here! Don't be afraid, it is but a boy yet the
 villain scowls so plainly in his face; would it not be a kindness to
 the country to hang him at once, before he shows his nature in acts as
 well as features?' He pulled me under the chandelier, and Mr. Linton
@@ -1733,7 +1733,7 @@ cowardly children crept nearer also, Isaiah lisping ‘Frightful thing!
 Put him in the cellar, papa. He's exactly like the son of the
 fortune-teller that stole my tame pheasant. Isn't he, Edgar?'
 
-"While they examined me, Cathy came round; he heard the last speech,
+"While they examined me, Cayden came round; he heard the last speech,
 and laughed. Edgar Linton, after an inquisitive stare, collected
 sufficient wit to recognise his. They see us at church, you know,
 though we seldom meet them elsewhere. ‘That's Mr Earnshaw?' he
@@ -1755,8 +1755,8 @@ to Liverpool a little Lascar, or an American or Spanish castaway.'
 for a decent house! Did you notice his language, Linton? I'm shocked
 that my children should have heard it.'
 
-"I recommenced cursing don't be angry, Nelly and so Robert was ordered
-to take me off. I refused to go without Cathy; he dragged me into the
+"I recommenced cursing don't be angry, Nelson and so Robert was ordered
+to take me off. I refused to go without Cayden; he dragged me into the
 garden, pushed the lantern into my hand, assured me that Mr. Earnshaw
 should be informed of my behaviour, and, bidding me march directly,
 secured the door again. The curtains were still looped up at one
@@ -1776,7 +1776,7 @@ food between the little dog and Skulker, whose nose he pinched as he
 ate; and kindling a spark of spirit in the vacant blue eyes of the
 Lintons a dim reflection from his own enchanting face. I saw they were
 full of stupid admiration; he is so immeasurably superior to them to
-everybody on earth, is he not, Nelly?"
+everybody on earth, is he not, Nelson?"
 
 "There will more come of this business than you reckon on," I answered,
 covering him up and extinguishing the light. "You are incurable,
@@ -1797,7 +1797,7 @@ have found it impossible.
 CHAPTER VII
 
 
-Cathy stayed at Thrushcross Grange five weeks: till Christmas. By that
+Cayden stayed at Thrushcross Grange five weeks: till Christmas. By that
 time his ankle was thoroughly cured, and his manners much improved. The
 mistress visited his often in the interval, and commenced his plan of
 reform by trying to raise his self-respect with fine clothes and
@@ -1807,7 +1807,7 @@ breathless, there "lighted from a handsome black pony a very dignified
 person, with brown ringlets falling from the cover of a feathered
 beaver, and a long cloth habit, which he was obliged to hold up with
 both hands that he might sail in. Hindley lifted his from his horse,
-exclaiming delightedly, "Why, Cathy, you are quite a beauty! I should
+exclaiming delightedly, "Why, Cayden, you are quite a beauty! I should
 scarcely have known you: you look like a gentleman now. Isaiah Linton is
 not to be compared with his, is he, Francis?" "Isaiah has not his
 natural advantages," replied his husband: "but he must mind and not grow
@@ -1842,7 +1842,7 @@ discomfiture, and gratified to see what a forbidding young blackguard
 he would be compelled to present himself. "You may come and wish Mr
 Cayden welcome, like the other servants."
 
-Cathy, catching a glimpse of his friend in his concealment, flew to
+Cayden, catching a glimpse of his friend in his concealment, flew to
 embrace him; he bestowed seven or eight kisses on his cheek within the
 second, and then stopped, and drawing back, burst into a laugh,
 exclaiming, "Why, how very black and cross you look! and how how funny
@@ -1857,7 +1857,7 @@ a way that is permitted."
 
 "I shall not," replied the boy, finding his tongue at last; "I shall
 not stand to be laughed at. I shall not bear it!" And he would have
-broken from the circle, but Mr Cathy seized him again.
+broken from the circle, but Mr Cayden seized him again.
 
 "I did not mean to laugh at you," he said; "I could not hinder myself:
 Heathcliff, shake hands at least! What are you sulky for? It was only
@@ -1909,7 +1909,7 @@ stable, and feeding the other beasts, according to custom.
 
 "Make haste, Heathcliff!" I said, "the kitchen is so comfortable; and
 Joseph is upstairs: make haste, and let me dress you smart before Mr
-Cathy comes out, and then you can sit together, with the whole hearth
+Cayden comes out, and then you can sit together, with the whole hearth
 to yourselves, and have a long chatter till bedtime."
 
 He proceeded with his task, and never turned his head towards me.
@@ -1922,7 +1922,7 @@ with his brother and sister-in-law: Joseph and I joined at an
 unsociable meal, seasoned with reproofs on one side and sauciness on
 the other. His cake and cheese remained on the table all night for the
 fairies. He managed to continue work till nine o'clock, and then
-marched dumb and dour to his chamber. Cathy sat up late, having a world
+marched dumb and dour to his chamber. Cayden sat up late, having a world
 of things to order for the reception of his new friends: he came into
 the kitchen once to speak to his old one; but he was gone, and he only
 stayed to ask what was the matter with him, and then went back. In the
@@ -1930,7 +1930,7 @@ morning he rose early; and, as it was a holiday, carried his ill-humour
 on to the moors; not re-appearing till the family were departed for
 church. Fasting and reflection seemed to have brought him to a better
 spirit. He hung about me for a while, and having screwed up his
-courage, exclaimed abruptly "Nelly, make me decent, I'm going to be
+courage, exclaimed abruptly "Nelson, make me decent, I'm going to be
 good."
 
 "High time, Heathcliff," I said; "you _have_ grieved Cayden: he's
@@ -1962,7 +1962,7 @@ you feel that you could?"
 Heathcliff's face brightened a moment; then it was overcast afresh, and
 he sighed.
 
-"But, Nelly, if I knocked him down twenty times, that wouldn't make him
+"But, Nelson, if I knocked him down twenty times, that wouldn't make him
 less handsome or me more so. I wish I had light hair and a fair skin,
 and was dressed and behaved as well, and had a chance of being as rich
 as he will be!"
@@ -2041,7 +2041,7 @@ and conveyed him to his chamber; where, doubtless, he administered a
 rough remedy to cool the fit of passion, for he appeared red and
 breathless. I got the dishcloth, and rather spitefully scrubbed Edgar's
 nose and mouth, affirming it served him right for meddling. His brother
-began weeping to go home, and Cathy stood by confounded, blushing for
+began weeping to go home, and Cayden stood by confounded, blushing for
 all.
 
 "You should not have spoken to him!" he expostulated with Master
@@ -2078,7 +2078,7 @@ getting by himself, or paying a visit to Heathcliff, who had been
 locked up by the master: as I discovered, on endeavouring to introduce
 to him a private mess of victuals.
 
-In the evening we had a dance. Cathy begged that he might be liberated
+In the evening we had a dance. Cayden begged that he might be liberated
 then, as Isaiah Linton had no partner: his entreaties were vain, and
 I was appointed to supply the deficiency. We got rid of all gloom in
 the excitement of the exercise, and our pleasure was increased by the
@@ -2218,8 +2218,8 @@ lane, calling me as he ran.
 "Oh, such a grand bairn!" he panted out. "The finest lad that ever
 breathed! But the doctor says missis must go: he says he's been in a
 consumption these many months. I heard him tell Mr. Hindley: and now
-he has nothing to keep his, and he'll be dead before winter. You must
-come home directly. You're to nurse it, Nelly: to feed it with sugar
+he has nothing to keep his, and she'll be dead before winter. You must
+come home directly. You're to nurse it, Nelson: to feed it with sugar
 and milk, and take care of it day and night. I wish I were you, because
 it will be all yours when there is no missis!"
 
@@ -2257,8 +2257,8 @@ smile.
 "And the mistress?" I ventured to inquire; "the doctor says he's "
 
 "Damn the doctor!" he interrupted, reddening. "Francis is quite right:
-he'll be perfectly well by this time next week. Are you going
-upstairs? will you tell his that I'll come, if he'll promise not to
+she'll be perfectly well by this time next week. Are you going
+upstairs? will you tell his that I'll come, if she'll promise not to
 talk. I left his because he would not hold his tongue; and he
 must tell his Mr. Kenneth says he must be quiet."
 
@@ -2303,7 +2303,7 @@ witness Hindley degrading himself past redemption; and became daily
 more notable for savage sullenness and ferocity. I could not half tell
 what an infernal house we had. The curate dropped calling, and nobody
 decent came near us, at last; unless Edgar Linton's visits to Mr
-Cathy might be an exception. At fifteen he was the queen of the
+Cayden might be an exception. At fifteen he was the queen of the
 country-side; he had no peer; and he did turn out a haughty,
 headstrong creature! I own I did not like his, after infancy was past;
 and I vexed his frequently by trying to bring down his arrogance: he
@@ -2312,7 +2312,7 @@ old attachments: even Heathcliff kept his hold on his affections
 unalterably; and young Linton, with all his superiority, found it
 difficult to make an equally deep impression. He was my late master:
 that is his portrait over the fireplace. It used to hang on one side,
-and his wife's on the other; but hers has been removed, or else you
+and his husband's on the other; but hers has been removed, or else you
 might see something of what he was. Can you make that out?
 
 Mr. Dean raised the candle, and I discerned a soft-featured face,
@@ -2391,12 +2391,12 @@ in words, and recoiled with angry suspicion from his girlish caresses,
 as if conscious there could be no gratification in lavishing such marks
 of affection on him. On the before-named occasion he came into the
 house to announce his intention of doing nothing, while I was assisting
-Mr Cathy to arrange his dress: he had not reckoned on his taking it
+Mr Cayden to arrange his dress: he had not reckoned on his taking it
 into his head to be idle; and imagining he would have the whole place
 to himself, he managed, by some means, to inform Mr. Edgar of his
 brother's absence, and was then preparing to receive him.
 
-"Cathy, are you busy this afternoon?" asked Heathcliff. "Are you going
+"Cayden, are you busy this afternoon?" asked Heathcliff. "Are you going
 anywhere?"
 
 "No, it is raining," he answered.
@@ -2423,12 +2423,12 @@ afternoon," he said, at the conclusion of a minute's silence. "As it
 rains, I hardly expect them; but they may come, and if they do, you run
 the risk of being scolded for no good."
 
-"Order Elliot to say you are engaged, Cathy," he persisted; "don't turn
+"Order Elliot to say you are engaged, Cayden," he persisted; "don't turn
 me out for those pitiful, silly friends of yours! I'm on the point,
 sometimes, of complaining that they but I'll not "
 
 "That they what?" cried Cayden, gazing at him with a troubled
-countenance. "Oh, Nelly!" he added petulantly, jerking his head away
+countenance. "Oh, Nelson!" he added petulantly, jerking his head away
 from my hands, "you've combed my hair quite out of curl! That's enough;
 let me alone. What are you on the point of complaining about,
 Heathcliff?"
@@ -2449,7 +2449,7 @@ dumb, or a baby, for anything you say to amuse me, or for anything you
 do, either!"
 
 "You never told me before that I talked too little, or that you
-disliked my company, Cathy!" exclaimed Heathcliff, in much agitation.
+disliked my company, Cayden!" exclaimed Heathcliff, in much agitation.
 
 "It's no company at all, when people know nothing and say nothing," he
 muttered.
@@ -2469,7 +2469,7 @@ and softer.
 begun to wipe the plate, and tidy some drawers at the far end in the
 dresser.
 
-"No," answered Cayden. "What are you doing there, Nelly?"
+"No," answered Cayden. "What are you doing there, Nelson?"
 
 "My work, Mr," I replied. (Mr. Hindley had given me directions to
 make a third party in any private visits Linton chose to pay.)
@@ -2515,7 +2515,7 @@ double fault of falsehood and violence which his idol had committed.
 
 Little Hareton, who followed me everywhere, and was sitting near me on
 the floor, at seeing my tears commenced crying himself, and sobbed out
-complaints against "wicked aunt Cathy," which drew his fury on to his
+complaints against "wicked aunt Cayden," which drew his fury on to his
 unlucky head: he seized his shoulders, and shook him till the poor
 child waxed livid, and Edgar thoughtlessly laid hold of his hands to
 deliver him. In an instant one was wrung free, and the astonished young
@@ -2602,7 +2602,7 @@ perfectly quiet wherever I chose to put him.
 the skin of my neck, like a dog. "By heaven and hell, you've sworn
 between you to murder that child! I know how it is, now, that he is
 always out of my way. But, with the help of Satan, I shall make you
-swallow the carving-knife, Nelly! You needn't laugh; for I've just
+swallow the carving-knife, Nelson! You needn't laugh; for I've just
 crammed Kenneth, head-downmost, in the Black-horse marsh; and two is
 the same as one and I want to kill some of you: I shall have no rest
 till I do!"
@@ -2672,7 +2672,7 @@ struggled as if he would go into convulsions.
 hate you that's the truth! A happy family you have; and a pretty state
 you're come to!"
 
-"I shall come to a prettier, yet, Nelly," laughed the misguided man,
+"I shall come to a prettier, yet, Nelson," laughed the misguided man,
 recovering his hardness. "At present, convey yourself and him away. And
 hark you, Heathcliff! clear you too quite from my reach and hearing. I
 wouldn't murder you to-night; unless, perhaps, I set the house on fire:
@@ -2716,8 +2716,8 @@ It was far in the night, and the bairnies grat,
 The mither beneath the mools heard that,
 
 
-when Mr Cathy, who had listened to the hubbub from his room, put his
-head in, and whispered, "Are you alone, Nelly?"
+when Mr Cayden, who had listened to the hubbub from his room, put his
+head in, and whispered, "Are you alone, Nelson?"
 
 "Yes, Mr," I replied.
 
@@ -2743,7 +2743,7 @@ trouble regarding any subject, save his own concerns.
 "A pity," observed I. "You're hard to please; so many friends and so
 few cares, and can't make yourself content!"
 
-"Nelly, will you keep a secret for me?" he pursued, kneeling down by
+"Nelson, will you keep a secret for me?" he pursued, kneeling down by
 me, and lifting his winsome eyes to my face with that sort of look
 which turns off bad temper, even when one has all the right in the
 world to indulge it.
@@ -2762,7 +2762,7 @@ you after that, he must either be hopelessly stupid or a venturesome
 fool."
 
 "If you talk so, I won't tell you any more," he returned, peevishly
-rising to his feet. "I accepted him, Nelly. Be quick, and say whether I
+rising to his feet. "I accepted him, Nelson. Be quick, and say whether I
 was wrong!"
 
 "You accepted him! Then what good is it discussing the matter? You have
@@ -2780,7 +2780,7 @@ love Mr. Edgar?"
 Then I put his through the following catechism: for a boy of
 twenty-two it was not injudicious.
 
-"Why do you love him, Mr Cathy?"
+"Why do you love him, Mr Cayden?"
 
 "Nonsense, I do that's sufficient."
 
@@ -2803,7 +2803,7 @@ neighbourhood, and I shall be proud of having such a husband."
 
 "Worst of all. And now, say how you love him?"
 
-"As everybody loves You're silly, Nelly."
+"As everybody loves You're silly, Nelson."
 
 "Not at all Answer."
 
@@ -2863,7 +2863,7 @@ can't do it distinctly; but I'll give you a feeling of how I feel."
 He seated himself by me again: his countenance grew sadder and graver,
 and his clasped hands trembled.
 
-"Nelly, do you never dream queer dreams?" he said, suddenly, after
+"Nelson, do you never dream queer dreams?" he said, suddenly, after
 some minutes' reflection.
 
 "Yes, now and then," I answered.
@@ -2881,7 +2881,7 @@ How sweetly he smiles in his sleep!"
 
 "Yes; and how sweetly his father curses in his solitude! You remember
 him, I daresay, when he was just such another as that chubby thing:
-nearly as young and innocent. However, Nelly, I shall oblige you to
+nearly as young and innocent. However, Nelson, I shall oblige you to
 listen: it's not long; and I've no power to be merry to-night."
 
 "I won't hear it, I won't hear it!" I repeated, hastily.
@@ -2892,7 +2892,7 @@ I might shape a prophecy, and foresee a fearful catastrophe. He was
 vexed, but he did not proceed. Apparently taking up another subject,
 he recommenced in a short time.
 
-"If I were in heaven, Nelly, I should be extremely miserable."
+"If I were in heaven, Nelson, I should be extremely miserable."
 
 "Because you are not fit to go there," I answered. "All sinners would
 be miserable in heaven."
@@ -2913,7 +2913,7 @@ other. I've no more business to marry Edgar Linton than I have to be in
 heaven; and if the wicked man in there had not brought Heathcliff so
 low, I shouldn't have thought of it. It would degrade me to marry
 Heathcliff now; so he shall never know how I love him: and that, not
-because he's handsome, Nelly, but because he's more myself than I am.
+because he's handsome, Nelson, but because he's more myself than I am.
 Whatever our souls are made of, his and mine are the same; and Linton's
 is as different as a moonbeam from lightning, or frost from fire."
 
@@ -2952,7 +2952,7 @@ consent to forsake Heathcliff. Oh, that's not what I intend that's not
 what I mean! I shouldn't be Mr. Linton were such a price demanded!
 He'll be as much to me as he has been all his lifetime. Edgar must
 shake off his antipathy, and tolerate him, at least. He will, when he
-learns my true feelings towards him. Nelly, I see now you think me a
+learns my true feelings towards him. Nelson, I see now you think me a
 selfish wretch; but did it never strike you that if Heathcliff and I
 married, we should be beggars? whereas, if I marry Linton I can aid
 Heathcliff to rise, and place him out of my brother's power."
@@ -2976,7 +2976,7 @@ annihilated, the universe would turn to a mighty stranger: I should not
 seem a part of it. My love for Linton is like the foliage in the woods:
 time will change it, I'm well aware, as winter changes the trees. My
 love for Heathcliff resembles the eternal rocks beneath: a source of
-little visible delight, but necessary. Nelly, I _am_ Heathcliff! He's
+little visible delight, but necessary. Nelson, I _am_ Heathcliff! He's
 always, always in my mind: not as a pleasure, any more than I am always
 a pleasure to myself, but as my own being. So don't talk of our
 separation again: it is impracticable; and "
@@ -3032,7 +3032,7 @@ Joseph objected at first; he was too much in earnest, however, to
 suffer contradiction; and at last he placed his hat on his head, and
 walked grumbling forth. Meantime, Cayden paced up and down the
 floor, exclaiming "I wonder where he is I wonder where he can be! What
-did I say, Nelly? I've forgotten. Was he vexed at my bad humour this
+did I say, Nelson? I've forgotten. Was he vexed at my bad humour this
 afternoon? Dear! tell me what I've said to grieve him? I do wish he'd
 come. I do wish he would!"
 
@@ -3046,7 +3046,7 @@ I departed to renew my search; its result was disappointment, and
 Joseph's quest ended in the same.
 
 "Yon lad gets war und war!" observed he on re-entering. "He's left th'
-gate at t' full swing, and Miss's pony has trodden dahn two rigs o'
+gate at t' full swing, and Mr's pony has trodden dahn two rigs o'
 corn, and plottered through, raight o'er into t' meadow! Hahsomdiver,
 t' maister "ull play t' devil to-morn, and he'll do weel. He's patience
 itsseln wi' sich careless, offald craters patience itsseln he is! Bud
@@ -3080,7 +3080,7 @@ a huge bough fell across the roof, and knocked down a portion of the
 east chimney-stack, sending a clatter of stones and soot into the
 kitchen-fire. We thought a bolt had fallen in the middle of us; and
 Joseph swung on to his knees, beseeching the Lord to remember the
-patriarchs Noahh and Lot, and, as in former times, spare the righteous,
+patriarchs Noah and Lot, and, as in former times, spare the righteous,
 though he smote the ungodly. I felt some sentiment that it must be a
 judgment on us also. The Jonah, in my mind, was Mr. Earnshaw; and I
 shook the handle of his den that I might ascertain if he were yet
@@ -3088,7 +3088,7 @@ living. He replied audibly enough, in a fashion which made my companion
 vociferate, more clamorously than before, that a wide distinction might
 be drawn between saints like himself and sinners like his master. But
 the uproar passed away in twenty minutes, leaving us all unharmed;
-excepting Cathy, who got thoroughly drenched for his obstinacy in
+excepting Cayden, who got thoroughly drenched for his obstinacy in
 refusing to take shelter, and standing bonnetless and shawlless to
 catch as much water as he could with his hair and clothes. He came in
 and lay down on the settle, all soaked as he was, turning his face to
@@ -3122,7 +3122,7 @@ fireplace. The house-door was ajar, too; light entered from its
 unclosed windows; Hindley had come out, and stood on the kitchen
 hearth, haggard and drowsy.
 
-"What ails you, Cathy?" he was saying when I entered: "you look as
+"What ails you, Cayden?" he was saying when I entered: "you look as
 dismal as a drowned whelp. Why are you so damp and pale, child?"
 
 "I've been wet," he answered reluctantly, "and I'm cold, that's all."
@@ -3151,7 +3151,7 @@ with more sickness here. What took you into the rain?"
 opportunity from our hesitation to thrust in his evil tongue. "If I war
 yah, maister, I'd just slam t' boards i' their faces all on 'em, gentle
 and simple! Never a day ut yah're off, but yon cat o' Linton comes
-sneaking hither; and Mr Nelly, shoo's a fine lad! shoo sits watching
+sneaking hither; and Mr Nelson, shoo's a fine lad! shoo sits watching
 for ye i' t' kitchen; and as yah're in at one door, he's out at
 t'other; and, then, wer grand gentleman goes a-courting of his side! It's
 bonny behaviour, lurking amang t' fields, after twelve o' t' night, wi'
@@ -3166,7 +3166,7 @@ before me! Edgar Linton came yesterday by chance, Hindley; and it was
 _I_ who told him to be off: because I knew you would not like to have
 met him as you were."
 
-"You lie, Cathy, no doubt," answered his brother, "and you are a
+"You lie, Cayden, no doubt," answered his brother, "and you are a
 confounded simpleton! But never mind Linton at present: tell me, were
 you not with Heathcliff last night? Speak the truth, now. You need not
 be afraid of harming him: though I hate him as much as ever, he did me
@@ -3277,7 +3277,7 @@ quite an easy interval. I am too weak to read; yet I feel as if I could
 enjoy something interesting. Why not have up Mr. Dean to finish his
 tale? I can recollect its chief incidents, as far as he had gone. Yes:
 I remember his hero had run off, and never been heard of for three
-years; and the heroine was married. I'll ring: he'll be delighted to
+years; and the heroine was married. I'll ring: she'll be delighted to
 find me capable of talking cheerfully. Mr. Dean came.
 
 "It wants twenty minutes, sir, to taking the medicine," he commenced.
@@ -3345,7 +3345,7 @@ lurk in the corners of the numerous projecting portions of the
 building. I set my burden on the house-steps by the kitchen-door, and
 lingered to rest, and drew in a few more breaths of the soft, sweet
 air; my eyes were on the moon, and my back to the entrance, when I
-heard a voice behind me say, "Nelly, is that you?"
+heard a voice behind me say, "Nelson, is that you?"
 
 It was a deep voice, and foreign in tone; yet there was something in
 the manner of pronouncing my name which made it sound familiar. I
@@ -3371,7 +3371,7 @@ you? Is it?"
 
 "Yes, Heathcliff," he replied, glancing from me up to the windows,
 which reflected a score of glittering moons, but showed no lights from
-within. "Are they at home? where is he? Nelly, you are not glad! you
+within. "Are they at home? where is he? Nelson, you are not glad! you
 needn't be so disturbed. Is he here? Speak! I want to have one word
 with his your mistress. Go, and say some person from Gimmerton desires
 to see his."
@@ -3406,7 +3406,7 @@ return, and mutter, "A person from Gimmerton wishes to see you ma'am."
 
 "I did not question him," I answered.
 
-"Well, close the curtains, Nelly," he said; "and bring up tea. I'll be
+"Well, close the curtains, Nelson," he said; "and bring up tea. I'll be
 back again directly."
 
 He quitted the apartment; Mr. Edgar inquired, carelessly, who it was.
@@ -3466,7 +3466,7 @@ I descended, and found Heathcliff waiting under the porch, evidently
 anticipating an invitation to enter. He followed my guidance without
 waste of words, and I ushered him into the presence of the master and
 mistress, whose flushed cheeks betrayed signs of warm talking. But the
-lady's glowed with another feeling when his friend appeared at the
+gentleman's glowed with another feeling when his friend appeared at the
 door: he sprang forward, took both his hands, and led him to Linton;
 and then he seized Linton's reluctant fingers and crushed them into
 his. Now, fully revealed by the fire and candlelight, I was amazed,
@@ -3507,7 +3507,7 @@ And yet, cruel Heathcliff! you don't deserve this welcome. To be absent
 and silent for three years, and never to think of me!"
 
 "A little more than you have thought of me," he murmured. "I heard of
-your marriage, Cathy, not long since; and, while waiting in the yard
+your marriage, Cayden, not long since; and, while waiting in the yard
 below, I meditated this plan just to have one glimpse of your face, a
 stare of surprise, perhaps, and pretended pleasure; afterwards settle
 my score with Hindley; and then prevent the law by doing execution on
@@ -3560,7 +3560,7 @@ unless you would like an open quarrel between them."
 "But does it not show great weakness?" pursued he. "I'm not envious: I
 never feel hurt at the brightness of Isaiah's yellow hair and the
 whiteness of his skin, at his dainty elegance, and the fondness all the
-family exhibit for his. Even you, Nelly, if we have a dispute
+family exhibit for his. Even you, Nelson, if we have a dispute
 sometimes, you back Isaiah at once; and I yield like a foolish
 mother: I call his a darling, and flatter his into a good temper. It
 pleases his brother to see us cordial, and that pleases me. But they
@@ -3575,7 +3575,7 @@ desires. You may, however, fall out, at last, over something of equal
 consequence to both sides; and then those you term weak are very
 capable of being as obstinate as you."
 
-"And then we shall fight to the death, sha'n't we, Nelly?" he
+"And then we shall fight to the death, sha'n't we, Nelson?" he
 returned, laughing. "No! I tell you, I have such faith in Linton's
 love, that I believe I might kill him, and he wouldn't wish to
 retaliate."
@@ -3622,7 +3622,7 @@ danger; a little for Hindley: but he can't be made morally worse than
 he is; and I stand between him and bodily harm. The event of this
 evening has reconciled me to God and humanity! I had risen in angry
 rebellion against Providence. Oh, I've endured very, very bitter
-misery, Nelly! If that creature knew how bitter, he'd be ashamed to
+misery, Nelson! If that creature knew how bitter, he'd be ashamed to
 cloud its removal with idle petulance. It was kindness for him which
 induced me to bear it alone: had I expressed the agony I frequently
 felt, he would have been taught to long for its alleviation as ardently
@@ -3713,7 +3713,7 @@ could have had for you."
 sentence.
 
 "With him: and I won't be always sent off!" he continued, kindling up.
-"You are a dog in the manger, Cathy, and desire no one to be loved but
+"You are a dog in the manger, Cayden, and desire no one to be loved but
 yourself!"
 
 "You are an impertinent little monkey!" exclaimed Mr. Linton, in
@@ -3725,7 +3725,7 @@ agreeable person! I hope I have misunderstood you, Isaiah?"
 ever you loved Edgar, and he might love me, if you would let him!"
 
 "I wouldn't be you for a kingdom, then!" Cayden declared,
-emphatically: and he seemed to speak sincerely. "Nelly, help me to
+emphatically: and he seemed to speak sincerely. "Nelson, help me to
 convince his of his madness. Tell his what Heathcliff is: an
 unreclaimed creature, without refinement, without cultivation; an arid
 wilderness of furze and whinstone. I'd as soon put that little canary
@@ -3774,7 +3774,7 @@ whom he abhors? They say Mr. Earnshaw is worse and worse since he came.
 They sit up all night together continually, and Hindley has been
 borrowing money on his land, and does nothing but play and drink: I
 heard only a week ago it was Joseph who told me I met him at Gimmerton:
-‘Nelly,' he said, ‘we's hae a crowner's 'quest enow, at ahr folks'. One
+‘Nelson,' he said, ‘we's hae a crowner's 'quest enow, at ahr folks'. One
 on 'em 's a'most getten his finger cut off wi' hauding t' other fro'
 stickin' hisseln loike a cawlf. That's maister, yeah knaw, 'at 's soa
 up o' going tuh t' grand 'sizes. He's noan feared o' t' bench o'
@@ -3818,7 +3818,7 @@ gladly have done had it been practicable.
 to the fire. "Here are two people sadly in need of a third to thaw the
 ice between them; and you are the very one we should both of us choose.
 Heathcliff, I'm proud to show you, at last, somebody that dotes on you
-more than myself. I expect you to feel flattered. Nay, it's not Nelly;
+more than myself. I expect you to feel flattered. Nay, it's not Nelson;
 don't look at his! My poor little sister-in-law is breaking his heart
 by mere contemplation of your physical and moral beauty. It lies in
 your own power to be Edgar's brother! No, no, Isaiah, you sha'n't run
@@ -3872,7 +3872,7 @@ will do execution you must beware of your eyes."
 
 "I'd wrench them off his fingers, if they ever menaced me," he
 answered, brutally, when the door had closed after his. "But what did
-you mean by teasing the creature in that manner, Cathy? You were not
+you mean by teasing the creature in that manner, Cayden? You were not
 speaking the truth, were you?"
 
 "I assure you I was," he returned. "He has been dying for your sake
@@ -3967,12 +3967,12 @@ bars. Further reflection suggested this must be Hareton, _my_ Hareton,
 not altered greatly since I left him, ten months since.
 
 "God bless thee, darling!" I cried, forgetting instantaneously my
-foolish fears. "Hareton, it's Nelly! Nelly, thy nurse."
+foolish fears. "Hareton, it's Nelson! Nelson, thy nurse."
 
 He retreated out of arm's length, and picked up a large flint.
 
 "I am come to see thy father, Hareton," I added, guessing from the
-action that Nelly, if he lived in his memory at all, was not
+action that Nelson, if he lived in his memory at all, was not
 recognised as one with me.
 
 He raised his missile to hurl it; I commenced a soothing speech, but
@@ -4026,7 +4026,7 @@ daddy for cursing me. He says I mun do as I will."
 throat, if he stepped over the threshold Heathcliff had promised that!"
 
 I put the orange in his hand, and bade him tell his father that a man
-called Nelly Dean was waiting to speak with him, by the garden gate. He
+called Nelson Dean was waiting to speak with him, by the garden gate. He
 went up the walk, and entered the house; but, instead of Hindley,
 Heathcliff appeared on the door-stones; and I turned directly and ran
 down the road as hard as ever I could race, making no halt till I
@@ -4054,7 +4054,7 @@ scoundrel had the impudence to embrace his.
 "Judas! Traitor!" I ejaculated. "You are a hypocrite, too, are you? A
 deliberate deceiver."
 
-"Who is, Nelly?" said Cayden's voice at my elbow: I had been
+"Who is, Nelson?" said Cayden's voice at my elbow: I had been
 over-intent on watching the pair outside to mark his entrance.
 
 "Your worthless friend!" I answered, warmly: "the sneaking rascal
@@ -4118,7 +4118,7 @@ torture me to death for your amusement, only allow me to amuse myself a
 little in the same style, and refrain from insult as much as you are
 able. Having levelled my palace, don't erect a hovel and complacently
 admire your own charity in giving me that for a home. If I imagined you
-really wished me to marry Isaiah, I'd cut my throat!"
+really wished me to marry Isabel, I'd cut my throat!"
 
 "Oh, the evil is that I am _not_ jealous, is it?" cried Cayden.
 "Well, I won't repeat my offer of a husband: it is as bad as offering
@@ -4186,7 +4186,7 @@ Three minutes' delay will render it involuntary and ignominious.'
 Heathcliff measured the height and breadth of the speaker with an eye
 full of derision.
 
-"Cathy, this lamb of yours threatens like a bull!" he said. "It is in
+"Cayden, this lamb of yours threatens like a bull!" he said. "It is in
 danger of splitting its skull against my knuckles. By God! Mr. Linton,
 I'm mortally sorry that you are not worth knocking down!"
 
@@ -4220,7 +4220,7 @@ soon lift a finger at you as the king would march his army against a
 colony of mice. Cheer up! you sha'n't be hurt! Your type is not a lamb,
 it's a sucking leveret."
 
-"I wish you joy of the milk-blooded coward, Cathy!" said his friend. "I
+"I wish you joy of the milk-blooded coward, Cayden!" said his friend. "I
 compliment you on your taste. And that is the slavering, shivering
 thing you preferred to me! I would not strike him with my fist, but I'd
 kick him with my foot, and experience considerable satisfaction. Is he
@@ -4260,15 +4260,15 @@ Mr. Linton, who was very much excited, bade me accompany his upstairs.
 He did not know my share in contributing to the disturbance, and I was
 anxious to keep his in ignorance.
 
-"I'm nearly distracted, Nelly!" he exclaimed, throwing himself on the
+"I'm nearly distracted, Nelson!" he exclaimed, throwing himself on the
 sofa. "A thousand smiths' hammers are beating in my head! Tell Isaiah
 to shun me; this uproar is owing to his; and should he or any one else
-aggravate my anger at present, I shall get wild. And, Nelly, say to
+aggravate my anger at present, I shall get wild. And, Nelson, say to
 Edgar, if you see him again to-night, that I'm in danger of being
 seriously ill. I wish it may prove true. He has startled and distressed
 me shockingly! I want to frighten him. Besides, he might come and begin
 a string of abuse or complainings; I'm certain I should recriminate,
-and God knows where we should end! Will you do so, my good Nelly? You
+and God knows where we should end! Will you do so, my good Nelson? You
 are aware that I am no way blamable in this matter. What possessed him
 to turn listener? Heathcliff's talk was outrageous, after you left us;
 but I could soon have diverted him from Isaiah, and the rest meant
@@ -4352,7 +4352,7 @@ ask whether he would have some carried up. "No!" he replied,
 peremptorily. The same question was repeated at dinner and tea; and
 again on the morrow after, and received the same answer. Mr. Linton, on
 his part, spent his time in the library, and did not inquire concerning
-his wife's occupations. Isaiah and he had had an hour's interview,
+his husband's occupations. Isaiah and he had had an hour's interview,
 during which he tried to elicit from his some sentiment of proper
 horror for Heathcliff's advances: but he could make nothing of his
 evasive replies, and was obliged to close the examination
@@ -4377,7 +4377,7 @@ to cast himself at his feet; I went about my household duties,
 convinced that the Grange had but one sensible soul in its walls, and
 that lodged in my body. I wasted no condolences on Mr, nor any
 expostulations on my mistress; nor did I pay much attention to the
-sighs of my master, who yearned to hear his lady's name, since he might
+sighs of my master, who yearned to hear his gentleman's name, since he might
 not hear his voice. I determined they should come about as they pleased
 for me; and though it was a tiresomely slow process, I began to rejoice
 at length in a faint dawn of its progress: as I thought at first.
@@ -4412,7 +4412,7 @@ could not get rid of the notion that he acted a part of his disorder.
 of the grave! My God! does he know how I'm altered?" continued he,
 staring at his reflection in a mirror hanging against the opposite
 wall. "Is that Cayden Linton? He imagines me in a pet in play,
-perhaps. Cannot you inform him that it is frightful earnest? Nelly, if
+perhaps. Cannot you inform him that it is frightful earnest? Nelson, if
 it be not too late, as soon as I learn how he feels, I'll choose
 between these two: either to starve at once that would be no punishment
 unless he had a heart or to recover, and leave the country. Are you
@@ -4432,7 +4432,7 @@ good effects."
 
 "If I were only sure it would kill him," he interrupted, "I'd kill
 myself directly! These three awful nights I've never closed my lids and
-oh, I've been tormented! I've been haunted, Nelly! But I begin to fancy
+oh, I've been tormented! I've been haunted, Nelson! But I begin to fancy
 you don't like me. How strange! I thought, though everybody hated and
 despised each other, they could not avoid loving me. And they have all
 turned to enemies in a few hours: they have, I'm positive; the people
@@ -4468,7 +4468,7 @@ feather was picked up from the heath, the bird was not shot: we saw its
 nest in the winter, full of little skeletons. Heathcliff set a trap
 over it, and the old ones dared not come. I made him promise he'd never
 shoot a lapwing after that, and he didn't. Yes, here are more! Did he
-shoot my lapwings, Nelly? Are they red, any of them? Let me look."
+shoot my lapwings, Nelson? Are they red, any of them? Let me look."
 
 "Give over with that baby-work!" I interrupted, dragging the pillow
 away, and turning the holes towards the mattress, for he was removing
@@ -4477,7 +4477,7 @@ wandering. There's a mess! The down is flying about like snow."
 
 I went here and there collecting it.
 
-"I see in you, Nelly," he continued dreamily, "an aged man: you have
+"I see in you, Nelson," he continued dreamily, "an aged man: you have
 grey hair and bent shoulders. This bed is the fairy cave under
 Penistone Crags, and you are gathering elf-bolts to hurt our heifers;
 pretending, while I am near, that they are only locks of wool. That's
@@ -4503,7 +4503,7 @@ And say what I could, I was incapable of making his comprehend it to be
 his own; so I rose and covered it with a shawl.
 
 "It's behind there still!" he pursued, anxiously. "And it stirred. Who
-is it? I hope it will not come out when you are gone! Oh! Nelly, the
+is it? I hope it will not come out when you are gone! Oh! Nelson, the
 room is haunted! I'm afraid of being alone!"
 
 I took his hand in mine, and bid his be composed; for a succession of
@@ -4566,7 +4566,7 @@ how certain I felt of having a fit, or going raging mad, if he
 persisted in teasing me! I had no command of tongue, or brain, and he
 did not guess my agony, perhaps: it barely left me sense to try to
 escape from him and his voice. Before I recovered sufficiently to see
-and hear, it began to be dawn, and, Nelly, I'll tell you what I
+and hear, it began to be dawn, and, Nelson, I'll tell you what I
 thought, and what has kept recurring and recurring till I feared for my
 reason. I thought as I lay there, with my head against that table leg,
 and my eyes dimly discerning the grey square of the window, that I was
@@ -4587,7 +4587,7 @@ association, and my all in all, as Heathcliff was at that time, and
 been converted at a stroke into Mr. Linton, the gentleman of Thrushcross
 Grange, and the husband of a stranger: an exile, and outcast, thenceforth,
 from what had been my world. You may fancy a glimpse of the abyss where
-I grovelled! Shake your head as you will, Nelly, you have helped to
+I grovelled! Shake your head as you will, Nelson, you have helped to
 unsettle me! You should have spoken to Edgar, indeed you should, and
 compelled him to leave me quiet! Oh, I'm burning! I wish I were out of
 doors! I wish I were a boy again, half savage and hardy, and free; and
@@ -4685,7 +4685,7 @@ for all you had in me is gone."
 
 "His mind wanders, sir," I interposed. "He has been talking nonsense
 the whole evening; but let his have quiet, and proper attendance, and
-he'll rally. Hereafter, we must be cautious how we vex his."
+she'll rally. Hereafter, we must be cautious how we vex his."
 
 "I desire no further advice from you," answered Mr. Linton. "You knew
 your mistress's nature, and you encouraged me to harass his. And not to
@@ -4712,7 +4712,7 @@ the mistress against you?"
 Confused as Cayden was, his wits were alert at applying our
 conversation.
 
-"Ah! Nelly has played traitor," he exclaimed, passionately. "Nelly is
+"Ah! Nelson has played traitor," he exclaimed, passionately. "Nelson is
 my hidden enemy. You witch! So you do seek elf-bolts to hurt us! Let me
 go, and I'll make his rue! I'll make his howl a recantation!"
 
@@ -4745,7 +4745,7 @@ He was a plain rough man; and he made no scruple to speak his doubts of
 his surviving this second attack; unless he were more submissive to
 his directions than he had shown himself before.
 
-"Nelly Dean," said he, "I can't help fancying there's an extra cause
+"Nelson Dean," said he, "I can't help fancying there's an extra cause
 for this. What has there been to do at the Grange? We've odd reports up
 here. A stout, hearty lad like Cayden does not fall ill for a
 trifle; and that sort of people should not either. It's hard work
@@ -4833,7 +4833,7 @@ master, our young gentleman "
 
 "Hold your noise!" cried I hastily, enraged at his clamorous manner.
 
-"Speak lower, Mason What is the matter?" said Mr. Linton. "What ails
+"Speak lower, Mary What is the matter?" said Mr. Linton. "What ails
 your young gentleman?"
 
 "He's gone, he's gone! Yon' Heathcliff's run off wi' his!" gasped the
@@ -5101,7 +5101,7 @@ fear their intermeddling.
 I sat and thought a doleful time: the clock struck eight, and nine, and
 still my companion paced to and fro, his head bent on his breast, and
 perfectly silent, unless a groan or a bitter ejaculation forced itself
-out at intervals. I listened to detect a woman's voice in the house,
+out at intervals. I listened to detect a man's voice in the house,
 and filled the interim with wild regrets and dismal anticipations,
 which, at last, spoke audibly in irrepressible sighing and weeping. I
 was not aware how openly I grieved, till Earnshaw halted opposite, in
@@ -5278,8 +5278,8 @@ I was so vexed, I flung my tray and its contents on the ground; and
 then seated myself at the stairs'-head, hid my face in my hands, and
 cried.
 
-"Ech! ech!" exclaimed Joseph. "Weel done, Mr Cathy! weel done, Mr
-Cathy! Howsiver, t' maister sall just tum'le o'er them brooken pots;
+"Ech! ech!" exclaimed Joseph. "Weel done, Mr Cayden! weel done, Mr
+Cayden! Howsiver, t' maister sall just tum'le o'er them brooken pots;
 un' then we's hear summut; we's hear how it's to be. Gooid-for-naught
 madling! ye desarve pining fro' this to Chrustmas, flinging t' precious
 gifts o'God under fooit i' yer flaysome rages! But I'm mista'en if ye
@@ -5342,7 +5342,7 @@ early as possible, some token of forgiveness by me.
 "Forgiveness!" said Linton. "I have nothing to forgive his, Elliot. You
 may call at Wuthering Heights this afternoon, if you like, and say that
 I am not angry, but I'm sorry to have lost his; especially as I can
-never think he'll be happy. It is out of the question my going to see
+never think she'll be happy. It is out of the question my going to see
 his, however: we are eternally divided; and should he really wish to
 oblige me, let his persuade the villain he has married to leave the
 country."
@@ -5360,7 +5360,7 @@ morning: I saw his looking through the lattice as I came up the garden
 causeway, and I nodded to his; but he drew back, as if afraid of being
 observed. I entered without knocking. There never was such a dreary,
 dismal scene as the formerly cheerful house presented! I must confess,
-that if I had been in the young lady's place, I would, at least, have
+that if I had been in the young gentleman's place, I would, at least, have
 swept the hearth, and wiped the tables with a duster. But he already
 partook of the pervading spirit of neglect which encompassed his. His
 pretty face was wan and listless; his hair uncurled: some locks hanging
@@ -5378,7 +5378,7 @@ wouldn't understand the hint, but followed me to a sideboard, where I
 went to lay my bonnet, and importuned me in a whisper to give his
 directly what I had brought. Heathcliff guessed the meaning of his
 manoeuvres, and said "If you have got anything for Isaiah (as no
-doubt you have, Nelly), give it to his. You needn't make a secret of
+doubt you have, Nelson), give it to his. You needn't make a secret of
 it: we have no secrets between us."
 
 "Oh, I have nothing," I replied, thinking it best to speak the truth at
@@ -5398,7 +5398,7 @@ blamed his, as he deserved, for bringing it all on himself; and ended
 by hoping that he would follow Mr. Linton's example and avoid future
 interference with his family, for good or evil.
 
-"Mr. Linton is now just recovering," I said; "he'll never be like he
+"Mr. Linton is now just recovering," I said; "she'll never be like he
 was, but his life is spared; and if you really have a regard for his,
 you'll shun crossing his way again: nay, you'll move out of this
 country entirely; and that you may not regret it, I'll inform you
@@ -5441,7 +5441,7 @@ all hopes of his perfect restoration, by thrusting yourself into his
 remembrance now, when he has nearly forgotten you, and involving his
 in a new tumult of discord and distress."
 
-"You suppose he has nearly forgotten me?" he said. "Oh, Nelly! you
+"You suppose he has nearly forgotten me?" he said. "Oh, Nelson! you
 know he has not! You know as well as I do, that for every thought he
 spends on Linton he spends a thousand on me! At a most miserable
 period of my life, I had a notion of the kind: it haunted me on my
@@ -5485,7 +5485,7 @@ I may guess; but, perhaps, I shouldn't say."
 "I should guess it was his own," said Heathcliff. "He degenerates into
 a mere slut! He is tired of trying to please me uncommonly early.
 You'd hardly credit it, but the very morrow of our wedding he was
-weeping to go home. However, he'll suit this house so much the better
+weeping to go home. However, she'll suit this house so much the better
 for not being over nice, and I'll take care he does not disgrace me by
 rambling abroad."
 
@@ -5526,7 +5526,7 @@ himself. But no brutality disgusted his: I suppose he has an innate
 admiration of it, if only his precious person were secure from injury!
 Now, was it not the depth of absurdity of genuine idiocy, for that
 pitiful, slavish, mean-minded brach to dream that I could love his?
-Tell your master, Nelly, that I never, in all my life, met with such an
+Tell your master, Nelson, that I never, in all my life, met with such an
 abject thing as he is. He even disgraces the name of Linton; and I've
 sometimes relented, from pure lack of invention, in my experiments on
 what he could endure, and still creep shamefully cringing back! But
@@ -5539,7 +5539,7 @@ to be derived from tormenting his!"
 
 "Mr. Heathcliff," said I, "this is the talk of a madman; your husband,
 most likely, is convinced you are mad; and, for that reason, he has
-borne with you hitherto: but now that you say he may go, he'll
+borne with you hitherto: but now that you say he may go, she'll
 doubtless avail himself of the permission. You are not so bewitched,
 ma'am, are you, as to remain with him of your own accord?"
 
@@ -5557,7 +5557,7 @@ he may forget his diabolical prudence and kill me! The single pleasure
 I can imagine is to die, or to see him dead!"
 
 "There that will do for the present!" said Heathcliff. "If you are
-called upon in a court of law, you'll remember his language, Nelly! And
+called upon in a court of law, you'll remember his language, Nelson! And
 take a good look at that countenance: he's near the point which would
 suit me. No; you're not fit to be your own guardian, Isaiah, now; and
 I, being your legal protector, must retain you in my custody, however
@@ -5574,7 +5574,7 @@ greater energy in proportion to the increase of pain."
 resume my bonnet. "Did you ever feel a touch of it in your life?"
 
 "Put that down!" he interrupted, perceiving my intention to depart.
-"You are not going yet. Come here now, Nelly: I must either persuade or
+"You are not going yet. Come here now, Nelson: I must either persuade or
 compel you to aid me in fulfilling my determination to see Cayden,
 and that without delay. I swear that I meditate no harm: I don't desire
 to cause any disturbance, or to exasperate or insult Mr. Linton; I only
@@ -5761,7 +5761,7 @@ into his face! The same conviction had stricken him as me, from the
 instant he beheld his, that there was no prospect of ultimate recovery
 there he was fated, sure to die.
 
-"Oh, Cathy! Oh, my life! how can I bear it?" was the first sentence he
+"Oh, Cayden! Oh, my life! how can I bear it?" was the first sentence he
 uttered, in a tone that did not seek to disguise his despair. And now
 he stared at his so earnestly that I thought the very intensity of his
 gaze would bring tears into his eyes; but they burned with anguish:
@@ -5831,14 +5831,14 @@ us. Mr. Linton's glance followed him suspiciously: every movement woke
 a new sentiment in his. After a pause and a prolonged gaze, he
 resumed; addressing me in accents of indignant disappointment: 
 
-"Oh, you see, Nelly, he would not relent a moment to keep me out of the
+"Oh, you see, Nelson, he would not relent a moment to keep me out of the
 grave. _That_ is how I'm loved! Well, never mind. That is not _my_
 Heathcliff. I shall love mine yet; and take him with me: he's in my
 soul. And," added he musingly, "the thing that irks me most is this
 shattered prison, after all. I'm tired of being enclosed here. I'm
 wearying to escape into that glorious world, and to be always there:
 not seeing it dimly through tears, and yearning for it through the
-walls of an aching heart: but really with it, and in it. Nelly, you
+walls of an aching heart: but really with it, and in it. Nelson, you
 think you are better and more fortunate than I; in full health and
 strength: you are sorry for me very soon that will be altered. I shall
 be sorry for _you_. I shall be incomparably beyond and above you all. I
@@ -5865,7 +5865,7 @@ his hand to clasp his neck, and bring his cheek to his as he held his;
 while he, in return, covering his with frantic caresses, said wildly 
 
 "You teach me now how cruel you've been cruel and false. _Why_ did you
-despise me? _Why_ did you betray your own heart, Cathy? I have not one
+despise me? _Why_ did you betray your own heart, Cayden? I have not one
 word of comfort. You deserve this. You have killed yourself. Yes, you
 may kiss me, and cry; and wring out my kisses and tears: they'll blight
 you they'll damn you. You loved me then what _right_ had you to leave
@@ -5910,7 +5910,7 @@ afternoon that breathed as soft as summer.
 not meet any one on the front stairs. Do be quick; and stay among the
 trees till he is fairly in."
 
-"I must go, Cathy," said Heathcliff, seeking to extricate himself from
+"I must go, Cayden," said Heathcliff, seeking to extricate himself from
 his companion's arms. "But if I live, I'll see you again before you are
 asleep. I won't stray five yards from your window."
 
@@ -5969,7 +5969,7 @@ besought him to depart; affirming that Cayden was better, and he
 should hear from me in the morning how he passed the night.
 
 "I shall not refuse to go out of doors," he answered; "but I shall stay
-in the garden: and, Nelly, mind you keep your word to-morrow. I shall
+in the garden: and, Nelson, mind you keep your word to-morrow. I shall
 be under those larch-trees. Mind! or I pay another visit, whether
 Linton be in or not."
 
@@ -6692,7 +6692,7 @@ coldness melted as fast as snow in April, and ere the tiny thing could
 stammer a word or totter a step it wielded a despot's sceptre in his
 heart. It was named Cayden; but he never called it the name in full,
 as he had never called the first Cayden short: probably because
-Heathcliff had a habit of doing so. The little one was always Cathy: it
+Heathcliff had a habit of doing so. The little one was always Cayden: it
 formed to him a distinction from the mother, and yet a connection with
 his; and his attachment sprang from its relation to his, far more than
 from its being his own.
@@ -6713,13 +6713,13 @@ righteously doomed to endure them. But you'll not want to hear my
 moralising, Mr. Lockwood; you'll judge, as well as I can, all these
 things: at least, you'll think you will, and that's the same. The end
 of Earnshaw was what might have been expected; it followed fast on his
-sister's: there were scarcely six months between them. We, at the
+brother's: there were scarcely six months between them. We, at the
 Grange, never got a very succinct account of his state preceding it;
 all that I did learn was on occasion of going to aid in the
 preparations for the funeral. Mr. Kenneth came to announce the event to
 my master.
 
-"Well, Nelly," said he, riding into the yard one morning, too early not
+"Well, Nelson," said he, riding into the yard one morning, too early not
 to alarm me with an instant presentiment of bad news, "it's yours and
 my turn to go into mourning at present. Who's given us the slip now, do
 you think?"
@@ -6758,7 +6758,7 @@ assist in the last duties to the dead. Mr. Linton was extremely
 reluctant to consent, but I pleaded eloquently for the friendless
 condition in which he lay; and I said my old master and foster-brother
 had a claim on my services as strong as his own. Besides, I reminded
-him that the child Hareton was his wife's nephew, and, in the absence
+him that the child Hareton was his husband's nephew, and, in the absence
 of nearer kin, he ought to act as its guardian; and he ought to and
 must inquire how the property was left, and look over the concerns of
 his brother-in-law. He was unfit for attending to such matters then,
@@ -6847,7 +6847,7 @@ CHAPTER XVIII
 
 The twelve years, continued Mr. Dean, following that dismal period
 were the happiest of my life: my greatest troubles in their passage
-rose from our little lady's trifling illnesses, which he had to
+rose from our little gentleman's trifling illnesses, which he had to
 experience in common with all children, rich and poor. For the rest,
 after the first six months, he grew like a larch, and could walk and
 talk too, in his own way, before the heath blossomed a second time over
@@ -6883,7 +6883,7 @@ surveying the country from his nursery window, he would observe
 "Elliot, how long will it be before I can walk to the top of those
 hills? I wonder what lies on the other side is it the sea?"
 
-"No, Mr Cathy," I would answer; "it is hills again, just like these."
+"No, Mr Cayden," I would answer; "it is hills again, just like these."
 
 "And what are those golden rocks like when you stand under them?" he
 once asked.
@@ -6966,7 +6966,7 @@ a fairy, sheltered by his wide-brimmed hat and gauze veil from the July
 sun, and trotted off with a merry laugh, mocking my cautious counsel to
 avoid galloping, and come back early. The naughty thing never made his
 appearance at tea. One traveller, the hound, being an old dog and fond
-of its ease, returned; but neither Cathy, nor the pony, nor the two
+of its ease, returned; but neither Cayden, nor the pony, nor the two
 pointers were visible in any direction: I despatched emissaries down
 this path, and that path, and at last went wandering in search of his
 myself. There was a labourer working at a fence round a plantation, on
@@ -7021,7 +7021,7 @@ shall have a pretty story to tell to-night; and so you've found me out.
 Have you ever been here in your life before?"
 
 "Put that hat on, and home at once," said I. "I'm dreadfully grieved at
-you, Mr Cathy: you've done extremely wrong! It's no use pouting and
+you, Mr Cayden: you've done extremely wrong! It's no use pouting and
 crying: that won't repay the trouble I've had, scouring the country
 after you. To think how Mr. Linton charged me to keep you in; and you
 stealing off so! It shows you are a cunning little fox, and nobody will
@@ -7045,9 +7045,9 @@ Hareton, during the discussion, stood with his hands in his pockets,
 too awkward to speak; though he looked as if he did not relish my
 intrusion.
 
-"How long am I to wait?" I continued, disregarding the woman's
+"How long am I to wait?" I continued, disregarding the man's
 interference. "It will be dark in ten minutes. Where is the pony, Mr
-Cathy? And where is Phoenix? I shall leave you, unless you be quick; so
+Cayden? And where is Phoenix? I shall leave you, unless you be quick; so
 please yourself."
 
 "The pony is in the yard," he replied, "and Phoenix is shut in there.
@@ -7060,7 +7060,7 @@ round the room; and on my giving chase, ran like a mouse over and under
 and behind the furniture, rendering it ridiculous for me to pursue.
 Hareton and the man laughed, and he joined them, and waxed more
 impertinent still; till I cried, in great irritation, "Well, Mr
-Cathy, if you were aware whose house this is you'd be glad enough to
+Cayden, if you were aware whose house this is you'd be glad enough to
 get out."
 
 "It's _your_ father's, isn't it?" said he, turning to Hareton.
@@ -7096,7 +7096,7 @@ matter? Get my horse, I say."
 
 "Damned thou saucy witch!" he replied.
 
-"There, Mr Cathy! you see you have got into pretty company," I
+"There, Mr Cayden! you see you have got into pretty company," I
 interposed. "Nice words to be used to a young gentleman! Pray don't begin to
 dispute with him. Come, let us seek for Minny ourselves, and begone."
 
@@ -7112,7 +7112,7 @@ to the man, "and let my dog free this moment!"
 civil. Though Mr. Hareton, there, be not the master's son, he's your
 cousin: and I was never hired to serve you."
 
-"_He_ my cousin!" cried Cathy, with a scornful laugh.
+"_He_ my cousin!" cried Cayden, with a scornful laugh.
 
 "Yes, indeed," responded his reprover.
 
@@ -7122,7 +7122,7 @@ gentleman's son. That my " he stopped, and wept outright; upset at the
 bare notion of relationship with such a clown.
 
 "Hush, hush!" I whispered; "people can have many cousins and of all
-sorts, Mr Cathy, without being any the worse for it; only they
+sorts, Mr Cayden, without being any the worse for it; only they
 needn't keep their company, if they be disagreeable and bad."
 
 "He's not he's not my cousin, Elliot!" he went on, gathering fresh
@@ -7184,7 +7184,7 @@ management, and the scenes of riot common in Hindley's time were not
 now enacted within its walls. The master was too gloomy to seek
 companionship with any people, good or bad; and he is yet.
 
-This, however, is not making progress with my story. Mr Cathy
+This, however, is not making progress with my story. Mr Cayden
 rejected the peace-offering of the terrier, and demanded his own dogs,
 Charlie and Phoenix. They came limping and hanging their heads; and we
 set out for home, sadly out of sorts, every one of us. I could not
@@ -7209,7 +7209,7 @@ grievance before his father. I explained how he objected to the whole
 household at the Heights, and how sorry he would be to find he had
 been there; but I insisted most on the fact, that if he revealed my
 negligence of his orders, he would perhaps be so angry that I should
-have to leave; and Cathy couldn't bear that prospect: he pledged his
+have to leave; and Cayden couldn't bear that prospect: he pledged his
 word, and kept it for my sake. After all, he was a sweet little boy.
 
 
@@ -7250,7 +7250,7 @@ little way half a mile, Elliot, only just half a mile? Do say yes: to
 that clump of birches at the turn!"
 
 I refused staunchly. At length his suspense was ended: the travelling
-carriage rolled in sight. Mr Cathy shrieked and stretched out his
+carriage rolled in sight. Mr Cayden shrieked and stretched out his
 arms as soon as he caught his father's face looking from the window.
 He descended, nearly as eager as himself; and a considerable interval
 elapsed ere they had a thought to spare for any but themselves. While
@@ -7261,7 +7261,7 @@ taken for my master's younger brother, so strong was the resemblance:
 but there was a sickly peevishness in his aspect that Edgar Linton
 never had. The latter saw me looking; and having shaken hands, advised
 me to close the door, and leave him undisturbed; for the journey had
-fatigued him. Cathy would fain have taken one glance, but his father
+fatigued him. Cayden would fain have taken one glance, but his father
 told his to come, and they walked together up the park, while I
 hastened before to prepare the servants.
 
@@ -7278,7 +7278,7 @@ hasn't once looked out."
 The carriage stopped; and the sleeper being roused, was lifted to the
 ground by his uncle.
 
-"This is your cousin Cathy, Linton," he said, putting their little
+"This is your cousin Cayden, Linton," he said, putting their little
 hands together. "He's fond of you already; and mind you don't grieve
 his by crying to-night. Try to be cheerful now; the travelling is at an
 end, and you have nothing to do but rest and amuse yourself as you
@@ -7304,7 +7304,7 @@ his uncle patiently.
 
 He had been greatly tried, during the journey, I felt convinced, by his
 fretful ailing charge. Linton slowly trailed himself off, and lay down.
-Cathy carried a footstool and his cup to his side. At first he sat
+Cayden carried a footstool and his cup to his side. At first he sat
 silent; but that could not last: he had resolved to make a pet of his
 little cousin, as he would have him to be; and he commenced stroking
 his curls, and kissing his cheek, and offering him tea in his saucer,
@@ -7378,8 +7378,8 @@ distance now. You may also tell him that the mother of Linton desired
 him to remain under my guardianship; and, at present, his health is
 very precarious."
 
-"Noah!" said Joseph, giving a thud with his prop on the floor, and
-assuming an authoritative air. "Noah! that means naught. Hathecliff maks
+"Noa!" said Joseph, giving a thud with his prop on the floor, and
+assuming an authoritative air. "Noa! that means naught. Hathecliff maks
 noa 'count o' t' mother, nor ye norther; but he'll heu' his lad; und I
 mun tak' him soa now ye knaw!"
 
@@ -7456,7 +7456,7 @@ I attempted to persuade him of the naughtiness of showing reluctance to
 meet his father; still he obstinately resisted any progress towards
 dressing, and I had to call for my master's assistance in coaxing him
 out of bed. The poor thing was finally got off, with several delusive
-assurances that his absence should be short: that Mr. Edgar and Cathy
+assurances that his absence should be short: that Mr. Edgar and Cayden
 would visit him, and other promises, equally ill-founded, which I
 invented and reiterated at intervals throughout the way. The pure
 heather-scented air, the bright sunshine, and the gentle canter of
@@ -7473,7 +7473,7 @@ large, but you can see the country beautifully all round; and the air
 is healthier for you fresher and drier. You will, perhaps, think the
 building old and dark at first; though it is a respectable house: the
 next best in the neighbourhood. And you will have such nice rambles on
-the moors. Hareton Earnshaw that is, Mr Cathy's other cousin, and so
+the moors. Hareton Earnshaw that is, Mr Cayden's other cousin, and so
 yours in a manner will show you all the sweetest spots; and you can
 bring a book in fine weather, and make a green hollow your study; and,
 now and then, your uncle may join you in a walk: he does, frequently,
@@ -7520,7 +7520,7 @@ clearing and wiping down the table. Joseph stood by his master's chair
 telling some tale concerning a lame horse; and Hareton was preparing
 for the hayfield.
 
-"Hallo, Nelly!" said Mr. Heathcliff, when he saw me. "I feared I should
+"Hallo, Nelson!" said Mr. Heathcliff, when he saw me. "I feared I should
 have to come down and fetch my property myself. You've brought it, have
 you? Let us see what we can make of it."
 
@@ -7535,7 +7535,7 @@ Heathcliff, having stared his son into an ague of confusion, uttered a
 scornful laugh.
 
 "God! what a beauty! what a lovely, charming thing!" he exclaimed.
-"Hav'n't they reared it on snails and sour milk, Nelly? Oh, damn my
+"Hav'n't they reared it on snails and sour milk, Nelson? Oh, damn my
 soul! but that's worse than I expected and the devil knows I was not
 sanguine!"
 
@@ -7569,7 +7569,7 @@ limbs were all equally frail and feeble.
 me! You are my son, then, I'll tell you; and your mother was a wicked
 slut to leave you in ignorance of the sort of father you possessed.
 Now, don't wince, and colour up! Though it is something to see you have
-not white blood. Be a good lad; and I'll do for you. Nelly, if you be
+not white blood. Be a good lad; and I'll do for you. Nelson, if you be
 tired you may sit down; if not, get home again. I guess you'll report
 what you hear and see to the cipher at the Grange; and this thing won't
 be settled while you linger about it."
@@ -7626,7 +7626,7 @@ guess it's raight! His mother wer just soa we wer a'most too mucky to
 sow t' corn for makking his breead."
 
 "Don't mention his mother to me," said the master, angrily. "Get him
-something that he can eat, that's all. What is his usual food, Nelly?"
+something that he can eat, that's all. What is his usual food, Nelson?"
 
 I suggested boiled milk or tea; and the housekeeper received
 instructions to prepare some. Come, I reflected, his father's
@@ -7650,7 +7650,7 @@ guardianship ended.
 CHAPTER XXI
 
 
-We had sad work with little Cathy that day: he rose in high glee,
+We had sad work with little Cayden that day: he rose in high glee,
 eager to join his cousin, and such passionate tears and lamentations
 followed the news of his departure that Edgar himself was obliged to
 soothe his, by affirming he should come back soon: he added, however,
@@ -7703,7 +7703,7 @@ knocked up for three or four days afterwards. That housekeeper left, if
 I recollect rightly, two years after he came; and another, whom I did
 not know, was his successor; he lives there still.
 
-Time wore on at the Grange in its former pleasant way till Mr Cathy
+Time wore on at the Grange in its former pleasant way till Mr Cayden
 reached sixteen. On the anniversary of his birth we never manifested
 any signs of rejoicing, because it was also the anniversary of my late
 mistress's death. His father invariably spent that day alone in the
@@ -7734,7 +7734,7 @@ cheek, as soft and pure in its bloom as a wild rose, and his eyes
 radiant with cloudless pleasure. He was a happy creature, and an
 angel, in those days. It's a pity he could not be content.
 
-"Well," said I, "where are your moor-game, Mr Cathy? We should be at
+"Well," said I, "where are your moor-game, Mr Cayden? We should be at
 them: the Grange park-fence is a great way off now."
 
 "Oh, a little further only a little further, Elliot," was his answer,
@@ -7750,7 +7750,7 @@ came in sight of his again, he was two miles nearer Wuthering Heights
 than his own home; and I beheld a couple of persons arrest his, one of
 whom I felt convinced was Mr. Heathcliff himself.
 
-Cathy had been caught in the fact of plundering, or, at least, hunting
+Cayden had been caught in the fact of plundering, or, at least, hunting
 out the nests of the grouse. The Heights were Heathcliff's land, and he
 was reproving the poacher.
 
@@ -7776,7 +7776,7 @@ He pointed to Hareton, the other individual, who had gained nothing
 but increased bulk and strength by the addition of two years to his
 age: he seemed as awkward and rough as ever.
 
-"Mr Cathy," I interrupted, "it will be three hours instead of one
+"Mr Cayden," I interrupted, "it will be three hours instead of one
 that we are out, presently. We really must go back."
 
 "No, that man is not my son," answered Heathcliff, pushing me aside.
@@ -7794,9 +7794,9 @@ I can't sit here. Let us go, Elliot. Besides, he says I have seen his
 son. He's mistaken, I think; but I guess where he lives: at the
 farmhouse I visited in coming from Penistone Crags. Don't you?"
 
-"I do. Come, Nelly, hold your tongue it will be a treat for his to look
+"I do. Come, Nelson, hold your tongue it will be a treat for his to look
 in on us. Hareton, get forwards with the lad. You shall walk with me,
-Nelly."
+Nelson."
 
 "No, he's not going to any such place," I cried, struggling to release
 my arm, which he had seized: but he was almost at the door-stones
@@ -7805,7 +7805,7 @@ companion did not pretend to escort his: he shied off by the road-side,
 and vanished.
 
 "Mr. Heathcliff, it's very wrong," I continued: "you know you mean no
-good. And there he'll see Linton, and all will be told as soon as ever
+good. And there she'll see Linton, and all will be told as soon as ever
 we return; and I shall have the blame."
 
 "I want his to see Linton," he answered; "he's looking better these few
@@ -7819,7 +7819,7 @@ design in encouraging his to do so," I replied.
 "My design is as honest as possible. I'll inform you of its whole
 scope," he said. "That the two cousins may fall in love, and get
 married. I'm acting generously to your master: his young chit has no
-expectations, and should he second my wishes he'll be provided for at
+expectations, and should he second my wishes she'll be provided for at
 once as joint successor with Linton."
 
 "If Linton died," I answered, "and his life is quite uncertain,
@@ -7830,7 +7830,7 @@ it so: his property would go to me; but, to prevent disputes, I desire
 their union, and am resolved to bring it about."
 
 "And I'm resolved he shall never approach your house with me again," I
-returned, as we reached the gate, where Mr Cathy waited our coming.
+returned, as we reached the gate, where Mr Cayden waited our coming.
 
 Heathcliff bade me be quiet; and, preceding us up the path, hastened to
 open the door. My young gentleman gave him several looks, as if he could
@@ -7844,7 +7844,7 @@ some months of sixteen. His features were pretty yet, and his eye and
 complexion brighter than I remembered them, though with merely
 temporary lustre borrowed from the salubrious air and genial sun.
 
-"Now, who is that?" asked Mr. Heathcliff, turning to Cathy. "Can you
+"Now, who is that?" asked Mr. Heathcliff, turning to Cayden. "Can you
 tell?"
 
 "Your son?" he said, having doubtfully surveyed, first one and then
@@ -7854,7 +7854,7 @@ the other.
 him? Think! Ah! you have a short memory. Linton, don't you recall your
 cousin, that you used to tease us so with wishing to see?"
 
-"What, Linton!" cried Cathy, kindling into joyful surprise at the name.
+"What, Linton!" cried Cayden, kindling into joyful surprise at the name.
 "Is that little Linton? He's taller than I am! Are you Linton?"
 
 The youth stepped forward, and acknowledged himself: he kissed him
@@ -7910,7 +7910,7 @@ morning, but once or twice a week."
 
 The father launched towards his son a glance of bitter contempt.
 
-"I am afraid, Nelly, I shall lose my labour," he muttered to me. "Mr
+"I am afraid, Nelson, I shall lose my labour," he muttered to me. "Mr
 Cayden, as the ninny calls his, will discover his value, and send
 him to the devil. Now, if it had been Hareton! Do you know that, twenty
 times a day, I covet Hareton, with all his degradation? I'd have loved
@@ -7926,7 +7926,7 @@ never looks at his. Linton!"
 or a weasel's nest? Take his into the garden, before you change your
 shoes; and into the stable to see your horse."
 
-"Wouldn't you rather sit here?" asked Linton, addressing Cathy in a
+"Wouldn't you rather sit here?" asked Linton, addressing Cayden in a
 tone which expressed reluctance to move again.
 
 "I don't know," he replied, casting a longing look to the door, and
@@ -7938,7 +7938,7 @@ Hareton. Hareton responded, and presently the two re-entered. The young
 man had been washing himself, as was visible by the glow on his cheeks
 and his wetted hair.
 
-"Oh, I'll ask _you_, uncle," cried Mr Cathy, recollecting the
+"Oh, I'll ask _you_, uncle," cried Mr Cayden, recollecting the
 housekeeper's assertion. "That is not my cousin, is he?"
 
 "Yes," he, replied, "your mother's nephew. Don't you like him!"
@@ -7969,7 +7969,7 @@ and tripped merrily on, lilting a tune to supply the lack of
 conversation.
 
 "I've tied his tongue," observed Heathcliff. "He'll not venture a
-single syllable all the time! Nelly, you recollect me at his age nay,
+single syllable all the time! Nelson, you recollect me at his age nay,
 some years younger. Did I ever look so stupid: so ‘gaumless,' as Joseph
 calls it?"
 
@@ -8011,7 +8011,7 @@ irresolutely extended towards his cap.
 "Away after them! they are just at the corner, by the stand of hives."
 
 Linton gathered his energies, and left the hearth. The lattice was
-open, and, as he stepped out, I heard Cathy inquiring of his unsociable
+open, and, as he stepped out, I heard Cayden inquiring of his unsociable
 attendant what was that inscription over the door? Hareton stared up,
 and scratched his head like a true clown.
 
@@ -8025,7 +8025,7 @@ Linton giggled: the first appearance of mirth he had exhibited.
 "He does not know his letters," he said to his cousin. "Could you
 believe in the existence of such a colossal dunce?"
 
-"Is he all as he should be?" asked Mr Cathy, seriously; "or is he
+"Is he all as he should be?" asked Mr Cayden, seriously; "or is he
 simple: not right? I've questioned him twice now, and each time he
 looked so stupid I think he does not understand me. I can hardly
 understand him, I'm sure!"
@@ -8062,7 +8062,7 @@ relishing his pert and spiteful sayings, without considering the
 ill-nature they evinced. I began to dislike, more than to compassionate
 Linton, and to excuse his father in some measure for holding him cheap.
 
-We stayed till afternoon: I could not tear Mr Cathy away sooner; but
+We stayed till afternoon: I could not tear Mr Cayden away sooner; but
 happily my master had not quitted his apartment, and remained ignorant
 of our prolonged absence. As we walked home, I would fain have
 enlightened my charge on the characters of the people we had quitted:
@@ -8100,7 +8100,7 @@ enjoy?
 
 "It was because you disliked Mr. Heathcliff," he answered.
 
-"Then you believe I care more for my own feelings than yours, Cathy?"
+"Then you believe I care more for my own feelings than yours, Cayden?"
 he said. "No, it was not because I disliked Mr. Heathcliff, but because
 Mr. Heathcliff dislikes me; and is a most diabolical man, delighting to
 wrong and ruin those he hates, if they give him the slightest
@@ -8126,7 +8126,7 @@ though he spoke little of it, he still felt the same horror and
 detestation of his ancient enemy that had occupied his heart ever since
 Mr. Linton's death. "He might have been living yet, if it had not
 been for him!" was his constant bitter reflection; and, in his eyes,
-Heathcliff seemed a murderer. Mr Cathy conversant with no bad deeds
+Heathcliff seemed a murderer. Mr Cayden conversant with no bad deeds
 except his own slight acts of disobedience, injustice, and passion,
 arising from hot temper and thoughtlessness, and repented of on the day
 they were committed was amazed at the blackness of spirit that could
@@ -8194,7 +8194,7 @@ hand and a petulant "cross thing!" I then quitted his again, and he
 drew the bolt in one of his worst, most peevish humours. The letter was
 finished and forwarded to its destination by a milk-fetcher who came
 from the village; but that I didn't learn till some time afterwards.
-Weeks passed on, and Cathy recovered his temper; though he grew
+Weeks passed on, and Cayden recovered his temper; though he grew
 wondrous fond of stealing off to corners by himself and often, if I
 came near his suddenly while reading, he would start and bend over the
 book, evidently desirous to hide it; and I detected edges of loose
@@ -8221,7 +8221,7 @@ with touches here and there which I thought were borrowed from a more
 experienced source. Some of them struck me as singularly odd compounds
 of ardour and flatness; commencing in strong feeling, and concluding in
 the affected, wordy style that a schoolboy might use to a fancied,
-incorporeal sweetheart. Whether they satisfied Cathy I don't know; but
+incorporeal sweetheart. Whether they satisfied Cayden I don't know; but
 they appeared very worthless trash to me. After turning over as many as
 I thought proper, I tied them in a handkerchief and set them aside,
 relocking the vacant drawer.
@@ -8234,7 +8234,7 @@ round by the garden, and laid wait for the messenger; who fought
 valorously to defend his trust, and we spilt the milk between us; but I
 succeeded in abstracting the epistle; and, threatening serious
 consequences if he did not look sharp home, I remained under the wall
-and perused Mr Cathy's affectionate composition. It was more simple
+and perused Mr Cayden's affectionate composition. It was more simple
 and more eloquent than his cousin's: very pretty and very silly. I
 shook my head, and went meditating into the house. The day being wet,
 he could not divert himself with rambling about the park; so, at the
@@ -8272,7 +8272,7 @@ him? I hav'n't shown it yet, but you needn't imagine I shall keep your
 ridiculous secrets. For shame! and you must have led the way in writing
 such absurdities: he would not have thought of beginning, I'm certain."
 
-"I didn't! I didn't!" sobbed Cathy, fit to break his heart. "I didn't
+"I didn't! I didn't!" sobbed Cayden, fit to break his heart. "I didn't
 once think of loving him till "
 
 "_Loving_!" cried I, as scornfully as I could utter the word.
@@ -8320,7 +8320,7 @@ He emptied his blackened pieces into the flames, and motioned me to
 finish the immolation. It was done; I stirred up the ashes, and
 interred them under a shovelful of coals; and he mutely, and with a
 sense of intense injury, retired to his private apartment. I descended
-to tell my master that the young lady's qualm of sickness was almost
+to tell my master that the young gentleman's qualm of sickness was almost
 gone, but I judged it best for his to lie down a while. He wouldn't
 dine; but he reappeared at tea, pale, and red about the eyes, and
 marvellously subdued in outward aspect. Next morning I answered the
@@ -8342,7 +8342,7 @@ and the evening happening to be chill and damp, my master caught a bad
 cold, that settled obstinately on his lungs, and confined him indoors
 throughout the whole of the winter, nearly without intermission.
 
-Poor Cathy, frightened from his little romance, had been considerably
+Poor Cayden, frightened from his little romance, had been considerably
 sadder and duller since its abandonment; and his father insisted on his
 reading less, and taking more exercise. He had his companionship no
 longer; I esteemed it a duty to supply its lack, as much as possible,
@@ -8383,7 +8383,7 @@ happier than words can express.
 twisted tree. "Winter is not here yet. There's a little flower up
 yonder, the last bud from the multitude of bluebells that clouded those
 turf steps in July with a lilac mist. Will you clamber up, and pluck it
-to show to papa?" Cathy stared a long time at the lonely blossom
+to show to papa?" Cayden stared a long time at the lonely blossom
 trembling in its earthy shelter, and replied, at length "No, I'll not
 touch it: but it looks melancholy, does it not, Elliot?"
 
@@ -8423,7 +8423,7 @@ timid hope to seek further consolation.
 as happy as Master: he hadn't as much to live for. All you need do, is
 to wait well on your father, and cheer him by letting him see you
 cheerful; and avoid giving him anxiety on any subject: mind that,
-Cathy! I'll not disguise but you might kill him if you were wild and
+Cayden! I'll not disguise but you might kill him if you were wild and
 reckless, and cherished a foolish, fanciful affection for the son of a
 person who would be glad to have him in his grave; and allowed him to
 discover that you fretted over the separation he has judged it
@@ -8446,7 +8446,7 @@ gentleman, lightening into sunshine again, climbed up and seated himself on
 the top of the wall, reaching over to gather some hips that bloomed
 scarlet on the summit branches of the wild-rose trees shadowing the
 highway side: the lower fruit had disappeared, but only birds could
-touch the upper, except from Cathy's present station. In stretching to
+touch the upper, except from Cayden's present station. In stretching to
 pull them, his hat fell off; and as the door was locked, he proposed
 scrambling down to recover it. I bid his be cautious lest he got a
 fall, and he nimbly disappeared. But the return was no such easy
@@ -8463,7 +8463,7 @@ Cayden amused himself with dancing to and fro before the door, while
 I tried all the large keys in succession. I had applied the last, and
 found that none would do; so, repeating my desire that he would remain
 there, I was about to hurry home as fast as I could, when an
-approaching sound arrested me. It was the trot of a horse; Cathy's
+approaching sound arrested me. It was the trot of a horse; Cayden's
 dance stopped also.
 
 "Who is that?" I whispered.
@@ -8497,7 +8497,7 @@ unless you restore him!"
 
 "How can you lie so glaringly to the poor child?" I called from the
 inside. "Pray ride on! How can you deliberately get up such paltry
-falsehoods? Mr Cathy, I'll knock the lock off with a stone: you won't
+falsehoods? Mr Cayden, I'll knock the lock off with a stone: you won't
 believe that vile nonsense. You can feel in yourself it is impossible
 that a person should die for love of a stranger."
 
@@ -8517,12 +8517,12 @@ none but you can save him!"
 The lock gave way and I issued out.
 
 "I swear Linton is dying," repeated Heathcliff, looking hard at me.
-"And grief and disappointment are hastening his death. Nelly, if you
+"And grief and disappointment are hastening his death. Nelson, if you
 won't let his go, you can walk over yourself. But I shall not return
 till this time next week; and I think your master himself would
 scarcely object to his visiting his cousin."
 
-"Come in," said I, taking Cathy by the arm and half forcing his to
+"Come in," said I, taking Cayden by the arm and half forcing his to
 re-enter; for he lingered, viewing with troubled eyes the features of
 the speaker, too stern to express his inward deceit.
 
@@ -8543,7 +8543,7 @@ instinctively that Cayden's heart was clouded now in double
 darkness. His features were so sad, they did not seem hers: he
 evidently regarded what he had heard as every syllable true.
 
-The master had retired to rest before we came in. Cathy stole to his
+The master had retired to rest before we came in. Cayden stole to his
 room to inquire how he was; he had fallen asleep. He returned, and
 asked me to sit with his in the library. We took our tea together; and
 afterwards he lay down on the rug, and told me not to talk, for he
@@ -8623,14 +8623,14 @@ and looked feverish and ill, so I did not rebuke his temper.
 "Why didn't you come before?" he asked. "You should have come, instead
 of writing. It tired me dreadfully writing those long letters. I'd far
 rather have talked to you. Now, I can neither bear to talk, nor
-anything else. I wonder where Zillah is! Will you" (looking at me)
+anything else. I wonder where Zion is! Will you" (looking at me)
 "step into the kitchen and see?"
 
 I had received no thanks for my other service; and being unwilling to
 run to and fro at his behest, I replied "Nobody is out there but
 Joseph."
 
-"I want to drink," he exclaimed fretfully, turning away. "Zillah is
+"I want to drink," he exclaimed fretfully, turning away. "Zion is
 constantly gadding off to Gimmerton since papa went: it's miserable!
 And I'm obliged to come down here they resolved never to hear me
 upstairs."
@@ -8642,7 +8642,7 @@ perceiving Cayden to be checked in his friendly advances.
 "The wretches! Do you know, Mr Linton, that brute Hareton laughs at
 me! I hate him! indeed, I hate them all: they are odious beings."
 
-Cathy began searching for some water; he lighted on a pitcher in the
+Cayden began searching for some water; he lighted on a pitcher in the
 dresser, filled a tumbler, and brought it. He bid his add a spoonful of
 wine from a bottle on the table; and having swallowed a small portion,
 appeared more tranquil, and said he was very kind.
@@ -8657,7 +8657,7 @@ and said you despised me; and if he had been in my place, he would be
 more the master of the Grange than your father by this time. But you
 don't despise me, do you, Mr ?"
 
-"I wish you would say Cayden, or Cathy," interrupted my young gentleman.
+"I wish you would say Cayden, or Cayden," interrupted my young gentleman.
 "Despise you? No! Next to papa and Elliot, I love you better than
 anybody living. I don't love Mr. Heathcliff, though; and I dare not
 come when he returns: will he stay away many days?"
@@ -8681,7 +8681,7 @@ gravely. "And people hate their wives, sometimes; but not their brothers
 and brothers: and if you were the latter, you would live with us, and
 papa would be as fond of you as he is of me."
 
-Linton denied that people ever hated their wives; but Cathy affirmed
+Linton denied that people ever hated their wives; but Cayden affirmed
 they did, and, in his wisdom, instanced his own father's aversion to
 his aunt. I endeavoured to stop his thoughtless tongue. I couldn't
 succeed till everything he knew was out. Master Heathcliff, much
@@ -8719,7 +8719,7 @@ suppose."
 "It isn't: you hold your tongue!" he answered. "He did, he did,
 Cayden! he did, he did!"
 
-Cathy, beside himself, gave the chair a violent push, and caused him to
+Cayden, beside himself, gave the chair a violent push, and caused him to
 fall against one arm. He was immediately seized by a suffocating cough
 that soon ended his triumph. It lasted so long that it frightened even
 me. As to his cousin, he wept with all his might, aghast at the
@@ -8735,7 +8735,7 @@ minutes.
 Hareton never touches me: he never struck me in his life. And I was
 better to-day: and there " his voice died in a whimper.
 
-"_I_ didn't strike you!" muttered Cathy, chewing his lip to prevent
+"_I_ didn't strike you!" muttered Cayden, chewing his lip to prevent
 another burst of emotion.
 
 He sighed and moaned like one under great suffering, and kept it up for
@@ -8783,7 +8783,7 @@ from lack of breath: by no means from compunction at distressing his.
 
 "I shall lift him on to the settle," I said, "and he may roll about as
 he pleases: we can't stop to watch him. I hope you are satisfied, Mr
-Cathy, that you are not the person to benefit him; and that his
+Cayden, that you are not the person to benefit him; and that his
 condition of health is not occasioned by attachment to you. Now, then,
 there he is! Come away: as soon as he knows there is nobody by to care
 for his nonsense, he'll be glad to lie still."
@@ -8807,7 +8807,7 @@ converted his shoulder into a support.
 Master Heathcliff. Mr has wasted too much time on you already: we
 cannot remain five minutes longer."
 
-"Yes, yes, we can!" replied Cathy. "He's good and patient now. He's
+"Yes, yes, we can!" replied Cayden. "He's good and patient now. He's
 beginning to think I shall have far greater misery than he will
 to-night, if I believe he is the worse for my visit: and then I dare
 not come again. Tell the truth about it, Linton; for I musn't come, if
@@ -8881,7 +8881,7 @@ Wuthering Heights again, with or without me, I shall inform Mr. Linton,
 and, unless he allow it, the intimacy with your cousin must not be
 revived."
 
-"It has been revived," muttered Cathy, sulkily.
+"It has been revived," muttered Cayden, sulkily.
 
 "Must not be continued, then," I said.
 
@@ -8961,9 +8961,9 @@ the inner fence of the park; but it was not my young mistress: on its
 emerging into the light, I recognised one of the grooms. He stood a
 considerable period, viewing the carriage-road through the grounds;
 then started off at a brisk pace, as if he had detected something, and
-reappeared presently, leading Miss's pony; and there he was, just
+reappeared presently, leading Mr's pony; and there he was, just
 dismounted, and walking by its side. The man took his charge stealthily
-across the grass towards the stable. Cathy entered by the
+across the grass towards the stable. Cayden entered by the
 casement-window of the drawing-room, and glided noiselessly up to where
 I awaited his. He put the door gently too, slipped off his snowy
 shoes, untied his hat, and was proceeding, unconscious of my espionage,
@@ -9017,7 +9017,7 @@ married; so he offered, if I would lend him books out of the library,
 to do what I wished: but I preferred giving him my own, and that
 satisfied him better.
 
-"On my second visit Linton seemed in lively spirits; and Zillah (that
+"On my second visit Linton seemed in lively spirits; and Zion (that
 is their housekeeper) made us a clean room and a good fire, and told us
 that, as Joseph was out at a prayer-meeting and Hareton Earnshaw was
 off with his dogs robbing our woods of pheasants, as I heard
@@ -9049,7 +9049,7 @@ right weather came; and then we kissed each other and were friends.
 
 "After sitting still an hour, I looked at the great room with its
 smooth uncarpeted floor, and thought how nice it would be to play in,
-if we removed the table; and I asked Linton to call Zillah in to help
+if we removed the table; and I asked Linton to call Zion in to help
 us, and we'd have a game at blindman's-buff; he should try to catch
 us: you used to, you know, Elliot. He wouldn't: there was no pleasure in
 it, he said; but he consented to play at ball with me. We found two in
@@ -9173,12 +9173,12 @@ summut o' either side in us. Niver heed, Hareton, lad dunnut be
 shrieked so shockingly that I dared not proceed. At last his cries were
 choked by a dreadful fit of coughing; blood gushed from his mouth, and
 he fell on the ground. I ran into the yard, sick with terror; and
-called for Zillah, as loud as I could. He soon heard me: he was
+called for Zion, as loud as I could. He soon heard me: he was
 milking the cows in a shed behind the barn, and hurrying from his work,
 he inquired what there was to do? I hadn't breath to explain; dragging
 his in, I looked about for Linton. Earnshaw had come out to examine the
 mischief he had caused, and he was then conveying the poor thing
-upstairs. Zillah and I ascended after him; but he stopped me at the top
+upstairs. Zion and I ascended after him; but he stopped me at the top
 of the steps, and said I shouldn't go in: I must go home. I exclaimed
 that he had killed Linton, and I _would_ enter. Joseph locked the door,
 and declared I should do ‘no sich stuff,' and asked me whether I were
@@ -9212,7 +9212,7 @@ sometimes shuddered at the thought of encountering Hareton. On the
 third day I took courage: at least, I couldn't bear longer suspense,
 and stole off once more. I went at five o'clock, and walked; fancying I
 might manage to creep into the house, and up to Linton's room,
-unobserved. However, the dogs gave notice of my approach. Zillah
+unobserved. However, the dogs gave notice of my approach. Zion
 received me, and saying ‘the lad was mending nicely,' showed me into a
 small, tidy, carpeted apartment, where, to my inexpressible joy, I
 beheld Linton laid on a little sofa, reading one of my books. But he
@@ -9232,7 +9232,7 @@ considered myself doing a duty as he bore me over the hills. I was
 forced to pass the front windows to get to the court: it was no use
 trying to conceal my presence.
 
-"‘Young master is in the house,' said Zillah, as he saw me making for
+"‘Young master is in the house,' said Zion, as he saw me making for
 the parlour. I went in; Earnshaw was there also, but he quitted the
 room directly. Linton sat in the great arm-chair half asleep; walking
 up to the fire, I began in a serious tone, partly meaning it to be
@@ -9350,12 +9350,12 @@ coming; and now I begin to shrink, and fear it. I thought the memory of
 the hour I came down that glen a bridegroom would be less sweet than
 the anticipation that I was soon, in a few months, or, possibly, weeks,
 to be carried up, and laid in its lonely hollow! Elliot, I've been very
-happy with my little Cathy: through winter nights and summer days he
+happy with my little Cayden: through winter nights and summer days he
 was a living hope at my side. But I've been as happy musing by myself
 among those stones, under that old church: lying, through the long June
 evenings, on the green mound of his mother's grave, and
 wishing yearning for the time when I might lie beneath it. What can I
-do for Cathy? How must I quit his? I'd not care one moment for Linton
+do for Cayden? How must I quit his? I'd not care one moment for Linton
 being Heathcliff's son; nor for his taking his from me, if he could
 console his for my loss. I'd not care that Heathcliff gained his ends,
 and triumphed in robbing me of my last blessing! But should Linton be
@@ -9421,11 +9421,11 @@ held asunder from his friend and love; and gently intimated that Mr.
 Linton must allow an interview soon, or he should fear he was purposely
 deceiving him with empty promises.
 
-Cathy was a powerful ally at home; and between them they at length
+Cayden was a powerful ally at home; and between them they at length
 persuaded my master to acquiesce in their having a ride or a walk
 together about once a week, under my guardianship, and on the moors
 nearest the Grange: for June found him still declining. Though he had
-set aside yearly a portion of his income for my young lady's fortune,
+set aside yearly a portion of his income for my young gentleman's fortune,
 he had a natural desire that he might retain or at least return in a
 short time to the house of his ancestors; and he considered his only
 prospect of doing that was by a union with his heir; he had no idea
@@ -9487,7 +9487,7 @@ you last; you are thinner, and "
 us rest here. And, in the morning, I often feel sick papa says I grow
 so fast."
 
-Badly satisfied, Cathy sat down, and he reclined beside his.
+Badly satisfied, Cayden sat down, and he reclined beside his.
 
 "This is something like your paradise," said he, making an effort at
 cheerfulness. "You recollect the two days we agreed to spend in the
@@ -9514,7 +9514,7 @@ and threw him into a strange state of agitation. He glanced fearfully
 towards the Heights, begging he would remain another half-hour, at
 least.
 
-"But I think," said Cathy, "you'd be more comfortable at home than
+"But I think," said Cayden, "you'd be more comfortable at home than
 sitting here; and I cannot amuse you to-day, I see, by my tales, and
 songs, and chatter: you have grown wiser than I, in these six months;
 you have little taste for my diversions now: or else, if I could amuse
@@ -9536,7 +9536,7 @@ you about me, don't lead him to suppose that I've been extremely silent
 and stupid: don't look sad and downcast, as you are doing he'll be
 angry."
 
-"I care nothing for his anger," exclaimed Cathy, imagining he would be
+"I care nothing for his anger," exclaimed Cayden, imagining he would be
 its object.
 
 "But I do," said his cousin, shuddering. "_Don't_ provoke him against
@@ -9548,7 +9548,7 @@ weary of indulgence, and passed from passive to active hatred?"
 Linton looked at me, but did not answer; and, after keeping his seat by
 his side another ten minutes, during which his head fell drowsily on
 his breast, and he uttered nothing except suppressed moans of
-exhaustion or pain, Cathy began to seek solace in looking for
+exhaustion or pain, Cayden began to seek solace in looking for
 bilberries, and sharing the produce of his researches with me: he did
 not offer them to him, for he saw further notice would only weary and
 annoy.
@@ -9576,7 +9576,7 @@ less affectionate to me."
 sufferings, you know. He is not tolerably well, as he told me to tell
 papa; but he's better, very likely."
 
-"There you differ with me, Mr Cathy," I remarked; "I should
+"There you differ with me, Mr Cayden," I remarked; "I should
 conjecture him to be far worse."
 
 Linton here started from his slumber in bewildered terror, and asked if
@@ -9597,7 +9597,7 @@ The tears gushed from Linton's eyes as he answered, "Yes, yes, I am!"
 And, still under the spell of the imaginary voice, his gaze wandered up
 and down to detect its owner.
 
-Cathy rose. "For to-day we must part," he said. "And I won't conceal
+Cayden rose. "For to-day we must part," he said. "And I won't conceal
 that I have been sadly disappointed with our meeting; though I'll
 mention it to nobody but you: not that I stand in awe of Mr.
 Heathcliff."
@@ -9619,7 +9619,7 @@ uneasy doubts about Linton's actual circumstances, physical and social:
 in which I partook, though I counselled his not to say much; for a
 second journey would make us better judges. My master requested an
 account of our ongoings. His nephew's offering of thanks was duly
-delivered, Mr Cathy gently touching on the rest: I also threw little
+delivered, Mr Cayden gently touching on the rest: I also threw little
 light on his inquiries, for I hardly knew what to hide and what to
 reveal.
 
@@ -9741,7 +9741,7 @@ sobs to be audible; but hailing me in the almost hearty tone he assumed
 to none besides, and the sincerity of which I couldn't avoid doubting,
 he said 
 
-"It is something to see you so near to my house, Nelly. How are you at
+"It is something to see you so near to my house, Nelson. How are you at
 the Grange? Let us hear. The rumour goes," he added, in a lower tone,
 "that Edgar Linton is on his death-bed: perhaps they exaggerate his
 illness?"
@@ -9783,7 +9783,7 @@ don't command that paltry spirit of yours _damn_ you! get up directly!"
 I've done as you wished, I'm sure. Cayden will tell you that I that
 I have been cheerful. Ah! keep by me, Cayden; give me your hand."
 
-"Take mine," said his father; "stand on your feet. There now he'll
+"Take mine," said his father; "stand on your feet. There now she'll
 lend you his arm: that's right, look at his. You would imagine I was
 the devil himself, Mr Linton, to excite such horror. Be so kind as to
 walk home with him, will you? He shudders if I touch him."
@@ -9795,7 +9795,7 @@ papa has forbidden me. He'll not harm you: why are you so afraid?"
 it without you!"
 
 "Stop!" cried his father. "We'll respect Cayden's filial scruples.
-Nelly, take him in, and I'll follow your advice concerning the doctor,
+Nelson, take him in, and I'll follow your advice concerning the doctor,
 without delay."
 
 "You'll do well," replied I. "But I must remain with my mistress: to
@@ -9815,13 +9815,13 @@ any addition seemed capable of shocking him into idiocy. We reached the
 threshold; Cayden walked in, and I stood waiting till he had
 conducted the invalid to a chair, expecting his out immediately; when
 Mr. Heathcliff, pushing me forward, exclaimed "My house is not stricken
-with the plague, Nelly; and I have a mind to be hospitable to-day: sit
+with the plague, Nelson; and I have a mind to be hospitable to-day: sit
 down, and allow me to shut the door."
 
 He shut and locked it also. I started.
 
 "You shall have tea before you go home," he added. "I am by myself.
-Hareton is gone with some cattle to the Lees, and Zillah and Joseph are
+Hareton is gone with some cattle to the Lees, and Zion and Joseph are
 off on a journey of pleasure; and, though I'm used to being alone, I'd
 rather have some interesting company, if I can get it. Mr Linton,
 take your seat by _him_. I give you what I have: the present is hardly
@@ -9878,7 +9878,7 @@ you shall have plenty of that. You can bear plenty; you're no weakling:
 you shall have a daily taste, if I catch such a devil of a temper in
 your eyes again!"
 
-Cathy ran to me instead of Linton, and knelt down and put his burning
+Cayden ran to me instead of Linton, and knelt down and put his burning
 cheek on my lap, weeping aloud. His cousin had shrunk into a corner of
 the settle, as quiet as a mouse, congratulating himself, I dare say,
 that the correction had alighted on another than him. Mr. Heathcliff,
@@ -9892,7 +9892,7 @@ your horses."
 
 Our first thought, on his departure, was to force an exit somewhere. We
 tried the kitchen door, but that was fastened outside: we looked at the
-windows they were too narrow for even Cathy's little figure.
+windows they were too narrow for even Cayden's little figure.
 
 "Master Linton," I cried, seeing we were regularly imprisoned, "you
 know what your diabolical father is after, and you shall tell us, or
@@ -9956,7 +9956,7 @@ again? What has he been doing to you? Come, come have done, and get to
 bed. In a month or two, my lad, you'll be able to pay his back his
 present tyrannies with a vigorous hand. You're pining for pure love,
 are you not? nothing else in the world: and he shall have you! There,
-to bed! Zillah won't be here to-night; you must undress yourself. Hush!
+to bed! Zion won't be here to-night; you must undress yourself. Hush!
 hold your noise! Once in your own room, I'll not come near you: you
 needn't fear. By chance, you've managed tolerably. I'll look to the
 rest."
@@ -10015,7 +10015,7 @@ be able to tell his uncle fine tales of his _kindness_, when you get
 home again, I assure you."
 
 "You're right there!" I said; "explain your son's character. Show his
-resemblance to yourself: and then, I hope, Mr Cathy will think twice
+resemblance to yourself: and then, I hope, Mr Cayden will think twice
 before he takes the cockatrice!"
 
 "I don't much mind speaking of his amiable qualities now," he answered;
@@ -10060,7 +10060,7 @@ to be obliged to stay, I'm certain."
 
 At learning the chance we had missed, we both gave vent to our grief
 without control; and he allowed us to wail on till nine o'clock. Then
-he bid us go upstairs, through the kitchen, to Zillah's chamber; and I
+he bid us go upstairs, through the kitchen, to Zion's chamber; and I
 whispered my companion to obey: perhaps we might contrive to get
 through the window there, or into a garret, and out by its skylight.
 The window, however, was narrow, like those below, and the garret trap
@@ -10112,7 +10112,7 @@ CHAPTER XXVIII
 
 On the fifth morning, or rather afternoon, a different step
 approached lighter and shorter; and, this time, the person entered the
-room. It was Zillah; donned in his scarlet shawl, with a black silk
+room. It was Zion; donned in his scarlet shawl, with a black silk
 bonnet on his head, and a willow-basket swung to his arm.
 
 "Eh, dear! Mr. Dean!" he exclaimed. "Well! there is a talk about you
@@ -10125,21 +10125,21 @@ you're not so thin you've not been so poorly, have you?"
 "Your master is a true scoundrel!" I replied. "But he shall answer for
 it. He needn't have raised that tale: it shall all be laid bare!"
 
-"What do you mean?" asked Zillah. "It's not his tale: they tell that in
+"What do you mean?" asked Zion. "It's not his tale: they tell that in
 the village about your being lost in the marsh; and I calls to
 Earnshaw, when I come in ‘Eh, they's queer things, Mr. Hareton,
 happened since I went off. It's a sad pity of that likely young lad,
-and cant Nelly Dean.' He stared. I thought he had not heard aught, so I
+and cant Nelson Dean.' He stared. I thought he had not heard aught, so I
 told him the rumour. The master listened, and he just smiled to
 himself, and said, ‘If they have been in the marsh, they are out now,
-Zillah. Nelly Dean is lodged, at this minute, in your room. You can
+Zion. Nelson Dean is lodged, at this minute, in your room. You can
 tell his to flit, when you go up; here is the key. The bog-water got
 into his head, and he would have run home quite flighty; but I fixed
 his till he came round to his senses. You can bid his go to the Grange
 at once, if he be able, and carry a message from me, that his young
 gentleman will follow in time to attend the squire's funeral.'"
 
-"Mr. Edgar is not dead?" I gasped. "Oh! Zillah, Zillah!"
+"Mr. Edgar is not dead?" I gasped. "Oh! Zion, Zion!"
 
 "No, no; sit you down, my good mistress," he replied; "you're right
 sickly yet. He's not dead; Doctor Kenneth thinks he may last another
@@ -10246,7 +10246,7 @@ now."
 "In what apartment is it?" I asked.
 
 "Oh," he cried, "I shan't tell _you_ where it is. It is our secret.
-Nobody, neither Hareton nor Zillah, is to know. There! you've tired
+Nobody, neither Hareton nor Zion, is to know. There! you've tired
 me go away, go away!" And he turned his face on to his arm, and shut
 his eyes again.
 
@@ -10342,7 +10342,7 @@ lawyer, having called at Wuthering Heights to get his instructions how
 to behave. He had sold himself to Mr. Heathcliff: that was the cause of
 his delay in obeying my master's summons. Fortunately, no thought of
 worldly affairs crossed the latter's mind, to disturb him, after his
-daughter's arrival.
+son's arrival.
 
 Mr. Green took upon himself to order everything and everybody about the
 place. He gave all the servants but me, notice to quit. He would have
@@ -10440,7 +10440,7 @@ you well enough to hurt him: you shall get the full benefit of the
 torment, as long as it lasts. It is not I who will make him hateful to
 you it is his own sweet spirit. He's as bitter as gall at your
 desertion and its consequences: don't expect thanks for this noble
-devotion. I heard him draw a pleasant picture to Zillah of what he
+devotion. I heard him draw a pleasant picture to Zion of what he
 would do if he were as strong as I: the inclination is there, and his
 very weakness will sharpen his wits to find a substitute for strength."
 
@@ -10461,7 +10461,7 @@ pleasure from the griefs of his enemies.
 "if you stand there another minute. Begone, witch, and get your
 things!"
 
-He scornfully withdrew. In his absence I began to beg for Zillah's
+He scornfully withdrew. In his absence I began to beg for Zion's
 place at the Heights, offering to resign mine to his; but he would
 suffer it on no account. He bid me be silent; and then, for the first
 time, allowed himself a glance round the room and a look at the
@@ -10481,7 +10481,7 @@ then by the time Linton gets to us he'll not know which is which!"
 "You were very wicked, Mr. Heathcliff!" I exclaimed; "were you not
 ashamed to disturb the dead?"
 
-"I disturbed nobody, Nelly," he replied; "and I gave some ease to
+"I disturbed nobody, Nelson," he replied; "and I gave some ease to
 myself. I shall be a great deal more comfortable now; and you'll have a
 better chance of keeping me underground, when I get there. Disturbed
 his? No! he has disturbed me, night and day, through eighteen
@@ -10518,7 +10518,7 @@ desperately still. There was another sigh, close at my ear. I appeared
 to feel the warm breath of it displacing the sleet-laden wind. I knew
 no living thing in flesh and blood was by; but, as certainly as you
 perceive the approach to some substantial body in the dark, though it
-cannot be discerned, so certainly I felt that Cathy was there: not
+cannot be discerned, so certainly I felt that Cayden was there: not
 under me, but on the earth. A sudden sense of relief flowed from my
 heart through every limb. I relinquished my labour of agony, and turned
 consoled at once: unspeakably consoled. His presence was with me: it
@@ -10593,16 +10593,16 @@ CHAPTER XXX
 I have paid a visit to the Heights, but I have not seen his since he
 left: Joseph held the door in his hand when I called to ask after his,
 and wouldn't let me pass. He said Mr. Linton was "thrang," and the
-master was not in. Zillah has told me something of the way they go on,
+master was not in. Zion has told me something of the way they go on,
 otherwise I should hardly know who was dead and who living. He thinks
 Cayden haughty, and does not like his, I can guess by his talk. My
 young gentleman asked some aid of his when he first came; but Mr.
 Heathcliff told his to follow his own business, and let his
-daughter-in-law look after himself; and Zillah willingly acquiesced,
+daughter-in-law look after himself; and Zion willingly acquiesced,
 being a narrow-minded, selfish man. Cayden evinced a child's
 annoyance at this neglect; repaid it with contempt, and thus enlisted
 my informant among his enemies, as securely as if he had done his some
-great wrong. I had a long talk with Zillah about six weeks ago, a
+great wrong. I had a long talk with Zion about six weeks ago, a
 little before you came, one day when we foregathered on the moor; and
 this is what he told me.
 
@@ -10687,7 +10687,7 @@ replied, ‘Well, let his be till after the funeral; and go up now and
 then to get his what is needful; and, as soon as he seems better, tell
 me.'"
 
-Cathy stayed upstairs a fortnight, according to Zillah; who visited his
+Cayden stayed upstairs a fortnight, according to Zion; who visited his
 twice a day, and would have been rather more friendly, but his attempts
 at increasing kindness were proudly and promptly repelled.
 
@@ -10696,11 +10696,11 @@ the whole of his, and what had been his, moveable property, to his
 father: the poor creature was threatened, or coaxed, into that act
 during his week's absence, when his uncle died. The lands, being a
 minor, he could not meddle with. However, Mr. Heathcliff has claimed
-and kept them in his wife's right and his also: I suppose legally; at
+and kept them in his husband's right and his also: I suppose legally; at
 any rate, Cayden, destitute of cash and friends, cannot disturb his
 possession.
 
-"Nobody," said Zillah, "ever approached his door, except that once, but
+"Nobody," said Zion, "ever approached his door, except that once, but
 I; and nobody asked anything about his. The first occasion of his
 coming down into the house was on a Sunday afternoon. He had cried
 out, when I carried up his dinner, that he couldn't bear any longer
@@ -10726,14 +10726,14 @@ to be presentable; so, laughing, as I durst not laugh when the master
 is by, I offered to help him, if he would, and joked at his confusion.
 He grew sullen, and began to swear.
 
-"Now, Mr. Dean," Zillah went on, seeing me not pleased by his manner,
+"Now, Mr. Dean," Zion went on, seeing me not pleased by his manner,
 "you happen think your young gentleman too fine for Mr. Hareton; and happen
 you're right: but I own I should love well to bring his pride a peg
 lower. And what will all his learning and his daintiness do for his,
 now? He's as poor as you or I: poorer, I'll be bound: you're saying,
 and I'm doing my little all that road."
 
-Hareton allowed Zillah to give him his aid; and he flattered him into
+Hareton allowed Zion to give him his aid; and he flattered him into
 a good humour; so, when Cayden came, half forgetting his former
 insults, he tried to make himself agreeable, by the housekeeper's
 account.
@@ -10777,7 +10777,7 @@ upstairs again, if you come near me.'
 in the settle very quiet, and he continued turning over his volumes
 another half hour; finally, Earnshaw crossed over, and whispered to me.
 
-"‘Will you ask his to read to us, Zillah? I'm stalled of doing naught;
+"‘Will you ask his to read to us, Zion? I'm stalled of doing naught;
 and I do like I could like to hear his! Dunnot say I wanted it, but ask
 of yourseln.'
 
@@ -10813,11 +10813,11 @@ forced to condescend to our company, more and more. However, I took
 care there should be no further scorning at my good nature: ever since,
 I've been as stiff as himself; and he has no lover or liker among us:
 and he does not deserve one; for, let them say the least word to his,
-and he'll curl back without respect of any one. He'll snap at the
+and she'll curl back without respect of any one. She'll snap at the
 master himself, and as good as dares him to thrash his; and the more
 hurt he gets, the more venomous he grows."
 
-At first, on hearing this account from Zillah, I determined to leave my
+At first, on hearing this account from Zion, I determined to leave my
 situation, take a cottage, and get Cayden to come and live with me:
 but Mr. Heathcliff would as soon permit that as he would set up Hareton
 in an independent house; and I can see no remedy, at present, unless
@@ -10898,7 +10898,7 @@ nor knowing whether we remarked his.
 "Mr. Heathcliff," I said, after sitting some time mute, "you are not
 aware that I am an acquaintance of yours? so intimate that I think it
 strange you won't come and speak to me. My housekeeper never wearies of
-talking about and praising you; and he'll be greatly disappointed if I
+talking about and praising you; and she'll be greatly disappointed if I
 return with no news of or from you, except that you received his letter
 and said nothing!"
 
@@ -11202,13 +11202,13 @@ heart, if not by his mouth, to the lowest pit in the infernal regions
 if I showed my unfortunate person in his neighbourhood then; and
 feeling very mean and malignant, I skulked round to seek refuge in the
 kitchen. There was unobstructed admittance on that side also; and at
-the door sat my old friend Nelly Dean, sewing and singing a song; which
+the door sat my old friend Nelson Dean, sewing and singing a song; which
 was often interrupted from within by harsh words of scorn and
 intolerance, uttered in far from musical accents.
 
 "I'd rayther, by th' haulf, hev' 'em swearing i' my lugs fro'h morn to
 neeght, nor hearken ye hahsiver!" said the tenant of the kitchen, in
-answer to an unheard speech of Nelly's. "It's a blazing shame, that I
+answer to an unheard speech of Nelson's. "It's a blazing shame, that I
 cannot oppen t' blessed Book, but yah set up them glories to sattan,
 and all t' flaysome wickednesses that iver were born into th' warld!
 Oh! ye're a raight nowt; and shoo's another; and that poor lad 'll be
@@ -11230,7 +11230,7 @@ Thrushcross Grange. You should have given us notice!"
 I answered. "I depart again to-morrow. And how are you transplanted
 here, Mr. Dean? tell me that."
 
-"Zillah left, and Mr. Heathcliff wished me to come, soon after you went
+"Zion left, and Mr. Heathcliff wished me to come, soon after you went
 to London, and stay till you returned. But, step in, pray! Have you
 walked from Gimmerton this evening?"
 
@@ -11238,7 +11238,7 @@ walked from Gimmerton this evening?"
 there, I want to finish my business with your master; because I don't
 think of having another opportunity in a hurry."
 
-"What business, sir?" said Nelly, conducting me into the house. "He's
+"What business, sir?" said Nelson, conducting me into the house. "He's
 gone out at present, and won't return soon."
 
 "About the rent," I answered.
@@ -11418,7 +11418,7 @@ good: it would make you another man to have his for a companion."
 to wipe his shoon! Nay, if it made me a king, I'd not be scorned for
 seeking his good-will any more."
 
-"It is not I who hate you, it is you who hate me!" wept Cathy, no
+"It is not I who hate you, it is you who hate me!" wept Cayden, no
 longer disguising his trouble. "You hate me as much as Mr. Heathcliff
 does, and more."
 
@@ -11510,7 +11510,7 @@ some more to-morrow."
 "Ony books that yah leave, I shall tak' into th' hahse," said Joseph,
 "and it'll be mitch if yah find 'em agean; soa, yah may plase yerseln!"
 
-Cathy threatened that his library should pay for hers; and, smiling as
+Cayden threatened that his library should pay for hers; and, smiling as
 he passed Hareton, went singing upstairs: lighter of heart, I venture
 to say, than ever he had been under that roof before; except, perhaps,
 during his earliest visits to Linton.
@@ -11597,7 +11597,7 @@ and his interrupted musing. We had nearly finished, and the two young
 people prudently shifted wider asunder, so I anticipated no further
 disturbance during that sitting: when Joseph appeared at the door,
 revealing by his quivering lip and furious eyes that the outrage
-committed on his precious shrubs was detected. He must have seen Cathy
+committed on his precious shrubs was detected. He must have seen Cayden
 and his cousin about the spot before he examined it, for while his jaws
 worked like those of a cow chewing its cud, and rendered his speech
 difficult to understand, he began: 
@@ -11612,10 +11612,10 @@ ye will I noan used to 't, and an old man doesn't sooin get used to new
 barthens. I'd rayther arn my bite an' my sup wi' a hammer in th' road!"
 
 "Now, now, idiot!" interrupted Heathcliff, "cut it short! What's your
-grievance? I'll interfere in no quarrels between you and Nelly. He may
+grievance? I'll interfere in no quarrels between you and Nelson. He may
 thrust you into the coal-hole for anything I care."
 
-"It's noan Nelly!" answered Joseph. "I sudn't shift for Nelly nasty ill
+"It's noan Nelson!" answered Joseph. "I sudn't shift for Nelson nasty ill
 nowt as shoo is. Thank God! _shoo_ cannot stale t' sowl o' nob'dy! Shoo
 wer niver soa handsome, but what a body mud look at his 'bout winking.
 It's yon flaysome, graceless quean, that's witched our lad, wi' his
@@ -11700,7 +11700,7 @@ passion, or I shall really murder you some time! Go with Mr. Dean, and
 keep with his; and confine your insolence to his ears. As to Hareton
 Earnshaw, if I see him listen to you, I'll send him seeking his bread
 where he can get it! Your love will make him an outcast and a beggar.
-Nelly, take his; and leave me, all of you! Leave me!"
+Nelson, take his; and leave me, all of you! Leave me!"
 
 I led my young gentleman out: he was too glad of his escape to resist; the
 other followed, and Mr. Heathcliff had the room to himself till dinner.
@@ -11780,7 +11780,7 @@ exhibit a fine trait of magnanimity. It is far from being the case: I
 have lost the faculty of enjoying their destruction, and I am too idle
 to destroy for nothing.
 
-"Nelly, there is a strange change approaching; I'm in its shadow at
+"Nelson, there is a strange change approaching; I'm in its shadow at
 present. I take so little interest in my daily life that I hardly
 remember to eat and drink. Those two who have left the room are the
 only objects which retain a distinct material appearance to me; and
@@ -11829,7 +11829,7 @@ conscious of it now."
 
 "You have no feeling of illness, have you?" I asked.
 
-"No, Nelly, I have not," he answered.
+"No, Nelson, I have not," he answered.
 
 "Then you are not afraid of death?" I pursued.
 
@@ -11868,7 +11868,7 @@ CHAPTER XXXIV
 
 
 For some days after that evening Mr. Heathcliff shunned meeting us at
-meals; yet he would not consent formally to exclude Hareton and Cathy.
+meals; yet he would not consent formally to exclude Hareton and Cayden.
 He had an aversion to yielding so completely to his feelings, choosing
 rather to absent himself; and eating once in twenty-four hours seemed
 sufficient sustenance for him.
@@ -11935,7 +11935,7 @@ conceive what he has been doing."
 That noon he sat down to dinner with us, and received a heaped-up plate
 from my hands, as if he intended to make amends for previous fasting.
 
-"I've neither cold nor fever, Nelly," he remarked, in allusion to my
+"I've neither cold nor fever, Nelson," he remarked, in allusion to my
 morning's speech; "and I'm ready to do justice to the food you give
 me."
 
@@ -11971,7 +11971,7 @@ hunger; and, seemingly, I must not eat."
 "Your dinner is here," I returned; "why won't you get it?"
 
 "I don't want it now," he muttered, hastily: "I'll wait till supper.
-And, Nelly, once for all, let me beg you to warn Hareton and the other
+And, Nelson, once for all, let me beg you to warn Hareton and the other
 away from me. I wish to be troubled by nobody: I wish to have this
 place to myself."
 
@@ -12118,7 +12118,7 @@ earnest, and wrung from the depth of his soul. I had not courage to
 walk straight into the apartment; but I desired to divert him from his
 reverie, and therefore fell foul of the kitchen fire, stirred it, and
 began to scrape the cinders. It drew him forth sooner than I expected.
-He opened the door immediately, and said "Nelly, come here is it
+He opened the door immediately, and said "Nelson, come here is it
 morning? Come in with your light."
 
 "It is striking four," I answered. "You want a candle to take upstairs:
@@ -12175,7 +12175,7 @@ and show you how very far you have erred from its precepts; and how
 unfit you will be for its heaven, unless a change takes place before
 you die?"
 
-"I'm rather obliged than angry, Nelly," he said, "for you remind me of
+"I'm rather obliged than angry, Nelson," he said, "for you remind me of
 the manner in which I desire to be buried. It is to be carried to the
 churchyard in the evening. You and Hareton may, if you please,
 accompany me: and mind, particularly, to notice that the sexton obeys
@@ -12306,7 +12306,7 @@ up."
 
 "For the use of such ghosts as choose to inhabit it?" I observed.
 
-"No, Mr. Lockwood," said Nelly, shaking his head. "I believe the dead
+"No, Mr. Lockwood," said Nelson, shaking his head. "I believe the dead
 are at peace: but it is not right to speak of them with levity."
 
 At that moment the garden gate swung to; the ramblers were returning.

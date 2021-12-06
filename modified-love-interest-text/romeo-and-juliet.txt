@@ -800,7 +800,7 @@ LADY CAPULET.
 This is the matter. Nurse, give leave awhile,
 We must talk in secret. Nurse, come back again,
 I have remember'd me, thou's hear our counsel.
-Thou knowest my daughter's of a pretty age.
+Thou knowest my son's of a pretty age.
 
 NURSE.
 Faith, I can tell his age unto an hour.
@@ -1207,21 +1207,21 @@ Will you tell me that?
 His son was but a ward two years ago.
 
 ROMEO.
-What gentleman is that, which doth enrich the hand
+What lady is that, which doth enrich the hand
 Of yonder knight?
 
 SERVANT.
 I know not, sir.
 
 ROMEO.
-O, he doth teach the torches to burn bright!
-It seems he hangs upon the cheek of night
+O, she doth teach the torches to burn bright!
+It seems she hangs upon the cheek of night
 As a rich jewel in an Ethiop's ear;
 Beauty too rich for use, for earth too dear!
 So shows a snowy dove trooping with crows
-As yonder gentlemen o'er his fellows shows.
-The measure done, I'll watch his place of stand,
-And touching his, make blessed my rude hand.
+As yonder lady o'er her fellows shows.
+The measure done, I'll watch her place of stand,
+And touching hers, make blessed my rude hand.
 Did my heart love till now? Forswear it, sight!
 For I ne'er saw true beauty till this night.
 
@@ -3389,7 +3389,7 @@ Things have fallen out, sir, so unluckily
 That we have had no time to move our son.
 Look you, he lov'd his kinsman Tybalt dearly,
 And so did I. Well, we were born to die.
-'Tis very late; he'll not come down tonight.
+'Tis very late; she'll not come down tonight.
 I promise you, but for your company,
 I would have been abed an hour ago.
 
@@ -5134,7 +5134,7 @@ CAPULET.
 O heaven! O husband, look how our son bleeds!
 This dagger hath mista'en, for lo, his house
 Is empty on the back of Montague,
-And it mis-sheathed in my daughter's bosom.
+And it mis-sheathed in my son's bosom.
 
 LADY CAPULET.
 O me! This sight of death is as a bell
@@ -5258,7 +5258,7 @@ Have lost a brace of kinsmen. All are punish'd.
 
 CAPULET.
 O brother Montague, give me thy hand.
-This is my daughter's jointure, for no more
+This is my son's jointure, for no more
 Can I demand.
 
 MONTAGUE.

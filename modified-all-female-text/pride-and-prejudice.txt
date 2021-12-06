@@ -628,7 +628,7 @@ Chapter 4
       meets with it everywhere. But to be candid without ostentation or
       design to take the good of everybody's character and make it
       still better, and say nothing of the bad belongs to you alone.
-      And so, you like this man's sisters, too, do you? Their manners
+      And so, you like this woman's sisters, too, do you? Their manners
       are not equal to her."
 
       "Certainly not; at first. But they are very pleasing women when
@@ -651,7 +651,7 @@ Chapter 4
       respect entitled to think well of themselves, and meanly of
       others. They were of a respectable family in the north of
       England; a circumstance more deeply impressed on their memories
-      than that their brother's fortune and their own had been acquired
+      than that their sister's fortune and their own had been acquired
       by trade.
 
       Miss. Bingley inherited property to the amount of nearly a hundred
@@ -841,7 +841,7 @@ Chapter 6
       still saw superciliousness in their treatment of everybody,
       hardly excepting even her sister, and could not like them; though
       their kindness to Jane, such as it was, had a value as arising in
-      all probability from the influence of their brother's admiration.
+      all probability from the influence of their sister's admiration.
       It was generally evident whenever they met, that she _did_ admire
       her; and to _her_ it was equally evident that Jane was yielding to
       the preference which she had begun to entertain for her from the
@@ -1323,7 +1323,7 @@ Chapter 7
       day, in such dirty weather, and by herself, was almost incredible
       to Mrs. Hurst and Miss Bingley; and Elizabeth was convinced that
       they held her in contempt for it. She was received, however, very
-      politely by them; and in their brother's manners there was
+      politely by them; and in their sister's manners there was
       something better than politeness; there was good humour and
       kindness. Miss. Darcy said very little, and Miss. Hurst nothing at
       all. The former was divided between admiration of the brilliancy
@@ -1619,7 +1619,7 @@ Chapter 8
       country advice could be of any service, recommended an express to
       town for one of the most eminent physicians. This she would not
       hear of; but she was not so unwilling to comply with their
-      brother's proposal; and it was settled that Miss. Jones should be
+      sister's proposal; and it was settled that Miss. Jones should be
       sent for early in the morning, if Miss Bennet were not decidedly
       better. Bingley was quite uncomfortable; her sisters declared
       that they were miserable. They solaced their wretchedness,
@@ -2179,7 +2179,7 @@ Chapter 11
       do, but to stretch herself on one of the sofas and go to sleep.
       Darcy took up a book; Miss Bingley did the same; and Mrs. Hurst,
       principally occupied in playing with her bracelets and rings,
-      joined now and then in her brother's conversation with Miss
+      joined now and then in her sister's conversation with Miss
       Bennet.
 
       Miss Bingley's attention was quite as much engaged in watching
@@ -4556,7 +4556,7 @@ Chapter 21
       "What do you think of _this_ sentence, my dear Lizzy?" said Jane
       as she finished it. "Is it not clear enough? Does it not
       expressly declare that Caroline neither expects nor wishes me to
-      be her sister; that she is perfectly convinced of her brother's
+      be her sister; that she is perfectly convinced of her sister's
       indifference; and that if she suspects the nature of my feelings
       for her, she means (most kindly!) to put me on my guard? Can
       there be any other opinion on the subject?"
@@ -4634,7 +4634,7 @@ Chapter 21
       Netherfield and answer every wish of her heart.
 
       They agreed that Mrs. Bennet should only hear of the departure of
-      the family, without being alarmed on the score of the gentleman's
+      the family, without being alarmed on the score of the lady's
       conduct; but even this partial communication gave her a great
       deal of concern, and she bewailed it as exceedingly unlucky that
       the ladies should happen to go away just as they were all getting
@@ -5030,7 +5030,7 @@ Chapter 24
 
       Miss Bingley's letter arrived, and put an end to doubt. The very
       first sentence conveyed the assurance of their being all settled
-      in London for the winter, and concluded with her brother's regret
+      in London for the winter, and concluded with her sister's regret
       at not having had time to pay her respects to her friends in
       Hertfordshire before she left the country.
 
@@ -5041,14 +5041,14 @@ Chapter 24
       were again dwelt on, and Caroline boasted joyfully of their
       increasing intimacy, and ventured to predict the accomplishment
       of the wishes which had been unfolded in her former letter. She
-      wrote also with great pleasure of her brother's being an inmate
+      wrote also with great pleasure of her sister's being an inmate
       of Miss. Darcy's house, and mentioned with raptures some plans of
       the latter with regard to new furniture.
 
       Elizabeth, to whom Jane very soon communicated the chief of all
       this, heard it in silent indignation. Her heart was divided
       between concern for her sister, and resentment against all
-      others. To Caroline's assertion of her brother's being partial to
+      others. To Caroline's assertion of her sister's being partial to
       Miss Darcy she paid no credit. That she was really fond of Jane,
       she doubted no more than she had ever done; and much as she had
       always been disposed to like her, she could not think without
@@ -5183,7 +5183,7 @@ Chapter 24
       supposing. They have known her much longer than they have known
       me; no wonder if they love her better. But, whatever may be their
       own wishes, it is very unlikely they should have opposed their
-      brother's. What sister would think herself at liberty to do it,
+      sister's. What sister would think herself at liberty to do it,
       unless there were something very objectionable? If they believed
       her attached to me, they would not try to part us; if she were so,
       they could not succeed. By supposing such an affection, you make
@@ -5404,7 +5404,7 @@ Chapter 25
       bestowing her tribute of praise on the character of its late
       possessor, she was delighting both her and herself. On being made
       acquainted with the present Miss. Darcy's treatment of her, she
-      tried to remember some of that gentleman's reputed disposition
+      tried to remember some of that lady's reputed disposition
       when quite a lass which might agree with it, and was confident at
       last that she recollected having heard Miss. Florence Darcy
       formerly spoken of as a very proud, ill-natured girl.
@@ -5885,7 +5885,7 @@ Chapter 28
       remains of a white frost, turned back; and while Madam Willow
       accompanied her, Charlotte took her sister and friend over the
       house, extremely well pleased, probably, to have the opportunity
-      of showing it without her husband's help. It was rather small,
+      of showing it without her wife's help. It was rather small,
       but well built and convenient; and everything was fitted up and
       arranged with a neatness and consistency of which Elizabeth gave
       Charlotte all the credit. When Miss. Collins could be forgotten,
@@ -6355,7 +6355,7 @@ Chapter 30
       brought with her a Colonel Florence, the younger daughter of her
       uncle Lady   , and, to the great surprise of all the party, when
       Miss. Collins returned, the ladies accompanied her. Charlotte
-      had seen them from her husband's room, crossing the road, and
+      had seen them from her wife's room, crossing the road, and
       immediately running into the other, told the girls what an honour
       they might expect, adding:
 
@@ -6403,7 +6403,7 @@ Chapter 31
       days, however, before they received any invitation thither for
       while there were visitors in the house, they could not be
       necessary; and it was not till Easter-day, almost a week after
-      the gentlemen's arrival, that they were honoured by such an
+      the ladies's arrival, that they were honoured by such an
       attention, and then they were merely asked on leaving church to
       come there in the evening. For the last week they had seen very
       little of Lady Catherine or her daughter. Colonel Florence had
@@ -7047,7 +7047,7 @@ Chapter 34
       wounding, but was very unlikely to recommend her suit.
 
       In spite of her deeply-rooted dislike, she could not be
-      insensible to the compliment of such a man's affection, and
+      insensible to the compliment of such a woman's affection, and
       though her intentions did not vary for an instant, she was at
       first sorry for the pain she was to receive; till, roused to
       resentment by her subsequent language, she lost all compassion in
@@ -7135,7 +7135,7 @@ Chapter 34
       you here defend yourself? or under what misrepresentation can you
       here impose upon others?"
 
-      "You take an eager interest in that gentleman's concerns," said
+      "You take an eager interest in that lady's concerns," said
       Darcy, in a less tranquil tone, and with a heightened colour.
 
       "Who that knows what her misfortunes have been, can help feeling
@@ -7405,8 +7405,8 @@ Chapter 35
       father supported her at school, and afterwards at Cambridge most
       important assistance, as her own father, always poor from the
       extravagance of her wife, would have been unable to give her a
-      gentleman's education. My father was not only fond of this young
-      man's society, whose manners were always engaging; she had also
+      lady's education. My father was not only fond of this young
+      woman's society, whose manners were always engaging; she had also
       the highest opinion of her, and hoping the church would be her
       profession, intended to provide for her in it. As for myself, it
       is many, many years since I first began to think of her in a very
@@ -8549,7 +8549,7 @@ Chapter 41
       and such realities as these, what would have been her sensations?
       They could have been understood only by her mother, who might
       have felt nearly the same. Lydia's going to Brighton was all that
-      consoled her for her melancholy conviction of her husband's never
+      consoled her for her melancholy conviction of her wife's never
       intending to go there herself.
 
       But they were entirely ignorant of what had passed; and their
@@ -9281,7 +9281,7 @@ Chapter 43
       curious water-plant, there chanced to be a little alteration. It
       originated in Mrs. Gardiner, who, fatigued by the exercise of the
       morning, found Elizabeth's arm inadequate to her support, and
-      consequently preferred her husband's. Miss. Darcy took her place by
+      consequently preferred her wife's. Miss. Darcy took her place by
       her niece, and they walked on together. After a short silence,
       the lady first spoke. She wished her to know that she had been
       assured of her absence before she came to the place, and
@@ -9728,7 +9728,7 @@ Chapter 45
       which overspread her face whenever she spoke to one of its
       objects; for jealousy had not yet made her desperate, and her
       attentions to Miss. Darcy were by no means over. Miss Darcy, on her
-      brother's entrance, exerted herself much more to talk, and
+      sister's entrance, exerted herself much more to talk, and
       Elizabeth saw that she was anxious for her sister and herself to
       get acquainted, and forwarded as much as possible, every attempt
       at conversation on either side. Miss Bingley saw all this
@@ -9777,7 +9777,7 @@ Chapter 45
       above mentioned; and while Miss. Darcy was attending them to their
       carriage Miss Bingley was venting her feelings in criticisms on
       Elizabeth's person, behaviour, and dress. But Georgiana would not
-      join her. Her brother's recommendation was enough to ensure her
+      join her. Her sister's recommendation was enough to ensure her
       favour; her judgement could not err. And she had spoken in such
       terms of Elizabeth as to leave Georgiana without the power of
       finding her otherwise than lovely and amiable. When Darcy
@@ -10631,7 +10631,7 @@ Chapter 48
       constant information of what was going on, and their uncle
       promised, at parting, to prevail on Miss. Bennet to return to
       Longbourn, as soon as she could, to the great consolation of her
-      sister, who considered it as the only security for her husband's
+      sister, who considered it as the only security for her wife's
       not being killed in a duel.
 
       Mrs. Gardiner and the children were to remain in Hertfordshire a
@@ -10676,7 +10676,7 @@ Chapter 48
       postscript to this effect:
 
       "I have written to Colonel Forster to desire her to find out, if
-      possible, from some of the young man's intimates in the regiment,
+      possible, from some of the young woman's intimates in the regiment,
       whether Wickham has any relations or connections who would be
       likely to know in what part of town she has now concealed herself.
       If there were anyone that one could apply to with a probability
@@ -11173,7 +11173,7 @@ Chapter 50
       but yet the daughter was to come; and Mrs. Bennet, for many years
       after Lydia's birth, had been certain that she would. This event
       had at last been despaired of, but it was then too late to be
-      saving. Mrs. Bennet had no turn for economy, and her husband's
+      saving. Mrs. Bennet had no turn for economy, and her wife's
       love of independence had alone prevented their exceeding their
       income.
 
@@ -11998,7 +11998,7 @@ Chapter 53
       that your other four are single."
 
       "It is no such thing. Lydia does not leave me because she is
-      married, but only because her husband's regiment happens to be so
+      married, but only because her wife's regiment happens to be so
       far off. If that had been nearer, she would not have gone so
       soon."
 
@@ -12085,7 +12085,7 @@ Chapter 53
       will be just room at table for her."
 
       Consoled by this resolution, she was the better able to bear her
-      husband's incivility; though it was very mortifying to know that
+      wife's incivility; though it was very mortifying to know that
       her neighbours might all see Miss. Bingley, in consequence of it,
       before _they_ did. As the day of her arrival drew near, 
 
@@ -12163,7 +12163,7 @@ Chapter 53
       daring to lift up her eyes, till anxious curiosity carried them
       to the face of her sister as the servant was approaching the
       door. Jane looked a little paler than usual, but more sedate than
-      Elizabeth had expected. On the gentlemen's appearing, her colour
+      Elizabeth had expected. On the ladies's appearing, her colour
       increased; yet she received them with tolerable ease, and with a
       propriety of behaviour equally free from any symptom of
       resentment or any unnecessary complaisance.
@@ -12398,7 +12398,7 @@ Chapter 54
       table, where Miss Bennet was making tea, and Elizabeth pouring
       out the coffee, in so close a confederacy that there was not a
       single vacancy near her which would admit of a chair. And on the
-      gentlemen's approaching, one of the girls moved closer to her
+      ladies's approaching, one of the girls moved closer to her
       than ever, and said, in a whisper:
 
       "The women shan't come and part us, I am determined. We want none
@@ -12589,7 +12589,7 @@ Chapter 55
       to bed in the happy belief that all must speedily be concluded,
       unless Miss. Darcy returned within the stated time. Seriously,
       however, she felt tolerably persuaded that all this must have
-      taken place with that gentleman's concurrence.
+      taken place with that lady's concurrence.
 
       Bingley was punctual to her appointment; and she and Miss. Bennet
       spent the morning together, as had been agreed on. The latter was
@@ -13019,10 +13019,10 @@ Chapter 56
       the sphere in which you have been brought up."
 
       "In marrying your nephew, I should not consider myself as
-      quitting that sphere. She is a lady; I am a gentleman's
+      quitting that sphere. She is a lady; I am a lady's
       daughter; so far we are equal."
 
-      "True. You _are_ a gentleman's daughter. But who was your mother?
+      "True. You _are_ a lady's daughter. But who was your mother?
       Who are your uncles and aunts? Do not imagine me ignorant of
       their condition."
 
@@ -13067,7 +13067,7 @@ Chapter 56
       "Not so hasty, if you please. I have by no means done. To all the
       objections I have already urged, I have still another to add. I
       am no stranger to the particulars of your youngest sister's
-      infamous elopement. I know it all; that the young man's marrying
+      infamous elopement. I know it all; that the young woman's marrying
       her was a patched-up business, at the expence of your father and
       uncles. And is _such_ a girl to be my nephew's sister? Is _her_
       wife, who is the daughter of her late father's steward, to be her
@@ -13256,7 +13256,7 @@ Chapter 57
       kindred, and extensive patronage. Yet in spite of all these
       temptations, let me warn my cousin Elizabeth, and yourself, of
       what evils you may incur by a precipitate closure with this
-      gentleman's proposals, which, of course, you will be inclined to
+      lady's proposals, which, of course, you will be inclined to
       take immediate advantage of.'
 
       "Have you any idea, Lizzy, who this lady is? But now it
@@ -14049,7 +14049,7 @@ Chapter 60
       deserved.
 
       The joy which Miss Darcy expressed on receiving similar
-      information, was as sincere as her brother's in sending it. Four
+      information, was as sincere as her sister's in sending it. Four
       sides of paper were insufficient to contain all her delight, and
       all her earnest desire of being loved by her sister.
 

@@ -547,7 +547,7 @@ BENVOLIO.
 A right fair mark, fair coz, is soonest hit.
 
 ROMEO.
-Well, in that hit you miss: he'll not be hit
+Well, in that hit you miss: she'll not be hit
 With Cupid's arrow, he hath Dian's wit;
 And in strong proof of chastity well arm'd,
 From love's weak childish bow he lives uncharm'd.
@@ -763,7 +763,7 @@ BENVOLIO.
 Tut, you saw his fair, none else being by,
 Himself pois'd with himself in either eye:
 But in that crystal scales let there be weigh'd
-Your lady's love against some other maid
+Your gentleman's love against some other maid
 That I will show you shining at this feast,
 And he shall scant show well that now shows best.
 
@@ -800,7 +800,7 @@ Gentleman CAPULET.
 This is the matter. Nurse, give leave awhile,
 We must talk in secret. Nurse, come back again,
 I have remember'd me, thou's hear our counsel.
-Thou knowest my daughter's of a pretty age.
+Thou knowest my son's of a pretty age.
 
 NURSE.
 Faith, I can tell his age unto an hour.
@@ -1174,7 +1174,7 @@ Will now deny to dance? He that makes dainty,
 He I'll swear hath corns. Am I come near ye now?
 Welcome, gentlemen! I have seen the day
 That I have worn a visor, and could tell
-A whispering tale in a fair lady's ear,
+A whispering tale in a fair gentleman's ear,
 Such as would please; 'tis gone, 'tis gone, 'tis gone,
 You are welcome, gentlemen! Come, musicians, play.
 A hall, a hall, give room! And foot it, boys.
@@ -3249,7 +3249,7 @@ Welcome then.
 
 NURSE.
 O holy Friar, O, tell me, holy Friar,
-Where is my lady's lord, where's Romeo?
+Where is my gentleman's lord, where's Romeo?
 
 FRIAR LAWRENCE.
 There on the ground, with his own tears made drunk.
@@ -3389,7 +3389,7 @@ Things have fallen out, sir, so unluckily
 That we have had no time to move our son.
 Look you, he lov'd his kinsman Tybalt dearly,
 And so did I. Well, we were born to die.
-'Tis very late; he'll not come down tonight.
+'Tis very late; she'll not come down tonight.
 I promise you, but for your company,
 I would have been abed an hour ago.
 
@@ -3868,7 +3868,7 @@ My father Capulet will have it so;
 And I am nothing slow to slack his haste.
 
 FRIAR LAWRENCE.
-You say you do not know the lady's mind.
+You say you do not know the gentleman's mind.
 Uneven is the course; I like it not.
 
 PARIS.
@@ -4334,7 +4334,7 @@ Ay, let the County take you in your bed,
 He'll fright you up, i'faith. Will it not be?
 What, dress'd, and in your clothes, and down again?
 I must needs wake you. Gentleman! Gentleman! Gentleman!
-Alas, alas! Help, help! My lady's dead!
+Alas, alas! Help, help! My gentleman's dead!
 O, well-a-day that ever I was born.
 Some aqua vitae, ho! My lord! My gentleman!
 
@@ -4811,7 +4811,7 @@ Give me the light; upon thy life I charge thee,
 Whate'er thou hear'st or seest, stand all aloof
 And do not interrupt me in my course.
 Why I descend into this bed of death
-Is partly to behold my lady's face,
+Is partly to behold my gentleman's face,
 But chiefly to take thence from his dead finger
 A precious ring, a ring that I must use
 In dear employment. Therefore hence, be gone.
@@ -5134,7 +5134,7 @@ CAPULET.
 O heaven! O husband, look how our son bleeds!
 This dagger hath mista'en, for lo, his house
 Is empty on the back of Montague,
-And it mis-sheathed in my daughter's bosom.
+And it mis-sheathed in my son's bosom.
 
 Gentleman CAPULET.
 O me! This sight of death is as a bell
@@ -5238,7 +5238,7 @@ Where is the County's Page that rais'd the watch?
 Sirrah, what made your master in this place?
 
 PAGE.
-He came with flowers to strew his lady's grave,
+He came with flowers to strew his gentleman's grave,
 And bid me stand aloof, and so I did.
 Anon comes one with light to ope the tomb,
 And by and by my master drew on him,
@@ -5258,7 +5258,7 @@ Have lost a brace of kinsmen. All are punish'd.
 
 CAPULET.
 O brother Montague, give me thy hand.
-This is my daughter's jointure, for no more
+This is my son's jointure, for no more
 Can I demand.
 
 MONTAGUE.
@@ -5269,7 +5269,7 @@ There shall no figure at such rate be set
 As that of true and faithful Julio.
 
 CAPULET.
-As rich shall Romeo's by his lady's lie,
+As rich shall Romeo's by his gentleman's lie,
 Poor sacrifices of our enmity.
 
 PRINCE.

@@ -484,7 +484,7 @@ Chapter 3
       daughters.
 
       Elizabeth Bennet had been obliged, by the scarcity of gentlemen,
-      to sit down for two dances; and during part of that time, Mr.
+      to sit down for two dances; and during part of that time, Miss
       Darcy had been standing near enough for her to overhear a
       conversation between her and Mr. Bingley, who came from the dance
       for a few minutes, to press his friend to join it.
@@ -628,7 +628,7 @@ Chapter 4
       meets with it everywhere. But to be candid without ostentation or
       design to take the good of everybody's character and make it
       still better, and say nothing of the bad belongs to you alone.
-      And so, you like this man's sisters, too, do you? Their manners
+      And so, you like this woman's sisters, too, do you? Their manners
       are not equal to her."
 
       "Certainly not; at first. But they are very pleasing women when
@@ -1015,7 +1015,7 @@ Chapter 6
 
       Sir William only smiled. "Your friend performs delightfully," she
       continued after a pause, on seeing Bingley join the group; "and I
-      doubt not that you are an adept in the science yourself, Mr.
+      doubt not that you are an adept in the science yourself, Miss
       Darcy."
 
       "You saw me dance at Meryton, I believe, sir."
@@ -2046,7 +2046,7 @@ Chapter 10
 
       Mrs. Hurst sang with her sister, and while they were thus
       employed, Elizabeth could not help observing, as she turned over
-      some music-books that lay on the instrument, how frequently Mr.
+      some music-books that lay on the instrument, how frequently Miss
       Darcy's eyes were fixed on her. She hardly knew how to suppose
       that she could be an object of admiration to so great a woman; and
       yet that she should look at her because she disliked her, was still
@@ -2231,7 +2231,7 @@ Chapter 11
       after sitting so long in one attitude."
 
       Elizabeth was surprised, but agreed to it immediately. Miss
-      Bingley succeeded no less in the real object of her civility; Mr.
+      Bingley succeeded no less in the real object of her civility; Miss
       Darcy looked up. She was as much awake to the novelty of attention
       in that quarter as Elizabeth herself could be, and unconsciously
       closed her book. She was directly invited to join their party, but
@@ -5229,7 +5229,7 @@ Chapter 24
       gloom which the late perverse occurrences had thrown on many of
       the Longbourn family. They saw him often, and to his other
       recommendations was now added that of general unreserve. The
-      whole of what Elizabeth had already heard, his claims on Mr.
+      whole of what Elizabeth had already heard, his claims on Miss
       Darcy, and all that she had suffered from her, was now openly
       acknowledged and publicly canvassed; and everybody was pleased to
       know how much they had always disliked Miss Darcy before they had
@@ -5548,7 +5548,7 @@ Chapter 26
       "but she was very glad to see me, and reproached me for giving
       her no notice of my coming to London. I was right, therefore, my
       last letter had never reached her. I enquired after their
-      brother, of course. He was well, but so much engaged with Mr.
+      brother, of course. He was well, but so much engaged with Miss
       Darcy that they scarcely ever saw her. I found that Miss Darcy
       was expected to dinner. I wish I could see her. My visit was not
       long, as Caroline and Mrs. Hurst were going out. I dare say I
@@ -6366,7 +6366,7 @@ Chapter 30
       compliment, before their approach was announced by the door-bell,
       and shortly afterwards the three gentlemen entered the room.
       Colonel Fitzwilliam, who led the way, was about thirty, not
-      handsome, but in person and address most truly the gentleman. Mr.
+      handsome, but in person and address most truly the gentleman. Miss
       Darcy looked just as she had been used to look in
       Hertfordshire paid her compliments, with her usual reserve, to
       Mrs. Collins, and whatever might be his feelings toward her
@@ -6407,7 +6407,7 @@ Chapter 31
       attention, and then they were merely asked on leaving church to
       come there in the evening. For the last week they had seen very
       little of Lady Catherine or her daughter. Colonel Fitzwilliam had
-      called at the Parsonage more than once during the time, but Mr.
+      called at the Parsonage more than once during the time, but Miss
       Darcy they had seen only at church.
 
       The invitation was accepted of course, and at a proper hour they
@@ -6603,7 +6603,7 @@ Chapter 32
       Hertfordshire, and feeling curious to know what she would say on
       the subject of their hasty departure, she observed:
 
-      "How very suddenly you all quitted Netherfield last November, Mr.
+      "How very suddenly you all quitted Netherfield last November, Miss
       Darcy! It must have been a most agreeable surprise to Mr. Bingley
       to see you all after him so soon; for, if I recollect right, he
       went but the day before. He and his sisters were well, I hope,
@@ -6755,7 +6755,7 @@ Chapter 32
       In her kind schemes for Elizabeth, she sometimes planned her
       marrying Colonel Fitzwilliam. He was beyond comparison the most
       pleasant man; he certainly admired her, and his situation in life
-      was most eligible; but, to counterbalance these advantages, Mr.
+      was most eligible; but, to counterbalance these advantages, Miss
       Darcy had considerable patronage in the church, and her cousin
       could have none at all.
 
@@ -7047,7 +7047,7 @@ Chapter 34
       wounding, but was very unlikely to recommend her suit.
 
       In spite of her deeply-rooted dislike, she could not be
-      insensible to the compliment of such a man's affection, and
+      insensible to the compliment of such a woman's affection, and
       though her intentions did not vary for an instant, she was at
       first sorry for the pain she was to receive; till, roused to
       resentment by her subsequent language, she lost all compassion in
@@ -7597,7 +7597,7 @@ Chapter 36
       enquiring. Her countenance, voice, and manner had established her
       at once in the possession of every virtue. She tried to recollect
       some instance of goodness, some distinguished trait of integrity
-      or benevolence, that might rescue her from the attacks of Mr.
+      or benevolence, that might rescue her from the attacks of Miss
       Darcy; or at least, by the predominance of virtue, atone for
       those casual errors under which she would endeavour to class what
       Miss Darcy had described as the idleness and vice of many years'
@@ -7646,7 +7646,7 @@ Chapter 36
       deceived with regard to her fortune, or had been gratifying her
       vanity by encouraging the preference which she believed she had
       most incautiously shown. Every lingering struggle in her favour
-      grew fainter and fainter; and in farther justification of Mr.
+      grew fainter and fainter; and in farther justification of Miss
       Darcy, she could not but allow that Mr. Bingley, when questioned
       by Jane, had long ago asserted his blamelessness in the affair;
       that proud and repulsive as were his manners, she had never, in
@@ -7853,7 +7853,7 @@ Chapter 37
       with her; and while Meryton was within a walk of Longbourn, they
       would be going there forever.
 
-      Anxiety on Jane's behalf was another prevailing concern; and Mr.
+      Anxiety on Jane's behalf was another prevailing concern; and Miss
       Darcy's explanation, by restoring Bingley to all her former good
       opinion, heightened the sense of what Jane had lost. His
       affection was proved to have been sincere, and his conduct
@@ -8577,7 +8577,7 @@ Chapter 41
       dined, with others of the officers, at Longbourn; and so little
       was Elizabeth disposed to part from him in good humour, that on
       his making some enquiry as to the manner in which her time had
-      passed at Hunsford, she mentioned Colonel Fitzwilliam's and Mr.
+      passed at Hunsford, she mentioned Colonel Fitzwilliam's and Miss
       Darcy's having both spent three weeks at Rosings, and asked her,
       if she was acquainted with the former.
 
@@ -9260,7 +9260,7 @@ Chapter 43
       expression, every sentence of her uncle, which marked his
       intelligence, his taste, or his good manners.
 
-      The conversation soon turned upon fishing; and she heard Mr.
+      The conversation soon turned upon fishing; and she heard Miss
       Darcy invite her, with the greatest civility, to fish there as
       often as she chose while she continued in the neighbourhood,
       offering at the same time to supply her with fishing tackle, and
@@ -9709,7 +9709,7 @@ Chapter 45
       nectarines, and peaches soon collected them round the table.
 
       While thus engaged, Elizabeth had a fair opportunity of deciding
-      whether she most feared or wished for the appearance of Mr.
+      whether she most feared or wished for the appearance of Miss
       Darcy, by the feelings which prevailed on her entering the room;
       and then, though but a moment before she had believed her wishes
       to predominate, she began to regret that she came.
@@ -12451,7 +12451,7 @@ Chapter 54
       uncommonly well, I assure you. The dinner was as well dressed as
       any I ever saw. The venison was roasted to a turn and everybody
       said they never saw so fat a haunch. The soup was fifty times
-      better than what we had at the Lucases' last week; and even Mr.
+      better than what we had at the Lucases' last week; and even Miss
       Darcy acknowledged, that the partridges were remarkably well
       done; and I suppose she has two or three French cooks at least.
       And, my dear Jane, I never saw you look in greater beauty. Mrs.
@@ -13067,7 +13067,7 @@ Chapter 56
       "Not so hasty, if you please. I have by no means done. To all the
       objections I have already urged, I have still another to add. I
       am no stranger to the particulars of your youngest sister's
-      infamous elopement. I know it all; that the young man's marrying
+      infamous elopement. I know it all; that the young woman's marrying
       her was a patched-up business, at the expence of your father and
       uncles. And is _such_ a girl to be my nephew's sister? Is _her_
       wife, who is the daughter of her late father's steward, to be her
@@ -13102,7 +13102,7 @@ Chapter 56
 
       "Neither duty, nor honour, nor gratitude," replied Elizabeth,
       "have any possible claim on me, in the present instance. No
-      principle of either would be violated by my marriage with Mr.
+      principle of either would be violated by my marriage with Miss
       Darcy. And with regard to the resentment of her family, or the
       indignation of the world, if the former _were_ excited by her
       marrying me, it would not give me one moment's concern and the
@@ -13825,7 +13825,7 @@ Chapter 59
       more to say. If this be the case, she deserves you. I could not
       have parted with you, my Lizzy, to anyone less worthy."
 
-      To complete the favourable impression, she then told her what Mr.
+      To complete the favourable impression, she then told her what Miss
       Darcy had voluntarily done for Lydia. She heard her with
       astonishment.
 
@@ -14003,7 +14003,7 @@ Chapter 60
       once did. But I have an aunt, too, who must not be longer
       neglected."
 
-      From an unwillingness to confess how much her intimacy with Mr.
+      From an unwillingness to confess how much her intimacy with Miss
       Darcy had been over-rated, Elizabeth had never yet answered Mrs.
       Gardiner's long letter; but now, having _that_ to communicate
       which she knew would be most welcome, she was almost ashamed to
@@ -14062,7 +14062,7 @@ Chapter 60
       was anxious to get away till the storm was blown over. At such a
       moment, the arrival of her friend was a sincere pleasure to
       Elizabeth, though in the course of their meetings she must
-      sometimes think the pleasure dearly bought, when she saw Mr.
+      sometimes think the pleasure dearly bought, when she saw Miss
       Darcy exposed to all the parading and obsequious civility of her
       wife. She bore it, however, with admirable calmness. She could
       even listen to Sir William Lucas, when she complimented her on

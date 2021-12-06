@@ -521,7 +521,7 @@ And if you leave me so, you do me wrong.
 
 ROMEO.
 Tut! I have lost myself; I am not here.
-This is not Romeo, they're some other where.
+This is not Romeo, they's some other where.
 
 BENVOLIO.
 Tell me in sadness who is that you love?
@@ -541,7 +541,7 @@ BENVOLIO.
 I aim'd so near when I suppos'd you lov'd.
 
 ROMEO.
-A right good markman, and they're fair I love.
+A right good markman, and they's fair I love.
 
 BENVOLIO.
 A right fair mark, fair coz, is soonest hit.
@@ -554,7 +554,7 @@ From love's weak childish bow they lives uncharm'd.
 They will not stay the siege of loving terms
 Nor bide th'encounter of assailing eyes,
 Nor ope them lap to saint-seducing gold:
-O they're rich in beauty, only poor
+O they's rich in beauty, only poor
 That when they dies, with beauty dies them store.
 
 BENVOLIO.
@@ -763,7 +763,7 @@ BENVOLIO.
 Tut, you saw them fair, none else being by,
 Themself pois'd with themself in either eye:
 But in that crystal scales let there be weigh'd
-Your lady's love against some other maid
+Your person's love against some other maid
 That I will show you shining at this feast,
 And they shall scant show well that now shows best.
 
@@ -800,13 +800,13 @@ Person CAPULET.
 This is the matter. Nurse, give leave awhile,
 We must talk in secret. Nurse, come back again,
 I have remember'd me, thou's hear our counsel.
-Thou knowest my daughter's of a pretty age.
+Thou knowest my child's of a pretty age.
 
 NURSE.
 Faith, I can tell them age unto an hour.
 
 Person CAPULET.
-They're not fourteen.
+They's not fourteen.
 
 NURSE.
 I'll lay fourteen of my teeth,
@@ -895,13 +895,13 @@ The valiant Paris seeks you for their love.
 
 NURSE.
 A person, young person! Person, such a person
-As all the world why they're a person of wax.
+As all the world why they's a person of wax.
 
 Person CAPULET.
 Verona's summer hath not such a flower.
 
 NURSE.
-Nay, they're a flower, in faith a very flower.
+Nay, they's a flower, in faith a very flower.
 
 Person CAPULET.
 What say you, can you love the person?
@@ -1062,7 +1062,7 @@ They is the fairies' midwife, and they comes
 In shape no bigger than an agate-stone
 On the fore-finger of an alderman,
 Drawn with a team of little atomies
-Over men's noses as they lie asleep:
+Over people's noses as they lie asleep:
 Them waggon-spokes made of long spinners' legs;
 The cover, of the wings of grasshoppers;
 Them traces, of the smallest spider's web;
@@ -1143,7 +1143,7 @@ Where's Potpan, that they helps not to take away?
 They shift a trencher! They scrape a trencher!
 
 SECOND SERVANT.
-When good manners shall lie all in one or two men's hands, and they
+When good manners shall lie all in one or two people's hands, and they
 unwash'd too, 'tis a foul thing.
 
 FIRST SERVANT.
@@ -1174,7 +1174,7 @@ Will now deny to dance? They that makes dainty,
 They I'll swear hath corns. Am I come near ye now?
 Welcome, people! I have seen the day
 That I have worn a visor, and could tell
-A whispering tale in a fair lady's ear,
+A whispering tale in a fair person's ear,
 Such as would please; 'tis gone, 'tis gone, 'tis gone,
 You are welcome, people! Come, musicians, play.
 A hall, a hall, give room! And foot it, children.
@@ -1894,7 +1894,7 @@ Benedicite!
 What early tongue so sweet saluteth me?
 Young child, it argues a distemper'd head
 So soon to bid good morrow to thy bed.
-Care keeps their watch in every old man's eye,
+Care keeps their watch in every old person's eye,
 And where care lodges sleep will never lie;
 But where unbruised youth with unstuff'd brain
 Doth couch their limbs, there golden sleep doth reign.
@@ -1942,7 +1942,7 @@ That thou consent to marry us today.
 FRIAR LAWRENCE.
 Holy Saint Francis! What a change is here!
 Is Rosaline, that thou didst love so dear,
-So soon forsaken? Young men's love then lies
+So soon forsaken? Young people's love then lies
 Not truly in their hearts, but in their eyes.
 Jesu Maria, what a deal of brine
 Hath wash'd thy sallow cheeks for Rosaline!
@@ -2031,7 +2031,7 @@ BENVOLIO.
 Why, what is Tybalt?
 
 MERCUTIO.
-More than Heir of cats. O, they're the courageous captain of
+More than Heir of cats. O, they's the courageous captain of
 compliments. They fights as you sing prick-song, keeps time, distance,
 and proportion. They rests their minim rest, one, two, and the third in
 your bosom: the very butcher of a silk button, a duellist, a duellist;
@@ -2327,7 +2327,7 @@ Is your person secret? Did you ne'er hear say,
 Two may keep counsel, putting one away?
 
 ROMEO.
-I warrant thee my man's as true as steel.
+I warrant thee my person's as true as steel.
 
 NURSE.
 Well, sir, my mistress is the sweetest person. Noble, Noble! When 'twas a
@@ -2424,8 +2424,8 @@ Let me be satisfied, is't good or bad?
 
 NURSE.
 Well, you have made a simple choice; you know not how to choose a person.
-Romeo? No, not they. Though their face be better than any man's, yet their
-leg excels all men's, and for a hand and a foot, and a body, though
+Romeo? No, not they. Though their face be better than any person's, yet their
+leg excels all people's, and for a hand and a foot, and a body, though
 they be not to be talked on, yet they are past compare. They is not the
 flower of courtesy, but I'll warrant them as gentle as a lamb. Go thy
 ways, wench, serve God. What, have you dined at home?
@@ -2641,8 +2641,8 @@ And reason coldly of your grievances,
 Or else depart; here all eyes gaze on us.
 
 MERCUTIO.
-Men's eyes were made to look, and let them gaze.
-I will not budge for no man's pleasure, I.
+People's eyes were made to look, and let them gaze.
+I will not budge for no person's pleasure, I.
 
  Enter Romeo.
 
@@ -2747,7 +2747,7 @@ I have it, and soundly too. Your houses!
  [_Exeunt Mercutio and Benvolio._]
 
 ROMEO.
-This person, the Prince's near ally,
+This person, the Heir's near ally,
 My very friend, hath got their mortal hurt
 In my behalf; my reputation stain'd
 With Tybalt's slander, Tybalt, that an hour
@@ -2815,7 +2815,7 @@ There lies that Tybalt.
 
 FIRST CITIZEN.
 Up, sir, go with me.
-I charge thee in the Prince's name obey.
+I charge thee in the Heir's name obey.
 
  Enter Heir, attended; Montague, Capulet, their Wives and others.
 
@@ -2829,7 +2829,7 @@ There lies the person, slain by young Romeo,
 That slew thy kinsman, brave Mercutio.
 
 Person CAPULET.
-Tybalt, my cousin! O my brother's child!
+Tybalt, my cousin! O my sibling's child!
 O Heir! O partner! O, the blood is spill'd
 Of my dear kinsman! Heir, as thou art true,
 For blood of ours shed blood of Montague.
@@ -2950,9 +2950,9 @@ JULIET.
 Ay me, what news? Why dost thou wring thy hands?
 
 NURSE.
-Ah, well-a-day, they're dead, they're dead, they're dead!
+Ah, well-a-day, they's dead, they's dead, they's dead!
 We are undone, person, we are undone.
-Alack the day, they're gone, they're kill'd, they're dead.
+Alack the day, they's gone, they's kill'd, they's dead.
 
 JULIET.
 Can heaven be so envious?
@@ -3113,17 +3113,17 @@ And thou art wedded to calamity.
  Enter Romeo.
 
 ROMEO.
-Father, what news? What is the Prince's doom?
+Father, what news? What is the Heir's doom?
 What sorrow craves acquaintance at my hand,
 That I yet know not?
 
 FRIAR LAWRENCE.
 Too familiar
 Is my dear child with such sour company.
-I bring thee tidings of the Prince's doom.
+I bring thee tidings of the Heir's doom.
 
 ROMEO.
-What less than doomsday is the Prince's doom?
+What less than doomsday is the Heir's doom?
 
 FRIAR LAWRENCE.
 A gentler judgment vanish'd from their lips,
@@ -3193,7 +3193,7 @@ To comfort thee, though thou art banished.
 ROMEO.
 Yet banished? Hang up philosophy.
 Unless philosophy can make a Juliet,
-Displant a town, reverse a Prince's doom,
+Displant a town, reverse a Heir's doom,
 It helps not, it prevails not, talk no more.
 
 FRIAR LAWRENCE.
@@ -3249,7 +3249,7 @@ Welcome then.
 
 NURSE.
 O holy Friar, O, tell me, holy Friar,
-Where is my lady's lord, where's Romeo?
+Where is my person's lord, where's Romeo?
 
 FRIAR LAWRENCE.
 There on the ground, with their own tears made drunk.
@@ -3399,7 +3399,7 @@ Person, good night. Commend me to your child.
 
 Person CAPULET.
 I will, and know them mind early tomorrow;
-Tonight they're mew'd up to them heaviness.
+Tonight they's mew'd up to them heaviness.
 
 CAPULET.
 Person Paris, I will make a desperate tender
@@ -3667,7 +3667,7 @@ And see how they will take it at your hands.
 
 CAPULET.
 When the sun sets, the air doth drizzle dew;
-But for the sunset of my brother's child
+But for the sunset of my sibling's child
 It rains downright.
 How now? A conduit, child? What, still in tears?
 Evermore showering? In one little body
@@ -3807,7 +3807,7 @@ That they dares ne'er come back to challenge you.
 Or if they do, it needs must be by stealth.
 Then, since the case so stands as now it doth,
 I think it best you married with the County.
-O, they're a lovely person.
+O, they's a lovely person.
 Romeo's a dishclout to them. An eagle, madam,
 Hath not so green, so quick, so fair an eye
 As Paris hath. Beshrew my very heart,
@@ -3868,7 +3868,7 @@ My father Capulet will have it so;
 And I am nothing slow to slack their haste.
 
 FRIAR LAWRENCE.
-You say you do not know the lady's mind.
+You say you do not know the person's mind.
 Uneven is the course; I like it not.
 
 PARIS.
@@ -4003,7 +4003,7 @@ From off the battlements of yonder tower,
 Or walk in thievish ways, or bid me lurk
 Where serpents are. Chain me with roaring bears;
 Or hide me nightly in a charnel-house,
-O'er-cover'd quite with dead men's rattling bones,
+O'er-cover'd quite with dead people's rattling bones,
 With reeky shanks and yellow chapless skulls.
 Or bid me go into a new-made grave,
 And hide me with a dead person in their shroud;
@@ -4334,7 +4334,7 @@ Ay, let the County take you in your bed,
 They'll fright you up, i'faith. Will it not be?
 What, dress'd, and in your clothes, and down again?
 I must needs wake you. Person! Person! Person!
-Alas, alas! Help, help! My lady's dead!
+Alas, alas! Help, help! My person's dead!
 O, well-a-day that ever I was born.
 Some aqua vitae, ho! My lord! My person!
 
@@ -4363,13 +4363,13 @@ CAPULET.
 For shame, bring Juliet forth, them lord is come.
 
 NURSE.
-They're dead, deceas'd, they're dead; alack the day!
+They's dead, deceas'd, they's dead; alack the day!
 
 Person CAPULET.
-Alack the day, they're dead, they're dead, they're dead!
+Alack the day, they's dead, they's dead, they's dead!
 
 CAPULET.
-Ha! Let me see them. Out alas! They're cold,
+Ha! Let me see them. Out alas! They's cold,
 Them blood is settled and them joints are stiff.
 Life and these lips have long been separated.
 Death lies on them like an untimely frost
@@ -4446,8 +4446,8 @@ And weep ye now, seeing they is advanc'd
 Above the clouds, as high as heaven itself?
 O, in this love, you love your child so ill
 That you run mad, seeing that they is well.
-They're not well married that lives married long,
-But they're best married that dies married young.
+They's not well married that lives married long,
+But they's best married that dies married young.
 Dry up your tears, and stick your rosemary
 On this fair corse, and, as the custom is,
 And in them best array bear them to church;
@@ -4697,7 +4697,7 @@ And drink it off; and, if you had the strength
 Of twenty people, it would despatch you straight.
 
 ROMEO.
-There is thy gold, worse poison to men's souls,
+There is thy gold, worse poison to people's souls,
 Doing more murder in this loathsome world
 Than these poor compounds that thou mayst not sell.
 I sell thee poison, thou hast sold me none.
@@ -4759,7 +4759,7 @@ They will beshrew me much that Romeo
 Hath had no notice of these accidents;
 But I will write again to Mantua,
 And keep them at my cell till Romeo come.
-Poor living corse, clos'd in a dead man's tomb.
+Poor living corse, clos'd in a dead person's tomb.
 
  [_Exit._]
 
@@ -4811,7 +4811,7 @@ Give me the light; upon thy life I charge thee,
 Whate'er thou hear'st or seest, stand all aloof
 And do not interrupt me in my course.
 Why I descend into this bed of death
-Is partly to behold my lady's face,
+Is partly to behold my person's face,
 But chiefly to take thence from them dead finger
 A precious ring, a ring that I must use
 In dear employment. Therefore hence, be gone.
@@ -5128,13 +5128,13 @@ Search, seek, and know how this foul murder comes.
 FIRST WATCH.
 Here is a Friar, and slaughter'd Romeo's person,
 With instruments upon them fit to open
-These dead men's tombs.
+These dead people's tombs.
 
 CAPULET.
 O heaven! O partner, look how our child bleeds!
 This dagger hath mista'en, for lo, their house
 Is empty on the back of Montague,
-And it mis-sheathed in my daughter's bosom.
+And it mis-sheathed in my child's bosom.
 
 Person CAPULET.
 O me! This sight of death is as a bell
@@ -5148,7 +5148,7 @@ To see thy child and heir more early down.
 
 MONTAGUE.
 Alas, my liege, my partner is dead tonight.
-Grief of my son's exile hath stopp'd them breath.
+Grief of my child's exile hath stopp'd them breath.
 What further woe conspires against mine age?
 
 PRINCE.
@@ -5238,7 +5238,7 @@ Where is the County's Page that rais'd the watch?
 Sirrah, what made your master in this place?
 
 PAGE.
-They came with flowers to strew their lady's grave,
+They came with flowers to strew their person's grave,
 And bid me stand aloof, and so I did.
 Anon comes one with light to ope the tomb,
 And by and by my master drew on them,
@@ -5258,7 +5258,7 @@ Have lost a brace of kinsmen. All are punish'd.
 
 CAPULET.
 O sibling Montague, give me thy hand.
-This is my daughter's jointure, for no more
+This is my child's jointure, for no more
 Can I demand.
 
 MONTAGUE.
@@ -5269,7 +5269,7 @@ There shall no figure at such rate be set
 As that of true and faithful Juliet.
 
 CAPULET.
-As rich shall Romeo's by their lady's lie,
+As rich shall Romeo's by their person's lie,
 Poor sacrifices of our enmity.
 
 PRINCE.

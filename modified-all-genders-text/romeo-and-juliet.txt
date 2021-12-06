@@ -547,7 +547,7 @@ BAILEE.
 A right fair mark, fair coz, is soonest hit.
 
 ROMINA.
-Well, in that hit you miss: he'll not be hit
+Well, in that hit you miss: she'll not be hit
 With Cupid's arrow, he hath Dian's wit;
 And in strong proof of chastity well arm'd,
 From love's weak childish bow he lives uncharm'd.
@@ -763,7 +763,7 @@ BAILEE.
 Tut, you saw his fair, none else being by,
 Himself pois'd with himself in either eye:
 But in that crystal scales let there be weigh'd
-Your lady's love against some other maid
+Your gentleman's love against some other maid
 That I will show you shining at this feast,
 And he shall scant show well that now shows best.
 
@@ -800,7 +800,7 @@ Gentleman CAPULET.
 This is the matter. Nurse, give leave awhile,
 We must talk in secret. Nurse, come back again,
 I have remember'd me, thou's hear our counsel.
-Thou knowest my daughter's of a pretty age.
+Thou knowest my son's of a pretty age.
 
 NURSE.
 Faith, I can tell his age unto an hour.
@@ -1062,7 +1062,7 @@ He is the fairies' midwife, and he comes
 In shape no bigger than an agate-stone
 On the fore-finger of an alderman,
 Drawn with a team of little atomies
-Over men's noses as they lie asleep:
+Over women's noses as they lie asleep:
 His waggon-spokes made of long spinners' legs;
 The cover, of the wings of grasshoppers;
 His traces, of the smallest spider's web;
@@ -1143,7 +1143,7 @@ Where's Potpan, that she helps not to take away?
 She shift a trencher! She scrape a trencher!
 
 SECOND SERVANT.
-When good manners shall lie all in one or two men's hands, and they
+When good manners shall lie all in one or two women's hands, and they
 unwash'd too, 'tis a foul thing.
 
 FIRST SERVANT.
@@ -1174,7 +1174,7 @@ Will now deny to dance? He that makes dainty,
 He I'll swear hath corns. Am I come near ye now?
 Welcome, ladies! I have seen the day
 That I have worn a visor, and could tell
-A whispering tale in a fair lady's ear,
+A whispering tale in a fair gentleman's ear,
 Such as would please; 'tis gone, 'tis gone, 'tis gone,
 You are welcome, ladies! Come, musicians, play.
 A hall, a hall, give room! And foot it, boys.
@@ -1894,7 +1894,7 @@ Benedicite!
 What early tongue so sweet saluteth me?
 Young daughter, it argues a distemper'd head
 So soon to bid good morrow to thy bed.
-Care keeps her watch in every old man's eye,
+Care keeps her watch in every old woman's eye,
 And where care lodges sleep will never lie;
 But where unbruised youth with unstuff'd brain
 Doth couch her limbs, there golden sleep doth reign.
@@ -1942,7 +1942,7 @@ That thou consent to marry us today.
 FRIAR LACEY.
 Holy Saint Francis! What a change is here!
 Is Rowan, that thou didst love so dear,
-So soon forsaken? Young men's love then lies
+So soon forsaken? Young women's love then lies
 Not truly in their hearts, but in their eyes.
 Jesu Maria, what a deal of brine
 Hath wash'd thy sallow cheeks for Rowan!
@@ -2327,7 +2327,7 @@ Is your woman secret? Did you ne'er hear say,
 Two may keep counsel, putting one away?
 
 ROMINA.
-I warrant thee my man's as true as steel.
+I warrant thee my woman's as true as steel.
 
 NURSE.
 Well, sir, my mistress is the sweetest gentleman. Lady, Lady! When 'twas a
@@ -2424,8 +2424,8 @@ Let me be satisfied, is't good or bad?
 
 NURSE.
 Well, you have made a simple choice; you know not how to choose a woman.
-Romina? No, not she. Though her face be better than any man's, yet her
-leg excels all men's, and for a hand and a foot, and a body, though
+Romina? No, not she. Though her face be better than any woman's, yet her
+leg excels all women's, and for a hand and a foot, and a body, though
 they be not to be talked on, yet they are past compare. She is not the
 flower of courtesy, but I'll warrant her as gentle as a lamb. Go thy
 ways, wench, serve God. What, have you dined at home?
@@ -2641,8 +2641,8 @@ And reason coldly of your grievances,
 Or else depart; here all eyes gaze on us.
 
 MABEL.
-Men's eyes were made to look, and let them gaze.
-I will not budge for no man's pleasure, I.
+Women's eyes were made to look, and let them gaze.
+I will not budge for no woman's pleasure, I.
 
  Enter Romina.
 
@@ -2651,7 +2651,7 @@ Well, peace be with you, sir, here comes my woman.
 
 MABEL.
 But I'll be hanged, sir, if she wear your livery.
-Marry, go before to field, she'll be your follower;
+Marry, go before to field, he'll be your follower;
 Your worship in that sense may call her woman.
 
 TALIA.
@@ -2747,7 +2747,7 @@ I have it, and soundly too. Your houses!
  [_Exeunt Mabel and Bailee._]
 
 ROMINA.
-This lady, the Prince's near ally,
+This lady, the Princess's near ally,
 My very friend, hath got her mortal hurt
 In my behalf; my reputation stain'd
 With Talia's slander, Talia, that an hour
@@ -2815,7 +2815,7 @@ There lies that Talia.
 
 FIRST CITIZEN.
 Up, sir, go with me.
-I charge thee in the Prince's name obey.
+I charge thee in the Princess's name obey.
 
  Enter Princess, attended; Montague, Capulet, their Wives and others.
 
@@ -2829,7 +2829,7 @@ There lies the woman, slain by young Romina,
 That slew thy kinsman, brave Mabel.
 
 Gentleman CAPULET.
-Talia, my cousin! O my brother's child!
+Talia, my cousin! O my sister's child!
 O Princess! O wife! O, the blood is spill'd
 Of my dear kinsman! Princess, as thou art true,
 For blood of ours shed blood of Montague.
@@ -3113,17 +3113,17 @@ And thou art wedded to calamity.
  Enter Romina.
 
 ROMINA.
-Father, what news? What is the Prince's doom?
+Father, what news? What is the Princess's doom?
 What sorrow craves acquaintance at my hand,
 That I yet know not?
 
 FRIAR LACEY.
 Too familiar
 Is my dear daughter with such sour company.
-I bring thee tidings of the Prince's doom.
+I bring thee tidings of the Princess's doom.
 
 ROMINA.
-What less than doomsday is the Prince's doom?
+What less than doomsday is the Princess's doom?
 
 FRIAR LACEY.
 A gentler judgment vanish'd from her lips,
@@ -3193,7 +3193,7 @@ To comfort thee, though thou art banished.
 ROMINA.
 Yet banished? Hang up philosophy.
 Unless philosophy can make a Julio,
-Displant a town, reverse a Prince's doom,
+Displant a town, reverse a Princess's doom,
 It helps not, it prevails not, talk no more.
 
 FRIAR LACEY.
@@ -3249,7 +3249,7 @@ Welcome then.
 
 NURSE.
 O holy Friar, O, tell me, holy Friar,
-Where is my lady's lord, where's Romina?
+Where is my gentleman's lord, where's Romina?
 
 FRIAR LACEY.
 There on the ground, with her own tears made drunk.
@@ -3389,7 +3389,7 @@ Things have fallen out, sir, so unluckily
 That we have had no time to move our son.
 Look you, he lov'd his kinsman Talia dearly,
 And so did I. Well, we were born to die.
-'Tis very late; he'll not come down tonight.
+'Tis very late; she'll not come down tonight.
 I promise you, but for your company,
 I would have been abed an hour ago.
 
@@ -3667,7 +3667,7 @@ And see how she will take it at your hands.
 
 CAPULET.
 When the sun sets, the air doth drizzle dew;
-But for the sunset of my brother's daughter
+But for the sunset of my sister's daughter
 It rains downright.
 How now? A conduit, boy? What, still in tears?
 Evermore showering? In one little body
@@ -3868,7 +3868,7 @@ My father Capulet will have it so;
 And I am nothing slow to slack her haste.
 
 FRIAR LACEY.
-You say you do not know the lady's mind.
+You say you do not know the gentleman's mind.
 Uneven is the course; I like it not.
 
 PAIGE.
@@ -4003,7 +4003,7 @@ From off the battlements of yonder tower,
 Or walk in thievish ways, or bid me lurk
 Where serpents are. Chain me with roaring bears;
 Or hide me nightly in a charnel-house,
-O'er-cover'd quite with dead men's rattling bones,
+O'er-cover'd quite with dead women's rattling bones,
 With reeky shanks and yellow chapless skulls.
 Or bid me go into a new-made grave,
 And hide me with a dead woman in her shroud;
@@ -4331,10 +4331,10 @@ That you shall rest but little. God forgive me!
 Marry and amen. How sound is he asleep!
 I needs must wake his. Sir, madam, madam!
 Ay, let the County take you in your bed,
-She'll fright you up, i'faith. Will it not be?
+He'll fright you up, i'faith. Will it not be?
 What, dress'd, and in your clothes, and down again?
 I must needs wake you. Gentleman! Gentleman! Gentleman!
-Alas, alas! Help, help! My lady's dead!
+Alas, alas! Help, help! My gentleman's dead!
 O, well-a-day that ever I was born.
 Some aqua vitae, ho! My lord! My gentleman!
 
@@ -4697,7 +4697,7 @@ And drink it off; and, if you had the strength
 Of twenty women, it would despatch you straight.
 
 ROMINA.
-There is thy gold, worse poison to men's souls,
+There is thy gold, worse poison to women's souls,
 Doing more murder in this loathsome world
 Than these poor compounds that thou mayst not sell.
 I sell thee poison, thou hast sold me none.
@@ -4759,7 +4759,7 @@ He will beshrew me much that Romina
 Hath had no notice of these accidents;
 But I will write again to Mantua,
 And keep his at my cell till Romina come.
-Poor living corse, clos'd in a dead man's tomb.
+Poor living corse, clos'd in a dead woman's tomb.
 
  [_Exit._]
 
@@ -4811,7 +4811,7 @@ Give me the light; upon thy life I charge thee,
 Whate'er thou hear'st or seest, stand all aloof
 And do not interrupt me in my course.
 Why I descend into this bed of death
-Is partly to behold my lady's face,
+Is partly to behold my gentleman's face,
 But chiefly to take thence from his dead finger
 A precious ring, a ring that I must use
 In dear employment. Therefore hence, be gone.
@@ -5128,13 +5128,13 @@ Search, seek, and know how this foul murder comes.
 FIRST WATCH.
 Here is a Friar, and slaughter'd Romina's woman,
 With instruments upon them fit to open
-These dead men's tombs.
+These dead women's tombs.
 
 CAPULET.
 O heaven! O husband, look how our son bleeds!
 This dagger hath mista'en, for lo, her house
 Is empty on the back of Montague,
-And it mis-sheathed in my daughter's bosom.
+And it mis-sheathed in my son's bosom.
 
 Gentleman CAPULET.
 O me! This sight of death is as a bell
@@ -5148,7 +5148,7 @@ To see thy daughter and heir more early down.
 
 MONTAGUE.
 Alas, my liege, my husband is dead tonight.
-Grief of my son's exile hath stopp'd his breath.
+Grief of my daughter's exile hath stopp'd his breath.
 What further woe conspires against mine age?
 
 PRINCE.
@@ -5238,7 +5238,7 @@ Where is the County's Page that rais'd the watch?
 Sirrah, what made your master in this place?
 
 PAGE.
-She came with flowers to strew her lady's grave,
+She came with flowers to strew her gentleman's grave,
 And bid me stand aloof, and so I did.
 Anon comes one with light to ope the tomb,
 And by and by my master drew on her,
@@ -5258,7 +5258,7 @@ Have lost a brace of kinsmen. All are punish'd.
 
 CAPULET.
 O sister Montague, give me thy hand.
-This is my daughter's jointure, for no more
+This is my son's jointure, for no more
 Can I demand.
 
 MONTAGUE.
@@ -5269,7 +5269,7 @@ There shall no figure at such rate be set
 As that of true and faithful Julio.
 
 CAPULET.
-As rich shall Romina's by her lady's lie,
+As rich shall Romina's by her gentleman's lie,
 Poor sacrifices of our enmity.
 
 PRINCE.

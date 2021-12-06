@@ -3,21 +3,24 @@ import bisect
 import json
 from helper import *
 
-male_to_female = {"he": "she", "him": "her", "his": "her", "himself": "herself", "boy": "girl", "man": "woman", "son": "daughter", "lad": "lass", "he's": "she's", "he'll": "she'll", "husband": "wife"}
+male_to_female = {"he": "she", "him": "her", "his": "her", "himself": "herself", "boy": "girl", "man": "woman", "son": "daughter", "lad": "lass", "husband": "wife"}
+male_to_female.update({x + "'s": y + "'s" for x, y in male_to_female.items()})
 female_to_male = {y:x for x,y in male_to_female.items()}
 
 male_to_female_prefix = {"Mr": "Miss", "Sir": "Madam", "Count": "Countess", "Prince": "Princess", "King": "Queen", "Duke": "Duchess", "Lord": "Lady", "Baron":"Baroness"}
+male_to_female_prefix.update({x + "'s": y + "'s" for x, y in male_to_female_prefix.items()})
 female_to_male_prefix = {y:x for x,y in male_to_female_prefix.items()}
 female_to_male_prefix["Mrs"] = "Mr"
 
 other_male_to_female = {"brother": "sister", "brothers": "sisters", "sons": "daughters", "boys": "girls", "men": "women", "gentlemen": "ladies", "gentleman": "lady"}
+other_male_to_female.update({x + "'s": y + "'s" for x, y in other_male_to_female.items()})
 other_female_to_male =  {y:x for x,y in other_male_to_female.items()}
 
 gendered_to_nonbinary = {"brother": "sibling", "sister": "sibling", "brothers": "siblings", "sisters": "siblings", "sons": "children", "daughters": "children", "boys": "children", "girls":"children", "men": "people", "women": "people", "gentlemen": "people", "ladies": "people", "he": "they", "she": "they", "him": "them", "her": "them", "his": "their", "himself": "themself", "herself": "themself", "boy": "child", "girl": "child", "man": "person", "woman": "person", "gentleman": "person", "lady": "person", "son": "child", "daughter": "child", "lad": "child", "lass": "child", "he's": "they're", "she's": "they're", "he'll": "they'll", "she'll": "they'll", "husband": "partner", "wife": "partner"}
-gendered_to_nonbinary_prefix = {"Mr": "Mx", "Miss": "Mx", "Mrs": "Mx", "Count": "Earl", "Countess": "Earl", "Prince": "Heir", "Princess": "Heir", "King": "Monarch", "Queen": "Monarch", "Duke": "Jarl", "Duchess": "Jarl", "Lord": "Noble", "Lady": "Noble", "Baron": "Chief", "Baroness" : "Chief", "Sir": "Person", "Madam": "Person"}
+gendered_to_nonbinary.update({x + "'s": y + "'s" for x, y in gendered_to_nonbinary.items()})
 
-with open("api_key.txt", "r") as f:
-    gender_name_api_key = f.read()
+gendered_to_nonbinary_prefix = {"Mr": "Mx", "Miss": "Mx", "Mrs": "Mx", "Count": "Earl", "Countess": "Earl", "Prince": "Heir", "Princess": "Heir", "King": "Monarch", "Queen": "Monarch", "Duke": "Jarl", "Duchess": "Jarl", "Lord": "Noble", "Lady": "Noble", "Baron": "Chief", "Baroness" : "Chief", "Sir": "Person", "Madam": "Person"}
+gendered_to_nonbinary_prefix.update({x + "'s": y + "'s" for x, y in gendered_to_nonbinary_prefix.items()})
 
 with open("names.json", "r") as f:
     names_json = json.loads(f.read())
@@ -55,11 +58,19 @@ def change_gender(filename, other_characters, original_name, character_name, cha
     with open(text_file, 'r') as f:
         text = f.read()
         replaced_text = text.replace(character_name, character_new_name)
+        replaced_text = replaced_text.replace(character_name.replace(" ", "\n      "), character_new_name.replace(" ", "\n      "))
+        replaced_text = replaced_text.replace(character_name.replace(" ", "\n"), character_new_name.replace(" ", "\n"))
         replaced_text = replaced_text.replace(character_name.upper(), character_new_name.upper())
+        replaced_text = replaced_text.replace(character_name.upper().replace(" ", "\n      "), character_new_name.upper().replace(" ", "\n      "))
+        replaced_text = replaced_text.replace(character_name.upper().replace(" ", "\n"), character_new_name.upper().replace(" ", "\n"))
         if character_other_names and character_new_other_names and len(character_other_names) == len(character_new_other_names):
             for i in range(len(character_other_names)):
                 replaced_text = replaced_text.replace(character_other_names[i], character_new_other_names[i])
+                replaced_text = replaced_text.replace(character_other_names[i].replace(" ", "\n      "), character_new_other_names[i].replace(" ", "\n      "))
+                replaced_text = replaced_text.replace(character_other_names[i].replace(" ", "\n"), character_new_other_names[i].replace(" ", "\n"))
                 replaced_text = replaced_text.replace(character_other_names[i].upper(), character_new_other_names[i].upper())
+                replaced_text = replaced_text.replace(character_other_names[i].upper().replace(" ", "\n      "), character_new_other_names[i].upper().replace(" ", "\n      "))
+                replaced_text = replaced_text.replace(character_other_names[i].upper().replace(" ", "\n"), character_new_other_names[i].upper().replace(" ", "\n"))
         replaced_text = clean_up_text(replaced_text)
         new_text = ""
         at_love_interest_no_dialogue = False
@@ -104,7 +115,7 @@ change_gender(persuasion, set(["Elliot", "Musgrove", "Croft", "Benwick", "Harvil
 change_gender(emma, set(["Churchill", "Martin", "Elton", "Weston", "Woodhouse", "John"]), "Knightley", "Mr. Knightley", "Miss Knightley", True, False)
 change_gender(sense_and_sensibility, set(["Ferrars", "Brandon", "Dashwood", "Middleton", "Palmer", "Harris", "Pratt"]), "Willoughby", "Mr. Willoughby", "Miss Willoughby", True, False, ["John Willoughby"], ["Jane Willoughby"])
 change_gender(wuthering_heights, set(["Nelly", "Cathy", "Isabella", "Frances", "Zillah"]), "Charles", "Catherine", "Charles", False, False)
-# change_gender(romeo_and_juliet, set(["Rosaline", "Lady", "Mab", "Nurse"]), "Julius", "Juliet", "Julius", False, True, [], [], {"CAPULET": set(["daughter", "daughter's"])})
+change_gender(romeo_and_juliet, set(["Rosaline", "Lady", "Mab", "Nurse"]), "Julius", "Juliet", "Julius", False, True, [], [], {"CAPULET": set(["daughter", "daughter's"])})
 
 """
 Changes all genders

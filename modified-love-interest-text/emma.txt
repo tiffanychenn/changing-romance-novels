@@ -309,7 +309,7 @@ know and what you would certainly say if my father were not by."
 "I believe it is very true, my dear, indeed," said Mr. Woodhouse, with
 a sigh. "I am afraid I am sometimes very fanciful and troublesome."
 
-"My dearest papa! You do not think I could mean _you_, or suppose Mr.
+"My dearest papa! You do not think I could mean _you_, or suppose Miss
 Knightley to mean _you_. What a horrible idea! Oh no! I meant only
 myself. Miss Knightley loves to find fault with me, you know in a
 joke it is all a joke. We always say what we like to one another."
@@ -333,12 +333,12 @@ not a tear, and hardly a long face to be seen. Oh no; we all felt that
 we were going to be only half a mile apart, and were sure of meeting
 every day."
 
-"Dear Emma bears every thing so well," said her father. "But, Mr.
+"Dear Emma bears every thing so well," said her father. "But, Miss
 Knightley, she is really very sorry to lose poor Miss Taylor, and I am
 sure she _will_ miss her more than she thinks for."
 
 Emma turned away her head, divided between tears and smiles. "It is
-impossible that Emma should not miss such a companion," said Mr.
+impossible that Emma should not miss such a companion," said Miss
 Knightley. "We should not like her so well as we do, sir, if we could
 suppose it; but she knows how much the marriage is to Miss Taylor's
 advantage; she knows how very acceptable it must be, at Miss Taylor's
@@ -1079,7 +1079,7 @@ spoken with a degree of grave displeasure which Emma thought might be
 safely left to itself. She, therefore, said no more for some time. Her
 next beginning was,
 
-"In one respect, perhaps, Mr. Elton's manners are superior to Mr.
+"In one respect, perhaps, Mr. Elton's manners are superior to Miss
 Knightley's or Mr. Weston's. They have more gentleness. They might be
 more safely held up as a pattern. There is an openness, a quickness,
 almost a bluntness in Mr. Weston, which every body likes in _him_,
@@ -1135,7 +1135,7 @@ by Mr. Elton's admiration.
 CHAPTER V
 
 
-"I do not know what your opinion may be, Mrs. Weston," said Mr.
+"I do not know what your opinion may be, Mrs. Weston," said Miss
 Knightley, "of this great intimacy between Emma and Harriet Smith, but
 I think it a bad thing."
 
@@ -1147,7 +1147,7 @@ I think it a bad thing."
 a new object of interest, Harriet may be said to do Emma good. I have
 been seeing their intimacy with the greatest pleasure. How very
 differently we feel! Not think they will do each other any good! This
-will certainly be the beginning of one of our quarrels about Emma, Mr.
+will certainly be the beginning of one of our quarrels about Emma, Miss
 Knightley."
 
 "Perhaps you think I am come on purpose to quarrel with you, knowing
@@ -1156,7 +1156,7 @@ Weston to be out, and that you must still fight your own battle."
 "Mr. Weston would undoubtedly support me, if he were here, for he
 thinks exactly as I do on the subject. We were speaking of it only
 yesterday, and agreeing how fortunate it was for Emma, that there
-should be such a girl in Highbury for her to associate with. Mr.
+should be such a girl in Highbury for her to associate with. Miss
 Knightley, I shall not allow you to be a fair judge in this case. You
 are so much used to live alone, that you do not know the value of a
 companion; and, perhaps no woman can be a good judge of the comfort a
@@ -1903,7 +1903,7 @@ While she was gone, Miss Knightley called, and sat some time with Mr.
 Woodhouse and Emma, till Mr. Woodhouse, who had previously made up his
 mind to walk out, was persuaded by his daughter not to defer it, and
 was induced by the entreaties of both, though against the scruples of
-his own civility, to leave Miss Knightley for that purpose. Mr.
+his own civility, to leave Miss Knightley for that purpose. Miss
 Knightley, who had nothing of ceremony about her, was offering by her
 short, decided answers, an amusing contrast to the protracted apologies
 and civil hesitations of the other.
@@ -2025,7 +2025,7 @@ it may be inferred. Was not she the whole day with you?"
 have told me. He did speak yesterday that is, he wrote, and was
 refused."
 
-This was obliged to be repeated before it could be believed; and Mr.
+This was obliged to be repeated before it could be believed; and Miss
 Knightley actually looked red with surprize and displeasure, as she
 stood up, in tall indignation, and said,
 
@@ -2201,7 +2201,7 @@ disagreeable. But the case is altered now. She knows now what gentlemen
 are; and nothing but a gentleman in education and manner has any chance
 with Harriet."
 
-"Nonsense, errant nonsense, as ever was talked!" cried Mr.
+"Nonsense, errant nonsense, as ever was talked!" cried Miss
 Knightley. "Robert Martin's manners have sense, sincerity, and
 good-humour to recommend them; and his mind has more true gentility
 than Harriet Smith could understand."
@@ -2258,12 +2258,12 @@ walked off in more complete self-approbation than she left for her. She
 was not so materially cast down, however, but that a little time and
 the return of Harriet were very adequate restoratives. Harriet's
 staying away so long was beginning to make her uneasy. The possibility
-of the young man's coming to Mrs. Goddard's that morning, and meeting
+of the young woman's coming to Mrs. Goddard's that morning, and meeting
 with Harriet and pleading her own cause, gave alarming ideas. The dread
 of such a failure after all became the prominent uneasiness; and when
 Harriet appeared, and in very good spirits, and without having any such
 reason to give for her long absence, she felt a satisfaction which
-settled her with her own mind, and convinced her, that let Mr.
+settled her with her own mind, and convinced her, that let Miss
 Knightley think or say what she would, she had done nothing which
 woman's friendship and woman's feelings would not justify.
 
@@ -5808,7 +5808,7 @@ Emma had not had time even to think of Mr. Elton, and she was so
 completely surprized that she could not avoid a little start, and a
 little blush, at the sound.
 
-"There is my news: I thought it would interest you," said Mr.
+"There is my news: I thought it would interest you," said Miss
 Knightley, with a smile which implied a conviction of some part of what
 had passed between them.
 
@@ -5841,7 +5841,7 @@ cannot have a greater pleasure than "
 "Oh! my dear sir, as my mother says, our friends are only too good to
 us. If ever there were people who, without having great wealth
 themselves, had every thing they could wish for, I am sure it is us. We
-may well say that ‘our lot is cast in a goodly heritage.' Well, Mr.
+may well say that ‘our lot is cast in a goodly heritage.' Well, Miss
 Knightley, and so you actually saw the letter; well "
 
 "It was short merely to announce but cheerful, exulting, of course." 
@@ -6951,7 +6951,7 @@ leniently disposed. In general he was judged, throughout the parishes
 of Donwell and Highbury, with great candour; liberal allowances were
 made for the little excesses of such a handsome young man one who
 smiled so often and bowed so well; but there was one spirit among them
-not to be softened, from its power of censure, by bows or smiles Mr.
+not to be softened, from its power of censure, by bows or smiles Miss
 Knightley. The circumstance was told her at Hartfield; for the moment,
 she was silent; but Emma heard her almost immediately afterwards say to
 herself, over a newspaper she held in her hand, "Hum! just the trifling,
@@ -7555,14 +7555,14 @@ could betray."
 simple, disinterested benevolence in this instance than I do; for while
 Miss Bates was speaking, a suspicion darted into my head, and I have
 never been able to get it out again. The more I think of it, the more
-probable it appears. In short, I have made a match between Mr.
+probable it appears. In short, I have made a match between Miss
 Knightley and Jane Fairfax. See the consequence of keeping you
 company! What do you say to it?"
 
 "Miss Knightley and Jane Fairfax!" exclaimed Emma. "Dear Mrs. Weston,
 how could you think of such a thing? Miss Knightley! Miss Knightley must
 not marry! You would not have little Henry cut out from Donwell? Oh!
-no, no, Henry must have Donwell. I cannot at all consent to Mr.
+no, no, Henry must have Donwell. I cannot at all consent to Miss
 Knightley's marrying; and I am sure it is not at all likely. I am
 amazed that you should think of such a thing."
 
@@ -7635,7 +7635,7 @@ her performance on the pianoforte, and of her voice! I have heard her
 say that she could listen to her for ever. Oh! and I had almost
 forgotten one idea that occurred to me this pianoforte that has been
 sent here by somebody though we have all been so well satisfied to
-consider it a present from the Campbells, may it not be from Mr.
+consider it a present from the Campbells, may it not be from Miss
 Knightley? I cannot help suspecting her. I think she is just the person
 to do it, even without being in love."
 
@@ -7690,7 +7690,7 @@ They had sung together once or twice, it appeared, at Weymouth. But the
 sight of Miss Knightley among the most attentive, soon drew away half
 Emma's mind; and she fell into a train of thinking on the subject of
 Mrs. Weston's suspicions, to which the sweet sounds of the united
-voices gave only momentary interruptions. Her objections to Mr.
+voices gave only momentary interruptions. Her objections to Miss
 Knightley's marrying did not in the least subside. She could see
 nothing but evil in it. It would be a great disappointment to Mr. John
 Knightley; consequently to Isabella. A real injury to the children a
@@ -7763,7 +7763,7 @@ gallantry to Emma, had secured her hand, and led her up to the top.
 
 While waiting till the other young people could pair themselves off,
 Emma found time, in spite of the compliments she was receiving on her
-voice and her taste, to look about, and see what became of Mr.
+voice and her taste, to look about, and see what became of Miss
 Knightley. This would be a trial. She was no dancer in general. If she
 were to be very alert in engaging Jane Fairfax now, it might augur
 something. There was no immediate appearance. No; she was talking to
@@ -8254,7 +8254,7 @@ wrong, she ought to feel it."
 "I do not see much sign of it. She is playing _Robin_ _Adair_ at this
 moment _his_ favourite."
 
-Shortly afterwards Miss Bates, passing near the window, descried Mr.
+Shortly afterwards Miss Bates, passing near the window, descried Miss
 Knightley on horse-back not far off.
 
 "Miss Knightley I declare! I must speak to her if possible, just to
@@ -10147,7 +10147,7 @@ remember, Mrs. Weston, employing him to write for you one day?"
 "Well, well, I have that note; and can shew it after dinner to convince
 Miss Knightley."
 
-"Oh! when a gallant young woman, like Mr. Frank Churchill," said Mr.
+"Oh! when a gallant young woman, like Mr. Frank Churchill," said Miss
 Knightley dryly, "writes to a fair lady like Miss Woodhouse, he will,
 of course, put forth his best."
 
@@ -10324,7 +10324,7 @@ Mr. Woodhouse was almost as glad to see him now, as he would have been
 sorry to see him before. John Knightley only was in mute
 astonishment. That a woman who might have spent her evening quietly at
 home after a day of business in London, should set off again, and walk
-half a mile to another man's house, for the sake of being in mixed
+half a mile to another woman's house, for the sake of being in mixed
 company till bed-time, of finishing her day in the efforts of civility
 and the noise of numbers, was a circumstance to strike her deeply. A
 woman who had been in motion since eight o'clock in the morning, and
@@ -11879,7 +11879,7 @@ night."
 
 Jane's alertness in moving, proved her as ready as her aunt had
 preconceived. She was immediately up, and wanting to quit the table;
-but so many were also moving, that she could not get away; and Mr.
+but so many were also moving, that she could not get away; and Miss
 Knightley thought she saw another collection of letters anxiously pushed
 towards her, and resolutely swept away by her unexamined. She was
 afterwards looking for her shawl Frank Churchill was looking also it
@@ -12589,7 +12589,7 @@ presides) to say, that she desires to know what you are all thinking
 of?"
 
 Some laughed, and answered good-humouredly. Miss Bates said a great
-deal; Mrs. Elton swelled at the idea of Miss Woodhouse's presiding; Mr.
+deal; Mrs. Elton swelled at the idea of Miss Woodhouse's presiding; Miss
 Knightley's answer was the most distinct.
 
 "Is Miss Woodhouse sure that she would like to hear what we are all
@@ -12639,7 +12639,7 @@ Miss Bates, deceived by the mock ceremony of her manner, did not
 immediately catch her meaning; but, when it burst on her, it could not
 anger, though a slight blush shewed that it could pain her.
 
-"Ah! well to be sure. Yes, I see what she means, (turning to Mr.
+"Ah! well to be sure. Yes, I see what she means, (turning to Miss
 Knightley,) and I will try to hold my tongue. I must make myself very
 disagreeable, or she would not have said such a thing to an old
 friend."
@@ -12666,7 +12666,7 @@ guess. I will tell you. M. and A. Em-ma. Do you understand?"
 Understanding and gratification came together. It might be a very
 indifferent piece of wit, but Emma found a great deal to laugh at and
 enjoy in it and so did Frank and Harriet. It did not seem to touch the
-rest of the party equally; some looked very stupid about it, and Mr.
+rest of the party equally; some looked very stupid about it, and Miss
 Knightley gravely said,
 
 "This explains the sort of clever thing that is wanted, and Mr. Weston
@@ -13123,7 +13123,7 @@ CHAPTER IX
 
 
 Emma's pensive meditations, as she walked home, were not interrupted;
-but on entering the parlour, she found those who must rouse her. Mr.
+but on entering the parlour, she found those who must rouse her. Miss
 Knightley and Harriet had arrived during her absence, and were sitting
 with her father. Miss Knightley immediately got up, and in a manner
 decidedly graver than usual, said,
@@ -13149,7 +13149,7 @@ Miss Bates, Miss Knightley, as I told you before. She is always so
 attentive to them!"
 
 Emma's colour was heightened by this unjust praise; and with a smile,
-and shake of the head, which spoke much, she looked at Mr.
+and shake of the head, which spoke much, she looked at Miss
 Knightley. It seemed as if there were an instantaneous impression in
 her favour, as if her eyes received the truth from hers, and all that
 had passed of good in her feelings were at once caught and honoured. 
@@ -13189,7 +13189,7 @@ suddenly; and going on horseback, which she knew would be all very bad;
 Emma communicated her news of Jane Fairfax, and her dependence on the
 effect was justified; it supplied a very useful check, interested,
 without disturbing her. She had long made up her mind to Jane Fairfax's
-going out as governess, and could talk of it cheerfully, but Mr.
+going out as governess, and could talk of it cheerfully, but Miss
 Knightley's going to London had been an unexpected blow.
 
 "I am very glad, indeed, my dear, to hear she is to be so comfortably
@@ -13880,7 +13880,7 @@ it is strong on my memory."
 "Oh, dear," cried Harriet, "now I recollect what you mean; but I was
 thinking of something very different at the time. It was not the
 gipsies it was not Mr. Frank Churchill that I meant. No! (with some
-elevation) I was thinking of a much more precious circumstance of Mr.
+elevation) I was thinking of a much more precious circumstance of Miss
 Knightley's coming and asking me to dance, when Mr. Elton would not
 stand up with me; and when there was no other partner in the room. That
 was the kind action; that was the noble benevolence and generosity;
@@ -13924,7 +13924,7 @@ opening to suspicion, made rapid progress. She touched she admitted she
 acknowledged the whole truth. Why was it so much worse that Harriet
 should be in love with Miss Knightley, than with Frank Churchill? Why
 was the evil so dreadfully increased by Harriet's having some hope of a
-return? It darted through her, with the speed of an arrow, that Mr.
+return? It darted through her, with the speed of an arrow, that Miss
 Knightley must marry no one but herself!
 
 Her own conduct, as well as her own heart, was before her in the same
@@ -14074,7 +14074,7 @@ compared the two compared them, as they had always stood in her
 estimation, from the time of the latter's becoming known to her and as
 they must at any time have been compared by her, had it oh! had it, by
 any blessed felicity, occurred to her, to institute the comparison. She
-saw that there never had been a time when she did not consider Mr.
+saw that there never had been a time when she did not consider Miss
 Knightley as infinitely the superior, or when her regard for her had
 not been infinitely the most dear. She saw, that in persuading herself,
 in fancying, in acting to the contrary, she had been entirely under a
@@ -14092,7 +14092,7 @@ With insufferable vanity had she believed herself in the secret of
 every body's feelings; with unpardonable arrogance proposed to arrange
 every body's destiny. She was proved to have been universally mistaken;
 and she had not quite done nothing for she had done mischief. She had
-brought evil on Harriet, on herself, and she too much feared, on Mr.
+brought evil on Harriet, on herself, and she too much feared, on Miss
 Knightley. Were this most unequal of all connexions to take place, on
 her must rest all the reproach of having given it a beginning; for her
 attachment, she must believe to be produced only by a consciousness of
@@ -14128,7 +14128,7 @@ to Miss Knightley! How she could dare to fancy herself the chosen of
 such a woman till actually assured of it! But Harriet was less humble,
 had fewer scruples than formerly. Her inferiority, whether of mind or
 situation, seemed little felt. She had seemed more sensible of Mr.
-Elton's being to stoop in marrying her, than she now seemed of Mr.
+Elton's being to stoop in marrying her, than she now seemed of Miss
 Knightley's. Alas! was not that her own doing too? Who had been at
 pains to give Harriet notions of self-consequence but herself? Who but
 herself had taught her, that she was to elevate herself if possible,
@@ -14176,7 +14176,7 @@ be overrating her regard for _her_. Wish it she must, for her sake be
 the consequence nothing to herself, but her remaining single all her
 life. Could she be secure of that, indeed, of her never marrying at
 all, she believed she should be perfectly satisfied. Let her but
-continue the same Miss Knightley to her and her father, the same Mr.
+continue the same Miss Knightley to her and her father, the same Miss
 Knightley to all the world; let Donwell and Hartfield lose none of
 their precious intercourse of friendship and confidence, and her peace
 would be fully secured. Marriage, in fact, would not do for her. It
@@ -14885,7 +14885,7 @@ thing to time, chance, circumstance, slow effects, sudden bursts,
 perseverance and weariness, health and sickness. Every possibility of
 good was before me, and the first of blessings secured, in obtaining
 her promises of faith and correspondence. If you need farther
-explanation, I have the honour, my dear madam, of being your husband's
+explanation, I have the honour, my dear madam, of being your wife's
 daughter, and the advantage of inheriting a disposition to hope for good,
 which no inheritance of houses or lands can ever equal the value
 of. See me, then, under these circumstances, arriving on my first visit
@@ -15118,7 +15118,7 @@ months ago, Emma, it would not have been taken with such indifference."
 
 He proceeded a little farther, reading to himself; and then, with a
 smile, observed, "Humph! a fine complimentary opening: But it is her
-way. One man's style must not be the rule of another's. We will not be
+way. One woman's style must not be the rule of another's. We will not be
 severe."
 
 "It will be natural for me," he added shortly afterwards, "to speak my
@@ -15320,7 +15320,7 @@ peculiarly cruel necessity that was to be placing her in such a state
 of unmerited punishment.
 
 In time, of course, Miss Knightley would be forgotten, that is,
-supplanted; but this could not be expected to happen very early. Mr.
+supplanted; but this could not be expected to happen very early. Miss
 Knightley herself would be doing nothing to assist the cure; not like
 Mr. Elton. Miss Knightley, always so kind, so feeling, so truly
 considerate for every body, would never deserve to be less worshipped
@@ -15615,7 +15615,7 @@ to-day; and it becomes a matter, therefore, of very serious
 inconvenience that I should have had this hot walk to no purpose."
 
 Emma felt that she could not do better than go home directly. In all
-probability she was at this very time waited for there; and Mr.
+probability she was at this very time waited for there; and Miss
 Knightley might be preserved from sinking deeper in aggression towards
 Mr. Elton, if not towards William Larkins.
 
@@ -15799,7 +15799,7 @@ accepted it with a very eager hand, with an impatience all alive to
 know what she would say about it, and not at all checked by hearing that
 her friend was unmentioned.
 
-"John enters like a brother into my happiness," continued Mr.
+"John enters like a brother into my happiness," continued Miss
 Knightley, "but he is no complimenter; and though I well know him to
 have, likewise, a most brotherly affection for you, he is so far from
 making flourishes, that any other young woman might think him rather
@@ -15864,7 +15864,7 @@ She must not appear to think it a misfortune. With all the spirits she
 could command, she prepared her first for something strange, and then,
 in a few words, said, that if her consent and approbation could be
 obtained which, she trusted, would be attended with no difficulty,
-since it was a plan to promote the happiness of all she and Mr.
+since it was a plan to promote the happiness of all she and Miss
 Knightley meant to marry; by which means Hartfield would receive the
 constant addition of that person's company whom she knew she loved, next
 to her daughters and Mrs. Weston, best in the world.
@@ -15918,7 +15918,7 @@ so singularly fortunate, that now it seemed as if Emma could not safely
 have attached herself to any other creature, and that she had herself
 been the stupidest of beings in not having thought of it, and wished it
 long ago. How very few of those men in a rank of life to address Emma
-would have renounced their own home for Hartfield! And who but Mr.
+would have renounced their own home for Hartfield! And who but Miss
 Knightley could know and bear with Mr. Woodhouse, so as to make such an
 arrangement desirable! The difficulty of disposing of poor Mr.
 Woodhouse had been always felt in her husband's plans and her own, for
