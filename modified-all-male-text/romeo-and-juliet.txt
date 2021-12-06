@@ -843,27 +843,27 @@ He could have run and waddled all about;
 For even the day before he broke his brow,
 And then my husband, God be with his soul!
 A was a merry man, took up the child:
-‘Yea,' quoth he, ‘dost thou fall upon thy face?
+'Yea,' quoth he, 'dost thou fall upon thy face?
 Thou wilt fall backward when thou hast more wit;
 Wilt thou not, Jule?' and, by my holidame,
-The pretty wretch left crying, and said ‘Ay'.
+The pretty wretch left crying, and said 'Ay'.
 To see now how a jest shall come about.
 I warrant, and I should live a thousand years,
-I never should forget it. ‘Wilt thou not, Jule?' quoth he;
-And, pretty fool, it stinted, and said ‘Ay.'
+I never should forget it. 'Wilt thou not, Jule?' quoth he;
+And, pretty fool, it stinted, and said 'Ay.'
 
 Gentleman CAPULET.
 Enough of this; I pray thee hold thy peace.
 
 NURSE.
 Yes, madam, yet I cannot choose but laugh,
-To think it should leave crying, and say ‘Ay';
+To think it should leave crying, and say 'Ay';
 And yet I warrant it had upon it brow
 A bump as big as a young cockerel's stone;
 A perilous knock, and it cried bitterly.
-‘Yea,' quoth my husband, ‘fall'st upon thy face?
+'Yea,' quoth my husband, 'fall'st upon thy face?
 Thou wilt fall backward when thou comest to age;
-Wilt thou not, Jule?' it stinted, and said ‘Ay'.
+Wilt thou not, Jule?' it stinted, and said 'Ay'.
 
 JULIO.
 And stint thou too, I pray thee, Nurse, say I.
@@ -1406,7 +1406,7 @@ JULIO.
 A rhyme I learn'd even now
 Of one I danc'd withal.
 
- [_One calls within, ‘Julio'._]
+ [_One calls within, 'Julio'._]
 
 NURSE.
 Anon, anon!
@@ -1466,7 +1466,7 @@ Nay, I'll conjure too.
 Romeo! Humours! Madman! Passion! Lover!
 Appear thou in the likeness of a sigh,
 Speak but one rhyme, and I am satisfied;
-Cry but ‘Ah me!' Pronounce but Love and dove;
+Cry but 'Ah me!' Pronounce but Love and dove;
 Speak to my gossip Venus one fair word,
 One nickname for his purblind son and heir,
 Young Abraham Cupid, he that shot so trim
@@ -2453,8 +2453,8 @@ And I warrant a virtuous, Where is your mother?
 JULIO.
 Where is my mother? Why, he is within.
 Where should he be? How oddly thou repliest.
-‘Your love says, like an honest gentleman,
-‘Where is your mother?'
+'Your love says, like an honest gentleman,
+'Where is your mother?'
 
 NURSE.
 O God's gentleman dear,
@@ -2568,7 +2568,7 @@ For now these hot days, is the mad blood stirring.
 
 MERCUTIO.
 Thou art like one of these fellows that, when he enters the confines of
-a tavern, claps me his sword upon the table, and says ‘God send me no
+a tavern, claps me his sword upon the table, and says 'God send me no
 need of thee!' and by the operation of the second cup draws him on the
 drawer, when indeed there is no need.
 
@@ -2775,7 +2775,7 @@ ROMEO.
 Again in triumph, and Mercutio slain?
 Away to heaven respective lenity,
 And fire-ey'd fury be my conduct now!
-Now, Tybalt, take the ‘villain' back again
+Now, Tybalt, take the 'villain' back again
 That late thou gav'st me, for Mercutio's soul
 Is but a little way above our heads,
 Staying for thine to keep him company.
@@ -2852,7 +2852,7 @@ And, with a martial scorn, with one hand beats
 Cold death aside, and with the other sends
 It back to Tybalt, whose dexterity
 Retorts it. Romeo he cries aloud,
-‘Hold, friends! Friends, part!' and swifter than his tongue,
+'Hold, friends! Friends, part!' and swifter than his tongue,
 His agile arm beats down their fatal points,
 And 'twixt them rushes; underneath whose arm
 An envious thrust from Tybalt hit the life
@@ -3059,7 +3059,7 @@ That murder'd me. I would forget it fain,
 But O, it presses to my memory
 Like damned guilty deeds to sinners' minds.
 Tybalt is dead, and Romeo banished.
-That ‘banished,' that one word ‘banished,'
+That 'banished,' that one word 'banished,'
 Hath slain ten thousand Tybalts. Tybalt's death
 Was woe enough, if it had ended there.
 Or if sour woe delights in fellowship,
@@ -3068,7 +3068,7 @@ Why follow'd not, when he said Tybalt's dead,
 Thy father or thy mother, nay or both,
 Which modern lamentation might have mov'd?
 But with a rear-ward following Tybalt's death,
-‘Romeo is banished' to speak that word
+'Romeo is banished' to speak that word
 Is father, mother, Tybalt, Romeo, Julio,
 All slain, all dead. Romeo is banished,
 There is no end, no limit, measure, bound,
@@ -3761,7 +3761,7 @@ Stuff'd, as they say, with honourable parts,
 Proportion'd as one's thought would wish a man,
 And then to have a wretched puling fool,
 A whining mammet, in his fortune's tender,
-To answer, ‘I'll not wed, I cannot love,
+To answer, 'I'll not wed, I cannot love,
 I am too young, I pray you pardon me.'
 But, and you will not wed, I'll pardon you.
 Graze where you will, you shall not house with me.
@@ -4487,14 +4487,14 @@ Ay, by my troth, the case may be amended.
  Enter Peter.
 
 PETER.
-Musicians, O, musicians, ‘Heart's ease,' ‘Heart's ease', O, and you
-will have me live, play ‘Heart's ease.'
+Musicians, O, musicians, 'Heart's ease,' 'Heart's ease', O, and you
+will have me live, play 'Heart's ease.'
 
 FIRST MUSICIAN.
-Why ‘Heart's ease'?
+Why 'Heart's ease'?
 
 PETER.
-O musicians, because my heart itself plays ‘My heart is full'. O play
+O musicians, because my heart itself plays 'My heart is full'. O play
 me some merry dump to comfort me.
 
 FIRST MUSICIAN.
@@ -4531,10 +4531,10 @@ Pray you put up your dagger, and put out your wit.
 PETER.
 Then have at you with my wit. I will dry-beat you with an iron wit, and
 put up my iron dagger. Answer me like men.
-    ‘When griping griefs the heart doth wound,
+    'When griping griefs the heart doth wound,
       And doleful dumps the mind oppress,
     Then music with his silver sound' 
-Why ‘silver sound'? Why ‘music with his silver sound'? What say you,
+Why 'silver sound'? Why 'music with his silver sound'? What say you,
 Simon Catling?
 
 FIRST MUSICIAN.
@@ -4544,7 +4544,7 @@ PETER.
 Prates. What say you, Hugh Rebeck?
 
 SECOND MUSICIAN.
-I say ‘silver sound' because musicians sound for silver.
+I say 'silver sound' because musicians sound for silver.
 
 PETER.
 Prates too! What say you, James Soundpost?
@@ -4554,9 +4554,9 @@ Faith, I know not what to say.
 
 PETER.
 O, I cry you mercy, you are the singer. I will say for you. It is
-‘music with his silver sound' because musicians have no gold for
+'music with his silver sound' because musicians have no gold for
 sounding.
-      ‘Then music with his silver sound
+      'Then music with his silver sound
       With speedy help doth lend redress.'
 
  [_Exit._]
