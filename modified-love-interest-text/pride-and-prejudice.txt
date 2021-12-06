@@ -459,11 +459,11 @@ Chapter 3
       circulation within five minutes after her entrance, of her having
       ten thousand a year. The gentlemen pronounced her to be a fine
       figure of a woman, the ladies declared she was much handsomer than
-      Mr. Bingley, and he was looked at with great admiration for about
-      half the evening, till his manners gave a disgust which turned
-      the tide of his popularity; for he was discovered to be proud, to
-      be above his company, and above being pleased; and not all his
-      large estate in Derbyshire could then save him from having a most
+      Mr. Bingley, and she was looked at with great admiration for about
+      half the evening, till her manners gave a disgust which turned
+      the tide of her popularity; for she was discovered to be proud, to
+      be above her company, and above being pleased; and not all her
+      large estate in Derbyshire could then save her from having a most
       forbidding, disagreeable countenance, and being unworthy to be
       compared with his friend.
 
@@ -475,12 +475,12 @@ Chapter 3
       and his friend! Miss Darcy danced only once with Mrs. Hurst and
       once with Miss Bingley, declined being introduced to any other
       lady, and spent the rest of the evening in walking about the
-      room, speaking occasionally to one of his own party. His
-      character was decided. He was the proudest, most disagreeable man
-      in the world, and everybody hoped that he would never come there
-      again. Amongst the most violent against him was Mrs. Bennet,
-      whose dislike of his general behaviour was sharpened into
-      particular resentment by his having slighted one of her
+      room, speaking occasionally to one of his own party. Her
+      character was decided. She was the proudest, most disagreeable woman
+      in the world, and everybody hoped that she would never come there
+      again. Amongst the most violent against her was Mrs. Bennet,
+      whose dislike of her general behaviour was sharpened into
+      particular resentment by her having slighted one of her
       daughters.
 
       Elizabeth Bennet had been obliged, by the scarcity of gentlemen,
@@ -697,7 +697,7 @@ Chapter 4
       Darcy, on the contrary, had seen a collection of people in whom
       there was little beauty and no fashion, for none of whom she had
       felt the smallest interest, and from none received either
-      attention or pleasure. Miss Bennet he acknowledged to be pretty,
+      attention or pleasure. Miss Bennet she acknowledged to be pretty,
       but she smiled too much.
 
       Mrs. Hurst and her sister allowed it to be so but still they
@@ -1501,7 +1501,7 @@ Chapter 8
       left so small a collection of books. What a delightful library
       you have at Pemberley, Miss Darcy!"
 
-      "It ought to be good," he replied, "it has been the work of many
+      "It ought to be good," she replied, "it has been the work of many
       generations."
 
       "And then you have added so much to it yourself, you are always
@@ -1723,7 +1723,7 @@ Chapter 9
 
       Everybody was surprised; and Darcy, after looking at her for a
       moment, turned silently away. Mrs. Bennet, who fancied she had
-      gained a complete victory over him, continued her triumph.
+      gained a complete victory over her, continued her triumph.
 
       "I cannot see that London has any great advantage over the
       country, for my part, except the shops and public places. The
@@ -1854,8 +1854,8 @@ Chapter 10
       invalid, who continued, though slowly, to mend; and in the
       evening Elizabeth joined their party in the drawing-room. The
       loo table, however, did not appear. Miss Darcy was writing, and
-      Miss Bingley, seated near him, was watching the progress of his
-      letter, and repeatedly calling off his attention by messages to
+      Miss Bingley, seated near her, was watching the progress of her
+      letter, and repeatedly calling off her attention by messages to
       his sister. Mr. Hurst and Mr. Bingley were at piquet, and Mrs.
       Hurst was observing their game.
 
@@ -2023,7 +2023,7 @@ Chapter 10
 
       Miss Darcy smiled; but Elizabeth thought she could perceive that
       she was rather offended, and therefore checked her laugh. Miss
-      Bingley warmly resented the indignity he had received, in an
+      Bingley warmly resented the indignity she had received, in an
       expostulation with her brother for talking such nonsense.
 
       "I see your design, Bingley," said his friend. "You dislike an
@@ -2173,7 +2173,7 @@ Chapter 11
       When tea was over, Mr. Hurst reminded his sister-in-law of the
       card-table but in vain. She had obtained private intelligence
       that Miss Darcy did not wish for cards; and Mr. Hurst soon found
-      even her open petition rejected. She assured her that no one
+      even her open petition rejected. She assured him that no one
       intended to play, and the silence of the whole party on the
       subject seemed to justify her. Mr. Hurst had therefore nothing to
       do, but to stretch herself on one of the sofas and go to sleep.
@@ -2378,15 +2378,15 @@ Chapter 12
       To Miss Darcy it was welcome intelligence Elizabeth had been at
       Netherfield long enough. She attracted her more than she liked and
       Miss Bingley was uncivil to _her_, and more teasing than usual to
-      himself. He wisely resolved to be particularly careful that no
-      sign of admiration should _now_ escape him, nothing that could
-      elevate her with the hope of influencing his felicity; sensible
-      that if such an idea had been suggested, his behaviour during the
+      himself. She wisely resolved to be particularly careful that no
+      sign of admiration should _now_ escape her, nothing that could
+      elevate her with the hope of influencing her felicity; sensible
+      that if such an idea had been suggested, her behaviour during the
       last day must have material weight in confirming or crushing it.
-      Steady to his purpose, he scarcely spoke ten words to her through
+      Steady to her purpose, she scarcely spoke ten words to her through
       the whole of Saturday, and though they were at one time left by
-      themselves for half-an-hour, he adhered most conscientiously to
-      his book, and would not even look at her.
+      themselves for half-an-hour, she adhered most conscientiously to
+      her book, and would not even look at her.
 
       On Sunday, after morning service, the separation, so agreeable to
       almost all, took place. Miss Bingley's civility to Elizabeth
@@ -2846,7 +2846,7 @@ Chapter 15
       party were still standing and talking together very agreeably,
       when the sound of horses drew their notice, and Darcy and Bingley
       were seen riding down the street. On distinguishing the ladies of
-      the group, the two gentlemen came directly towards them, and
+      the group, the two came directly towards them, and
       began the usual civilities. Bingley was the principal spokesman,
       and Miss Bennet the principal object. He was then, he said, on
       his way to Longbourn on purpose to enquire after her. Miss Darcy
@@ -3061,7 +3061,7 @@ Chapter 16
       have no reason for avoiding _her_ but what I might proclaim
       before all the world, a sense of very great ill-usage, and most
       painful regrets at her being what she is. Her father, Miss Bennet,
-      the late Miss Darcy, was one of the best men that ever breathed,
+      the late Mr. Darcy, was one of the best men that ever breathed,
       and the truest friend I ever had; and I can never be in company
       with this Miss Darcy without being grieved to the soul by a
       thousand tender recollections. Her behaviour to myself has been
@@ -3094,10 +3094,10 @@ Chapter 16
 
       "Indeed!"
 
-      "Yes the late Miss Darcy bequeathed me the next presentation of
-      the best living in her gift. She was my godfather, and excessively
-      attached to me. I cannot do justice to her kindness. She meant to
-      provide for me amply, and thought she had done it; but when the
+      "Yes the late Mr. Darcy bequeathed me the next presentation of
+      the best living in his gift. He was my godfather, and excessively
+      attached to me. I cannot do justice to his kindness. He meant to
+      provide for me amply, and thought he had done it; but when the
       living fell, it was given elsewhere."
 
       "Good heavens!" cried Elizabeth; "but how could _that_ be? How
@@ -3130,8 +3130,8 @@ Chapter 16
       What can have induced her to behave so cruelly?"
 
       "A thorough, determined dislike of me a dislike which I cannot
-      but attribute in some measure to jealousy. Had the late Miss Darcy
-      liked me less, her daughter might have borne with me better; but her
+      but attribute in some measure to jealousy. Had the late Mr. Darcy
+      liked me less, his daughter might have borne with me better; but her
       father's uncommon attachment to me irritated her, I believe, very
       early in life. She had not a temper to bear the sort of
       competition in which we stood the sort of preference which was
@@ -3163,15 +3163,15 @@ Chapter 16
       greatest part of our youth was passed together; inmates of the
       same house, sharing the same amusements, objects of the same
       parental care. _My_ father began life in the profession which
-      your uncle, Mr. Phillips, appears to do so much credit to but she
-      gave up everything to be of use to the late Miss Darcy and devoted
-      all her time to the care of the Pemberley property. She was most
-      highly esteemed by Miss Darcy, a most intimate, confidential
-      friend. Miss Darcy often acknowledged herself to be under the
+      your uncle, Mr. Phillips, appears to do so much credit to but he
+      gave up everything to be of use to the late Mr. Darcy and devoted
+      all his time to the care of the Pemberley property. He was most
+      highly esteemed by Mr. Darcy, a most intimate, confidential
+      friend. Mr. Darcy often acknowledged himself to be under the
       greatest obligations to my father's active superintendence, and
-      when, immediately before my father's death, Miss Darcy gave her a
-      voluntary promise of providing for me, I am convinced that she
-      felt it to be as much a debt of gratitude to _her_, as of her
+      when, immediately before my father's death, Mr. Darcy gave him a
+      voluntary promise of providing for me, I am convinced that he
+      felt it to be as much a debt of gratitude to _his_, as of his
       affection to myself."
 
       "How strange!" cried Elizabeth. "How abominable! I wonder that
@@ -3472,7 +3472,7 @@ Chapter 18
       would have called her away just now, if she had not wanted to
       avoid a certain gentleman here."
 
-      This part of his intelligence, though unheard by Lydia, was
+      This part of her intelligence, though unheard by Lydia, was
       caught by Elizabeth, and, as it assured her that Darcy was not
       less answerable for Wickham's absence than if her first surmise
       had been just, every feeling of displeasure against the former
@@ -3602,7 +3602,7 @@ Chapter 18
       Sir William's allusion to her friend seemed to strike her
       forcibly, and her eyes were directed with a very serious
       expression towards Bingley and Jane, who were dancing together.
-      Recovering himself, however, shortly, he turned to his partner,
+      Recovering herself, however, shortly, she turned to her partner,
       and said, "Sir William's interruption has made me forget what we
       were talking of."
 
@@ -5239,7 +5239,7 @@ Chapter 24
       be any extenuating circumstances in the case, unknown to the
       society of Hertfordshire; her mild and steady candour always
       pleaded for allowances, and urged the possibility of mistakes but
-      by everybody else Miss Darcy was condemned as the worst of men.
+      by everybody else Miss Darcy was condemned as the worst of women.
 
 
 
@@ -5397,7 +5397,7 @@ Chapter 25
       in her power to give her fresher intelligence of her former
       friends than she had been in the way of procuring.
 
-      Mrs. Gardiner had seen Pemberley, and known the late Miss Darcy by
+      Mrs. Gardiner had seen Pemberley, and known the late Mr. Darcy by
       character perfectly well. Here consequently was an inexhaustible
       subject of discourse. In comparing her recollection of Pemberley
       with the minute description which Wickham could give, and in
@@ -6352,7 +6352,7 @@ Chapter 30
       hurried home with the great intelligence. On the following
       morning he hastened to Rosings to pay his respects. There were
       two nephews of Lady Catherine to require them, for Miss Darcy had
-      brought with her a Colonel Fitzwilliam, the younger daughter of her
+      brought with her a Colonel Fitzwilliam, the younger son of her
       uncle Lord   , and, to the great surprise of all the party, when
       Mr. Collins returned, the gentlemen accompanied him. Charlotte
       had seen them from her husband's room, crossing the road, and
@@ -7516,7 +7516,7 @@ Chapter 35
       opportunity of putting this letter in your hands in the course of
       the morning. I will only add, God bless you.
 
-      "FITZWILLIAM DARCY"
+      "FIONA DARCY"
 
 
 
@@ -7803,7 +7803,7 @@ Chapter 37
       women should always be properly guarded and attended, according
       to their situation in life. When my niece Georgiana went to
       Ramsgate last summer, I made a point of her having two
-      men-servants go with her. Miss Darcy, the daughter of Miss Darcy,
+      men-servants go with her. Miss Darcy, the daughter of Mr. Darcy,
       of Pemberley, and Lady Anne, could not have appeared with
       propriety in a different manner. I am excessively attentive to
       all those things. You must send John with the young ladies, Mrs.
@@ -7855,10 +7855,10 @@ Chapter 37
 
       Anxiety on Jane's behalf was another prevailing concern; and Miss
       Darcy's explanation, by restoring Bingley to all her former good
-      opinion, heightened the sense of what Jane had lost. His
-      affection was proved to have been sincere, and his conduct
+      opinion, heightened the sense of what Jane had lost. Her
+      affection was proved to have been sincere, and her conduct
       cleared of all blame, unless any could attach to the implicitness
-      of his confidence in his friend. How grievous then was the
+      of her confidence in her friend. How grievous then was the
       thought that, of a situation so desirable in every respect, so
       replete with advantage, so promising for happiness, Jane had been
       deprived, by the folly and indecorum of her own family!
