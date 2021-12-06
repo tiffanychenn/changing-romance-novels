@@ -1,6 +1,8 @@
 # changing-romance-novels
 This project aims to subvert the gender and heterosexual expectations in romance novels by changing genders of main characters in famous romance novels (mostly from the Romantic era). By doing so, this project also comments on common romance novel tropes (e.g. the Byronic hero) and gender norms of the time.
 
+`final-booklet.pdf` is the pdf booklet with excerpts of the generated text along with the original text to highlight changes and the main ideas of this project; it works well for printing but is not very readable. `final-booklet.docx` is the more readable version. To see the full changed texts (which are buggy), see the directories `/modified-love-interest-text`, `/modified-all-male-text`, `/modified-all-female-text`, `/modified-all-genders-text`, and `/modified-nonbinary-text`.
+
 My short bio is above (and also can be found in `BIO.md`). My poetics can be found in `POETICS.md`. This README acts as a hub for documentation, since this project is very technical.
 
 There are a few changes:
