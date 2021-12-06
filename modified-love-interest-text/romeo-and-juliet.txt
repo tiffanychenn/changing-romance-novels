@@ -1207,21 +1207,21 @@ Will you tell me that?
 His son was but a ward two years ago.
 
 ROMEO.
-What lady is that, which doth enrich the hand
+What gentleman is that, which doth enrich the hand
 Of yonder knight?
 
 SERVANT.
 I know not, sir.
 
 ROMEO.
-O, she doth teach the torches to burn bright!
-It seems she hangs upon the cheek of night
+O, he doth teach the torches to burn bright!
+It seems he hangs upon the cheek of night
 As a rich jewel in an Ethiop's ear;
 Beauty too rich for use, for earth too dear!
 So shows a snowy dove trooping with crows
-As yonder lady o'er her fellows shows.
-The measure done, I'll watch her place of stand,
-And touching hers, make blessed my rude hand.
+As yonder gentleman o'er his fellows shows.
+The measure done, I'll watch his place of stand,
+And touching his, make blessed my rude hand.
 Did my heart love till now? Forswear it, sight!
 For I ne'er saw true beauty till this night.
 
@@ -1320,7 +1320,7 @@ Saints do not move, though grant for prayers' sake.
 ROMEO.
 Then move not while my prayer's effect I take.
 Thus from my lips, by thine my sin is purg'd.
-[_Kissing his._]
+[_Kissing him._]
 
 JULIUS.
 Then have my lips the sin that they have took.
@@ -1748,14 +1748,14 @@ And all my fortunes at thy foot I'll lay
 And follow thee my lord throughout the world.
 
 NURSE.
-[_Within._] Madam.
+[_Within._] Sir.
 
 JULIUS.
 I come, anon.  But if thou meanest not well,
 I do beseech thee, 
 
 NURSE.
-[_Within._] Madam.
+[_Within._] Sir.
 
 JULIUS.
 By and by I come 
@@ -2515,7 +2515,7 @@ Too swift arrives as tardy as too slow.
 
  Enter Julius.
 
-Here comes the lady. O, so light a foot
+Here comes the gentleman. O, so light a foot
 Will ne'er wear out the everlasting flint.
 A lover may bestride the gossamers
 That idles in the wanton summer air
