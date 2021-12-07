@@ -108,14 +108,14 @@ def change_gender(filename, other_characters, original_name, character_name, cha
         textfile = open("modified-love-interest-text/" + filename + '.txt', "w")
         textfile.write(new_text)
         
-# change_gender(pride_and_prejudice, set(["Bennet", "Bingley", "Wickham", "Collins", "Gardiner"]), "Darcy", "Mr. Darcy", "Miss Darcy", True, False, ["Mr. Fitzwilliam"], ["Miss Fiona"])
-# change_gender(jane_eyre, set(["Lloyd", "Brocklehurst", "Mason", "Leaven", "Rivers", "Oliver", "Reed"]), "Rochester", "Mr. Rochester", "Miss Rochester", True, False, ["Edward"], ["Edna"])
-# change_gender(anna_karenina, set(["Alexandrovitch", "Stiva", "Levin", "Sergey", "Philip", "Mihail", "Oblonsky", "Seryozha", "Arkadyevitch", "Stepan"]), "Vronsky", "Count Vronsky", "Countess Vronsky", True, False, ["Count Alexey Kirillovitch Vronsky", "Alexey Vronsky", "Count Alexey Kirillovitch", "Alexey Kirillovitch"], ["Countess Olesia Kirillovitcha Vronsky", "Olesia Vronsky", "Countess Olesia Kirillovitcha", "Olesia Kirillovitcha"])
-# change_gender(persuasion, set(["Elliot", "Musgrove", "Croft", "Benwick", "Harville"]), "Wentworth", "Mr Wentworth", "Miss Wentworth", True, False, ["Frederick"], ["Freya"])
-# change_gender(emma, set(["Churchill", "Martin", "Elton", "Weston", "Woodhouse", "John"]), "Knightley", "Mr. Knightley", "Miss Knightley", True, False)
-# change_gender(sense_and_sensibility, set(["Ferrars", "Brandon", "Dashwood", "Middleton", "Palmer", "Harris", "Pratt"]), "Willoughby", "Mr. Willoughby", "Miss Willoughby", True, False, ["John Willoughby"], ["Jane Willoughby"])
+change_gender(pride_and_prejudice, set(["Bennet", "Bingley", "Wickham", "Collins", "Gardiner"]), "Darcy", "Mr. Darcy", "Miss Darcy", True, False, ["Mr. Fitzwilliam"], ["Miss Fiona"])
+change_gender(jane_eyre, set(["Lloyd", "Brocklehurst", "Mason", "Leaven", "Rivers", "Oliver", "Reed"]), "Rochester", "Mr. Rochester", "Miss Rochester", True, False, ["Edward"], ["Edna"])
+change_gender(anna_karenina, set(["Alexandrovitch", "Stiva", "Levin", "Sergey", "Philip", "Mihail", "Oblonsky", "Seryozha", "Arkadyevitch", "Stepan"]), "Vronsky", "Count Vronsky", "Countess Vronsky", True, False, ["Count Alexey Kirillovitch Vronsky", "Alexey Vronsky", "Count Alexey Kirillovitch", "Alexey Kirillovitch"], ["Countess Olesia Kirillovitcha Vronsky", "Olesia Vronsky", "Countess Olesia Kirillovitcha", "Olesia Kirillovitcha"])
+change_gender(persuasion, set(["Elliot", "Musgrove", "Croft", "Benwick", "Harville"]), "Wentworth", "Mr Wentworth", "Miss Wentworth", True, False, ["Frederick"], ["Freya"])
+change_gender(emma, set(["Churchill", "Martin", "Elton", "Weston", "Woodhouse", "John"]), "Knightley", "Mr. Knightley", "Miss Knightley", True, False)
+change_gender(sense_and_sensibility, set(["Ferrars", "Brandon", "Dashwood", "Middleton", "Palmer", "Harris", "Pratt"]), "Willoughby", "Mr. Willoughby", "Miss Willoughby", True, False, ["John Willoughby"], ["Jane Willoughby"])
 change_gender(wuthering_heights, set(["Nelly", "Isabella", "Frances", "Zillah"]), "Charles", "Catherine", "Charles", False, False, ["Miss Charles", "Miss Cathy", "Cathy"], ["Mr. Charles", "Mr. Charlie", "Charlie"])
-# change_gender(romeo_and_juliet, set(["Rosaline", "Lady", "Mab", "Nurse"]), "Julius", "Juliet", "Julius", False, True, [], [], {"CAPULET": set(["daughter", "daughter's"])})
+change_gender(romeo_and_juliet, set(["Rosaline", "Lady", "Mab", "Nurse"]), "Julius", "Juliet", "Julius", False, True, [], [], {"CAPULET": set(["daughter", "daughter's"])})
 
 """
 Changes all genders
