@@ -32,6 +32,7 @@ Found bugs:
 - nicknames are very hard to do with the current way that my project is parsing names.
 - her can correspond to his and him
 - also currently only supplied sets of names when the character list was relatively short, so the name changes for these titles when changing genders are probably better
+- exclamations don't work well: "Nelly, help me tell him!" for example
 
 Resources:
 - Project Gutenberg, for the stories
